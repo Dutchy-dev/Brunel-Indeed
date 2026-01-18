@@ -1,0 +1,1428 @@
+Job;Standard;Country;State/Region;City;Impressions;Clicks;Apply starts;Applies;Cost per click (CPC);Cost per apply start (CPAS);Cost per apply (CPA);Clickthrough rate (CTR);Apply completion rate (ACR);Apply start rate (ASR);Apply rate (AR);Spend;Last updated;Created;;;Functietitel;Gestandaardiseerde titel
+Accountmanager;Accountmanager;Netherlands;Utrecht (provincie);Amersfoort;543;51;1;0;0.22;11.22;0;0.093923;0;0.019608;0;11.22;22-5-2025;16-5-2025;;;.NET Developer;
+Accountmanager;Accountmanager;Netherlands;Utrecht (provincie);Amersfoort;291;26;0;0;0;0;0;0.089347;0;0;0;0;22-5-2025;16-5-2025;;;Accountmanager Detachering;
+Accountmanager;Accountmanager;Netherlands;Utrecht (provincie);Amersfoort;223;29;2;0;0.27620689655172415;4.005;0;0.130045;0;0.068966;0;8.01;22-5-2025;16-5-2025;;;Agile Coach;
+Traineeship Technische Bedrijfskunde;Bedrijfsbeheerder;Netherlands;Overijssel;Steenwijk;72;4;0;0;0;0;0;0.055556;0;0;0;0;22-5-2025;6-5-2025;;;Assistent uitvoerder civiel;
+Traineeship Technische Bedrijfskunde;Bedrijfsbeheerder;Netherlands;Noord-Holland;Schagen;74;6;0;0;0;0;0;0.081081;0;0;0;0;22-5-2025;6-5-2025;;;Business Analyst;
+Traineeship Technische Bedrijfskunde;Bedrijfsbeheerder;Netherlands;Overijssel;Ommen;196;6;1;0;0.6783333333333333;4.07;0;0.030612;0;0.166667;0;4.07;22-5-2025;6-5-2025;;;Consultant Finance;
+Traineeship Technische Bedrijfskunde;Bedrijfsbeheerder;Netherlands;Groningen (provincie);Groningen;381;20;1;0;0.20099999999999998;4.02;0;0.052493;0;0.05;0;4.02;22-5-2025;6-5-2025;;;Corporate Banking & Lending Traineeship Amersfoort;
+Traineeship Technische Bedrijfskunde;Bedrijfsbeheerder;Netherlands;Friesland;Drachten;94;5;1;0;19.420.000.000.000.000;9.71;0;0.053191;0;0.2;0;9.71;22-5-2025;6-5-2025;;;E&I Technician;
+Traineeship Technische Bedrijfskunde;Bedrijfsbeheerder;Netherlands;Overijssel;Oldenzaal;174;8;3;0;1.395;3.72;0;0.045977;0;0.375;0;11.16;22-5-2025;6-5-2025;;;Embedded Software Engineer (Automotive);
+Traineeship Technische Bedrijfskunde;Bedrijfsbeheerder;Netherlands;Overijssel;Zwolle;129;4;0;0;0;0;0;0.031008;0;0;0;0;22-5-2025;6-5-2025;;;Financial Controller Brunel;
+Traineeship Technische Bedrijfskunde;Bedrijfsbeheerder;Netherlands;Drenthe;Assen;114;4;0;0;0;0;0;0.035088;0;0;0;0;22-5-2025;6-5-2025;;;Functioneel Beheerder;
+Traineeship Technische Bedrijfskunde;Bedrijfsbeheerder;Netherlands;Groningen (provincie);Marum;142;5;0;0;0;0;0;0.035211;0;0;0;0;22-5-2025;6-5-2025;;;Industriâle Automatisering Traineeship;
+Traineeship Technische Bedrijfskunde;Bedrijfsbeheerder;Netherlands;Groningen (provincie);Marum;196;7;1;0;23.728.571.428.571.400;16.61;0;0.035714;0;0.142857;0;16.61;22-5-2025;6-5-2025;;;International Recruiter;
+Traineeship Technische Bedrijfskunde;Bedrijfsbeheerder;Netherlands;Drenthe;Meppel;219;11;2;0;38.245.454.545.454.500;21.035;0;0.050228;0;0.181818;0;42.07;22-5-2025;6-5-2025;;;Java Developer (Spring Boot);
+Traineeship Technische Bedrijfskunde;Bedrijfsbeheerder;Netherlands;Groningen (provincie);Bedum;89;5;0;0;0;0;0;0.05618;0;0;0;0;22-5-2025;6-5-2025;;;Junior Java Engineer;
+Traineeship Technische Bedrijfskunde;Bedrijfsbeheerder;Netherlands;Friesland;Wolvega;51;5;0;0;0;0;0;0.098039;0;0;0;0;22-5-2025;6-5-2025;;;Junior Java Engineer;
+Traineeship Technische Bedrijfskunde;Bedrijfsbeheerder;Netherlands;Groningen (provincie);Zuidhorn;140;4;0;0;0;0;0;0.028571;0;0;0;0;22-5-2025;6-5-2025;;;Junior Project Engineer;
+Traineeship Technische Bedrijfskunde;Bedrijfsbeheerder;Netherlands;Friesland;Workum;276;11;1;0;11.354.545.454.545.400;12.49;0;0.039855;0;0.090909;0;12.49;22-5-2025;6-5-2025;;;Jurist Arbeidsrecht;
+Traineeship Technische Bedrijfskunde;Bedrijfsbeheerder;Netherlands;Drenthe;Emmen;212;8;0;0;0;0;0;0.037736;0;0;0;0;22-5-2025;7-5-2025;;;Jurist Bezwaar en Beroep bij de Rijksoverheid;
+Traineeship Technische Bedrijfskunde;Bedrijfsbeheerder;Netherlands;Drenthe;Hoogeveen;137;4;0;0;0;0;0;0.029197;0;0;0;0;22-5-2025;12-5-2025;;;Jurist Letselschade Achmea;
+Traineeship Technische Bedrijfskunde;Bedrijfsbeheerder;Netherlands;Overijssel;Balkbrug;224;13;0;0;0;0;0;0.058036;0;0;0;0;22-5-2025;16-5-2025;;;Jurist Rechtsbijstand (Junior);
+Traineeship Technische Bedrijfskunde;Bedrijfsbeheerder;Netherlands;Noord-Holland;Lutjewinkel;215;19;1;0;0.4957894736842105;9.42;0;0.088372;0;0.052632;0;9.42;19-6-2025;2-6-2025;;;Jurist Rechtsbijstand (medior);
+Traineeship Technische Bedrijfskunde;Bedrijfsbeheerder;Netherlands;Friesland;Workum;191;10;0;0;0;0;0;0.052356;0;0;0;0;19-6-2025;2-6-2025;;;Lab Technician;
+Traineeship Technische Bedrijfskunde;Bedrijfsbeheerder;Netherlands;Drenthe;Beilen;196;12;1;0;0.9116666666666666;10.94;0;0.061224;0;0.083333;0;10.94;19-6-2025;2-6-2025;;;Mechanical / R&D Engineer;
+Traineeship Technische Bedrijfskunde;Bedrijfsbeheerder;Netherlands;Friesland;Leeuwarden;342;21;0;0;0;0;0;0.061404;0;0;0;0;19-6-2025;2-6-2025;;;Mechanical Engineer ? Machinebouw;
+Traineeship Technische Bedrijfskunde;Bedrijfsbeheerder;Netherlands;Drenthe;Meppel;133;4;0;0;0;0;0;0.030075;0;0;0;0;19-6-2025;16-6-2025;;;Medewerker ICT-Servicedesk;
+Traineeship Technische Bedrijfskunde;Bedrijfsbeheerder;Netherlands;Groningen (provincie);Zuidhorn;100;4;1;0;0.7375;2.95;0;0.04;0;0.25;0;2.95;19-6-2025;16-6-2025;;;Operations Officer;
+Traineeship Technische Bedrijfskunde;Bedrijfsbeheerder;Netherlands;Friesland;Drachten;202;5;0;0;0;0;0;0.024752;0;0;0;0;19-6-2025;16-6-2025;;;Overheidsjurist Omgevingsrecht;
+Traineeship Technische Bedrijfskunde;Bedrijfsbeheerder;Netherlands;Noord-Holland;Schagen;105;6;2;0;28.000.000.000.000.000;8.4;0;0.057143;0;0.333333;0;16.8;19-6-2025;16-6-2025;;;Privacy Officer;
+Traineeship Technische Bedrijfskunde;Bedrijfsbeheerder;Netherlands;Overijssel;Balkbrug;71;5;1;0;0.564;2.82;0;0.070423;0;0.2;0;2.82;19-6-2025;16-6-2025;;;Project Control & Scheduling Manager;
+Traineeship Technische Bedrijfskunde;Bedrijfsbeheerder;Netherlands;Groningen (provincie);Bedum;105;6;0;0;0;0;0;0.057143;0;0;0;0;19-6-2025;16-6-2025;;;Project Engineer Offshore Wind;
+Traineeship Technische Bedrijfskunde;Bedrijfsbeheerder;Netherlands;Drenthe;Emmen;122;5;0;0;0;0;0;0.040984;0;0;0;0;19-6-2025;16-6-2025;;;Project Management Officer (PMO);
+Traineeship Technische Bedrijfskunde;Bedrijfsbeheerder;Netherlands;Friesland;Workum;80;6;0;0;0;0;0;0.075;0;0;0;0;19-6-2025;16-6-2025;;;Projectmanager IT;
+Traineeship Technische Bedrijfskunde;Bedrijfsbeheerder;Netherlands;Drenthe;Hoogeveen;62;5;0;0;0;0;0;0.080645;0;0;0;0;19-6-2025;16-6-2025;;;Projectmanager IT Infra;
+Traineeship Technische Bedrijfskunde;Bedrijfsbeheerder;Netherlands;Drenthe;Assen;154;5;0;0;0;0;0;0.032468;0;0;0;0;19-6-2025;16-6-2025;;;Python developer, Senior - 80% Remote;
+Traineeship Technische Bedrijfskunde;Bedrijfsbeheerder;Netherlands;Overijssel;Balkbrug;96;4;1;0;4.99;19.96;0;0.041667;0;0.25;0;19.96;19-6-2025;16-6-2025;;;Senior .Net Azure Developer;
+Traineeship Technische Bedrijfskunde;Bedrijfsbeheerder;Netherlands;Groningen (provincie);Marum;102;6;0;0;0;0;0;0.058824;0;0;0;0;19-6-2025;16-6-2025;;;Senior Legal Counsel;
+Traineeship Technische Bedrijfskunde;Bedrijfsbeheerder;Netherlands;Friesland;Wolvega;88;7;1;0;15.528.571.428.571.400;10.87;0;0.079545;0;0.142857;0;10.87;19-6-2025;16-6-2025;;;Teamlead FEC CDD Higher Risk Customers RDT;
+Traineeship Technische Bedrijfskunde;Bedrijfsbeheerder;Netherlands;Overijssel;Zwolle;9;0;0;0;0;0;0;0;0;0;0;0;16-6-2025;16-6-2025;;;Traineeship Maintenance Engineer - Food;
+Traineeship Technische Bedrijfskunde;Bedrijfsbeheerder;Netherlands;Groningen (provincie);Groningen;158;6;1;0;0.375;2.25;0;0.037975;0;0.166667;0;2.25;19-6-2025;16-6-2025;;;Traineeship Overheidsjurist;
+Traineeship Technische Bedrijfskunde;Bedrijfsbeheerder;Netherlands;Overijssel;Balkbrug;70;4;0;0;0;0;0;0.057143;0;0;0;0;19-6-2025;16-6-2025;;;Wabo Jurist;
+Bouwkundig Civiel Engineer;Civiel ingenieur;Netherlands;Gelderland;Arnhem;135;6;0;0;0;0;0;0.044444;0;0;0;0;22-5-2025;16-5-2025;;;Junior Financial Accountant;Accountant
+Bouwkundig Civiel Engineer;Civiel ingenieur;Netherlands;Gelderland;Arnhem;144;6;1;0;12.866.666.666.666.600;7.72;0;0.041667;0;0.166667;0;7.72;27-6-2025;16-6-2025;;;Junior Financial Accountant;Accountant
+Medior Werkvoorbereider Civiele Techniek;Civiele techniek;Netherlands;Zuid-Holland;Delft;68;0;0;0;0;0;0;0;0;0;0;0;22-5-2025;6-2-2025;;;Junior Financial Controller;Accountant
+Medior Werkvoorbereider Civiele Techniek;Civiele techniek;Netherlands;Utrecht (provincie);Utrecht;70;0;0;0;0;0;0;0;0;0;0;0;22-5-2025;6-2-2025;;;Medior Financial Accountant;Accountant
+Projectorganisator Civiele Techniek;Civiele techniek;Netherlands;Zuid-Holland;Delft;41;0;0;0;0;0;0;0;0;0;0;0;22-5-2025;6-2-2025;;;Medior Financial Accountant;Accountant
+Projectorganisator Civiele Techniek;Civiele techniek;Netherlands;Utrecht (provincie);Utrecht;33;1;1;0;33.07;33.07;0;0.030303;0;1;0;33.07;22-5-2025;6-2-2025;;;Senior Financial Accountant;Accountant
+Projectorganisator Civiele Techniek;Civiele techniek;Netherlands;Noord-Holland;Amsterdam;47;4;0;0;0;0;0;0.085106;0;0;0;0;19-6-2025;3-6-2025;;;Senior Financial Accountant;Accountant
+Junior Uitvoerder Bouwkunde;Constructiesupervisor;Netherlands;Zuid-Holland;Delft;123;5;0;0;0;0;0;0.04065;0;0;0;0;22-5-2025;6-2-2025;;;Senior Financial Accountant;Accountant
+Junior Uitvoerder Bouwkunde;Constructiesupervisor;Netherlands;Zuid-Holland;Delft;110;7;1;0;3.011.428.571.428.570;21.08;0;0.063636;0;0.142857;0;21.08;19-6-2025;3-6-2025;;;Account Manager;Accountmanager
+Junior Uitvoerder Civiele Techniek;Constructiesupervisor;Netherlands;Zuid-Holland;Delft;43;2;0;0;0;0;0;0.046512;0;0;0;0;22-5-2025;6-2-2025;;;Account Manager;Accountmanager
+Junior Uitvoerder Civiele Techniek;Constructiesupervisor;Netherlands;Zuid-Holland;Delft;33;5;1;0;1.794;8.97;0;0.151515;0;0.2;0;8.97;19-6-2025;3-6-2025;;;Account Manager;Accountmanager
+Medior Uitvoerder Civiele Techniek;Constructiesupervisor;Netherlands;Zuid-Holland;Delft;11;0;0;0;0;0;0;0;0;0;0;0;22-5-2025;6-2-2025;;;Accountmanager;Accountmanager
+Senior Uitvoerder Bouwkunde;Constructiesupervisor;Netherlands;Zuid-Holland;Delft;56;0;0;0;0;0;0;0;0;0;0;0;22-5-2025;6-2-2025;;;Accountmanager;Accountmanager
+Senior Uitvoerder Bouwkunde;Constructiesupervisor;Netherlands;Zuid-Holland;Delft;45;1;0;0;0;0;0;0.022222;0;0;0;0;19-6-2025;3-6-2025;;;Accountmanager;Accountmanager
+Senior Uitvoerder Civiele Techniek;Constructiesupervisor;Netherlands;Zuid-Holland;Delft;11;1;0;0;0;0;0;0.090909;0;0;0;0;22-5-2025;6-2-2025;;;Accountmanager;Accountmanager
+Uitvoerder Bouwkunde;Constructiesupervisor;Netherlands;Zuid-Holland;Delft;70;3;0;0;0;0;0;0.042857;0;0;0;0;22-5-2025;6-2-2025;;;Accountmanager;Accountmanager
+Uitvoerder Bouwkunde;Constructiesupervisor;Netherlands;Zuid-Holland;Delft;50;3;0;0;0;0;0;0.06;0;0;0;0;19-6-2025;3-6-2025;;;Accountmanager;Accountmanager
+Contractbeheerder;Contractbeheerder;Netherlands;Gelderland;Wageningen;184;16;1;0;0.7175;11.48;0;0.086957;0;0.0625;0;11.48;24-10-2025;15-10-2025;;;Accountmanager;Accountmanager
+Projectcoîrdinator;Coîrdinator bedrijfsvoering;Netherlands;Noord-Holland;;119;14;0;0;0;0;0;0.117647;0;0;0;0;17-9-2025;17-9-2025;;;Accountmanager;Accountmanager
+FPGA Design Engineer;Designingenieur;Netherlands;Noord-Brabant;Eindhoven;299;27;1;0;0.3648148148148148;9.85;0;0.090301;0;0.037037;0;9.85;22-5-2025;16-5-2025;;;Accountmanager;Accountmanager
+FPGA Design Engineer;Designingenieur;Netherlands;Noord-Brabant;Eindhoven;318;20;2;0;0.28450000000000003;2.845;0;0.062893;0;0.1;0;5.69;22-5-2025;16-5-2025;;;Accountmanager;Accountmanager
+FPGA Design Engineer;Designingenieur;Netherlands;Noord-Brabant;Eindhoven;425;26;1;0;0.29653846153846153;7.71;0;0.061176;0;0.038462;0;7.71;22-5-2025;16-5-2025;;;Accountmanager;Accountmanager
+FPGA Design Engineer;Designingenieur;Netherlands;Noord-Brabant;Eindhoven;457;30;2;0;0.453;6.795;0;0.065646;0;0.066667;0;13.59;22-5-2025;16-5-2025;;;Administratief Medewerker Amersfoort;Administratief medewerker
+Electrical Engineer;Elektrisch ingenieur;Netherlands;Overijssel;Enschede;106;12;1;0;12.225;14.67;0;0.113208;0;0.083333;0;14.67;22-5-2025;30-4-2025;;;Financieel Administratief Medewerker;Administratief medewerker
+Electrical Engineer;Elektrisch ingenieur;Netherlands;Gelderland;Lochem;161;11;1;0;1.018.181.818.181.810;11.2;0;0.068323;0;0.090909;0;11.2;19-6-2025;18-6-2025;;;Financieel Administratief Medewerker;Administratief medewerker
+Electrical Engineer;Elektrisch ingenieur;Netherlands;Noord-Brabant;Boxmeer;62;8;0;0;0;0;0;0.129032;0;0;0;0;8-8-2025;30-7-2025;;;Financieel Administratief Medewerker;Administratief medewerker
+Electrical Engineer;Elektrisch ingenieur;Netherlands;Overijssel;Hengelo OV;31;7;0;0;0;0;0;0.225806;0;0;0;0;6-9-2025;7-8-2025;;;Financieel Administratief Medewerker;Administratief medewerker
+Electrical Engineer;Elektrisch ingenieur;Netherlands;Overijssel;Hengelo OV;55;8;1;0;4.515;36.12;0;0.145455;0;0.125;0;36.12;9-9-2025;9-9-2025;;;Adviseur Wonen Centraal;Adviseur
+Electrical Engineer;Elektrisch ingenieur;Netherlands;Gelderland;Wijchen;100;14;1;0;0.7028571428571428;9.84;0;0.14;0;0.071429;0;9.84;1-10-2025;10-9-2025;;;Adviseur Wonen Centraal;Adviseur
+Electrical engineer;Elektrisch ingenieur;Netherlands;;;110;6;0;0;0;0;0;0.054545;0;0;0;0;14-9-2025;15-8-2025;;;Handhavingsjurist HBO;Advocaat
+Firmware Engineer;Firmware-ingenieur;Netherlands;Overijssel;Enschede;397;35;4;0;0.19485714285714287;1.705;0;0.088161;0;0.114286;0;6.82;22-5-2025;21-5-2025;;;Junior Bezwaarjurist - Den Haag;Advocaat
+Senior Maintenance Engineer E&I;Hoofd Onderhoudsingenieur;Netherlands;Zuid-Holland;Rotterdam;114;8;1;0;0.43375;3.47;0;0.070175;0;0.125;0;3.47;22-5-2025;28-1-2025;;;Junior Bezwaarjurist - Utrecht;Advocaat
+HSE Manager;HSE-manager;Netherlands;Drenthe;Hoogeveen;250;20;1;0;0.6025;12.05;0;0.08;0;0.05;0;12.05;19-6-2025;19-6-2025;;;Junior Bezwaarjurist - Utrecht;Advocaat
+OT Engineer;Ingenieur;Netherlands;Drenthe;Wijster;95;2;0;0;0;0;0;0.021053;0;0;0;0;22-5-2025;15-5-2025;;;Junior Bezwaarjurist - Utrecht - Wo;Advocaat
+OT Engineer;Ingenieur;Netherlands;Gelderland;Borculo;319;20;1;0;0.355;7.1;0;0.062696;0;0.05;0;7.1;22-5-2025;21-5-2025;;;Junior Bezwaarjurist - Utrecht - Wo;Advocaat
+OT Engineer;Ingenieur;Netherlands;Drenthe;Wijster;44;4;0;0;0;0;0;0.090909;0;0;0;0;29-5-2025;28-5-2025;;;Junior Jurist Woo bij de Rijksoverheid;Advocaat
+OT Engineer;Ingenieur;Netherlands;Gelderland;Borculo;131;10;0;0;0;0;0;0.076336;0;0;0;0;28-6-2025;23-6-2025;;;Jurist Beroep;Advocaat
+Automation Engineer;Ingenieur automatisering;Netherlands;Drenthe;Wijster;76;9;0;0;0;0;0;0.118421;0;0;0;0;22-5-2025;15-5-2025;;;Jurist Bestuursrecht;Advocaat
+Automation Engineer;Ingenieur automatisering;Netherlands;Drenthe;Wijster;22;5;0;0;0;0;0;0.227273;0;0;0;0;29-5-2025;29-5-2025;;;Jurist Bestuursrecht;Advocaat
+Automation Engineer;Ingenieur automatisering;Netherlands;Zuid-Holland;Leiden;9;0;0;0;0;0;0;0;0;0;0;0;13-6-2025;13-6-2025;;;Jurist Bestuursrecht;Advocaat
+Automation Engineer;Ingenieur automatisering;Netherlands;Drenthe;Wijster;45;4;1;0;1.295;5.18;0;0.088889;0;0.25;0;5.18;28-6-2025;25-6-2025;;;Jurist Bestuursrecht;Advocaat
+Automation Engineer;Ingenieur automatisering;Netherlands;Drenthe;Wijster;16;4;0;0;0;0;0;0.25;0;0;0;0;28-6-2025;25-6-2025;;;Jurist Bestuursrecht;Advocaat
+Automation Engineer;Ingenieur automatisering;Netherlands;Gelderland;Lochem;16;3;0;0;0;0;0;0.1875;0;0;0;0;24-9-2025;25-8-2025;;;Jurist Bezwaar & Beroep Medior WO;Advocaat
+Reliability Engineer;Ingenieur betrouwbaarheid;Netherlands;Friesland;Drachten;157;9;1;0;19.304.444.444.444.400;173.74;0;0.057325;0;0.111111;0;173.74;22-5-2025;15-5-2025;;;Jurist Bezwaar & Beroep Omgevingsrecht HBO Medior;Advocaat
+Junior PLC Engineer - Maritiem / Industrie;Junior ingenieur;Netherlands;Gelderland;Nijmegen;131;6;0;0;0;0;0;0.045802;0;0;0;0;19-6-2025;19-6-2025;;;Jurist Bezwaar & Beroep Omgevingsrecht HBO Senior;Advocaat
+Junior Werkvoorbereider Bouwkunde;Junior Planner;Netherlands;Zuid-Holland;Delft;73;3;0;0;0;0;0;0.041096;0;0;0;0;22-5-2025;6-2-2025;;;Jurist Bezwaar & Beroep Omgevingsrecht WO Junior;Advocaat
+Junior Werkvoorbereider bouwkunde;Junior Planner;Netherlands;Zuid-Holland;Delft;94;3;1;0;0;0;0;0.031915;0;0.333333;0;0;22-5-2025;6-2-2025;;;Jurist Bezwaar & Beroep Omgevingswet HBO Junior;Advocaat
+Junior Werkvoorbereider Civiele Techniek;Junior Planner;Netherlands;Utrecht (provincie);Utrecht;48;3;1;0;6.373.333.333.333.330;19.12;0;0.0625;0;0.333333;0;19.12;22-5-2025;6-2-2025;;;Jurist Bezwaar en Beroep bij de Rijksoverheid;Advocaat
+Junior Werkvoorbereider Civiele Techniek;Junior Planner;Netherlands;Zuid-Holland;Delft;45;3;1;0;33.333.333.333.333.300;10;0;0.066667;0;0.333333;0;10;22-5-2025;6-2-2025;;;Jurist Bouwrecht;Advocaat
+Werkvoorbereider Utiliteit Junior;Junior Planner;Netherlands;Noord-Holland;Amsterdam;83;5;0;0;0;0;0;0.060241;0;0;0;0;22-5-2025;15-1-2025;;;Jurist Contractenrecht;Advocaat
+Junior Project Engineer Utiliteit elektrotechniek;Junior Projectingenieur;Netherlands;Noord-Holland;Amsterdam;49;4;0;0;0;0;0;0.081633;0;0;0;0;22-5-2025;15-1-2025;;;Jurist Contractenrecht;Advocaat
+Junior Project Engineer Utiliteit elektrotechniek;Junior Projectingenieur;Netherlands;Utrecht (provincie);Utrecht;90;3;2;0;13.64;20.46;0;0.033333;0;0.666667;0;40.92;22-5-2025;15-1-2025;;;Jurist Contractenrecht;Advocaat
+Junior Project Engineer Utiliteit Werktuigbouwkundig;Junior Projectingenieur;Netherlands;Zuid-Holland;Rotterdam;70;9;0;0;0;0;0;0.128571;0;0;0;0;22-5-2025;15-1-2025;;;Jurist Contractenrecht;Advocaat
+Junior Project Engineer Utiliteit Werktuigbouwkundig;Junior Projectingenieur;Netherlands;Noord-Holland;Amsterdam;115;7;0;0;0;0;0;0.06087;0;0;0;0;22-5-2025;15-1-2025;;;Jurist Erfpacht;Advocaat
+Junior Project Engineer Utiliteit Werktuigbouwkundig;Junior Projectingenieur;Netherlands;Utrecht (provincie);Utrecht;108;6;0;0;0;0;0;0.055556;0;0;0;0;22-5-2025;15-1-2025;;;Jurist handhaving;Advocaat
+Site Quality Manager;Kwaliteitsmanager Locatie;Netherlands;Zuid-Holland;Rotterdam;401;59;4;0;0.5147457627118643;7.592.499.999.999.990;0;0.147132;0;0.067797;0;30.369.999.999.999.900;1-10-2025;16-9-2025;;;Jurist handhaving;Advocaat
+Team Manager;Manager;Netherlands;Overijssel;Hengelo OV;477;79;1;0;0.18379746835443037;14.52;0;0.165618;0;0.012658;0;14.52;28-6-2025;26-6-2025;;;Jurist handhaving;Advocaat
+Teammanager Engineering;Manager techniek;Netherlands;Utrecht (provincie);Utrecht;173;21;1;0;0.61;12.81;0;0.121387;0;0.047619;0;12.81;11-6-2025;6-6-2025;;;Jurist handhaving;Advocaat
+Teammanager Engineering;Manager techniek;Netherlands;Noord-Brabant;Den Bosch;463;48;0;0;0;0;0;0.103672;0;0;0;0;11-6-2025;6-6-2025;;;Jurist handhaving;Advocaat
+Monteur Schadeherstel;Monteur;Netherlands;Drenthe;Meppel;38;2;0;0;0;0;0;0.052632;0;0;0;0;14-9-2025;15-8-2025;;;Jurist Letselschade (medior) - HBO - Utrecht;Advocaat
+Monteur Schadeherstel;Monteur;Netherlands;Drenthe;Meppel;15;1;0;0;0;0;0;0.066667;0;0;0;0;24-10-2025;24-9-2025;;;Jurist Letselschade (medior) - HBO - Utrecht;Advocaat
+Maintenance Engineer;Onderhoudsingenieur;Netherlands;Groningen (provincie);Marum;40;4;0;0;0;0;0;0.1;0;0;0;0;22-5-2025;30-4-2025;;;Jurist Letselschade (medior) - HBO - Utrecht;Advocaat
+Maintenance Engineer;Onderhoudsingenieur;Netherlands;Groningen (provincie);Bedum;72;3;0;0;0;0;0;0.041667;0;0;0;0;22-5-2025;30-4-2025;;;Jurist Letselschade (medior) - HBO - Utrecht;Advocaat
+Maintenance Engineer;Onderhoudsingenieur;Netherlands;Friesland;Workum;48;3;0;0;0;0;0;0.0625;0;0;0;0;22-5-2025;30-4-2025;;;Jurist Letselschade Achmea;Advocaat
+Maintenance Engineer;Onderhoudsingenieur;Netherlands;Friesland;Wolvega;61;4;0;0;0;0;0;0.065574;0;0;0;0;22-5-2025;30-4-2025;;;Jurist Letselschade medior;Advocaat
+Maintenance Engineer;Onderhoudsingenieur;Netherlands;Drenthe;Assen;71;3;0;0;0;0;0;0.042254;0;0;0;0;22-5-2025;30-4-2025;;;Jurist Letselschade medior;Advocaat
+Maintenance Engineer;Onderhoudsingenieur;Netherlands;Drenthe;Meppel;41;2;1;0;10.51;21.02;0;0.04878;0;0.5;0;21.02;22-5-2025;30-4-2025;;;Jurist Milieu;Advocaat
+Maintenance Engineer;Onderhoudsingenieur;Netherlands;Drenthe;Assen;56;5;1;0;4.988;24.94;0;0.089286;0;0.2;0;24.94;22-5-2025;6-5-2025;;;Jurist Milieu;Advocaat
+Maintenance Engineer;Onderhoudsingenieur;Netherlands;Friesland;Drachten;12;2;0;0;0;0;0;0.166667;0;0;0;0;22-5-2025;6-5-2025;;;Jurist Milieu;Advocaat
+Maintenance Engineer;Onderhoudsingenieur;Netherlands;Drenthe;Meppel;27;2;0;0;0;0;0;0.074074;0;0;0;0;22-5-2025;6-5-2025;;;Jurist Milieu;Advocaat
+Maintenance Engineer;Onderhoudsingenieur;Netherlands;Groningen (provincie);Marum;55;4;1;0;2.445;9.78;0;0.072727;0;0.25;0;9.78;22-5-2025;6-5-2025;;;Jurist Milieu;Advocaat
+Maintenance Engineer;Onderhoudsingenieur;Netherlands;Drenthe;Emmen;74;3;0;0;0;0;0;0.040541;0;0;0;0;22-5-2025;6-5-2025;;;Jurist Milieu;Advocaat
+Maintenance Engineer;Onderhoudsingenieur;Netherlands;Friesland;Workum;25;3;0;0;0;0;0;0.12;0;0;0;0;22-5-2025;6-5-2025;;;Jurist Milieu;Advocaat
+Maintenance Engineer;Onderhoudsingenieur;Netherlands;Groningen (provincie);Groningen;139;7;0;0;0;0;0;0.05036;0;0;0;0;22-5-2025;6-5-2025;;;Jurist Milieu;Advocaat
+Maintenance Engineer;Onderhoudsingenieur;Netherlands;Overijssel;Oldenzaal;77;9;0;0;0;0;0;0.116883;0;0;0;0;22-5-2025;6-5-2025;;;Jurist Omgevingsrecht;Advocaat
+Maintenance Engineer;Onderhoudsingenieur;Netherlands;Drenthe;Emmen;117;4;0;0;0;0;0;0.034188;0;0;0;0;22-5-2025;6-5-2025;;;Jurist Omgevingsrecht;Advocaat
+Maintenance Engineer;Onderhoudsingenieur;Netherlands;Overijssel;Steenwijk;35;3;0;0;0;0;0;0.085714;0;0;0;0;22-5-2025;6-5-2025;;;Jurist Rechtsbijstand;Advocaat
+Maintenance Engineer;Onderhoudsingenieur;Netherlands;Overijssel;Zwolle;133;10;0;0;0;0;0;0.075188;0;0;0;0;22-5-2025;6-5-2025;;;Jurist Rijksoverheid;Advocaat
+Maintenance Engineer;Onderhoudsingenieur;Netherlands;Noord-Holland;Schagen;74;4;0;0;0;0;0;0.054054;0;0;0;0;22-5-2025;6-5-2025;;;Jurist Rijksoverheid;Advocaat
+Maintenance Engineer;Onderhoudsingenieur;Netherlands;Friesland;Wolvega;41;2;0;0;0;0;0;0.04878;0;0;0;0;22-5-2025;6-5-2025;;;Jurist Sociaal Domein;Advocaat
+Maintenance Engineer;Onderhoudsingenieur;Netherlands;Groningen (provincie);Bedum;25;3;0;0;0;0;0;0.12;0;0;0;0;22-5-2025;6-5-2025;;;Jurist Sociaal Domein;Advocaat
+Maintenance Engineer;Onderhoudsingenieur;Netherlands;Overijssel;Ommen;53;4;0;0;0;0;0;0.075472;0;0;0;0;22-5-2025;6-5-2025;;;Jurist Sociaal Domein;Advocaat
+Maintenance Engineer;Onderhoudsingenieur;Netherlands;Overijssel;Deventer;57;4;0;0;0;0;0;0.070175;0;0;0;0;22-5-2025;6-5-2025;;;Jurist Vergunningen;Advocaat
+Maintenance Engineer;Onderhoudsingenieur;Netherlands;Overijssel;Oldenzaal;6;0;0;0;0;0;0;0;0;0;0;0;22-5-2025;7-5-2025;;;Jurist Vergunningen;Advocaat
+Maintenance Engineer;Onderhoudsingenieur;Netherlands;Flevoland;Emmeloord;26;5;0;0;0;0;0;0.192308;0;0;0;0;22-5-2025;7-5-2025;;;Jurist Vergunningen;Advocaat
+Maintenance Engineer;Onderhoudsingenieur;Netherlands;Friesland;Leeuwarden;109;9;2;0;19.633.333.333.333.300;8.834.999.999.999.990;0;0.082569;0;0.222222;0;17.669.999.999.999.900;22-5-2025;7-5-2025;;;Jurist Vergunningen;Advocaat
+Maintenance Engineer;Onderhoudsingenieur;Netherlands;Groningen (provincie);Delfzijl;59;4;0;0;0;0;0;0.067797;0;0;0;0;22-5-2025;7-5-2025;;;Jurist Woo;Advocaat
+Maintenance Engineer;Onderhoudsingenieur;Netherlands;Drenthe;Hoogeveen;48;4;1;0;61.025;24.41;0;0.083333;0;0.25;0;24.41;22-5-2025;7-5-2025;;;Jurist Woo bij de Rijksoverheid;Advocaat
+Maintenance Engineer;Onderhoudsingenieur;Netherlands;Drenthe;Coevorden;144;6;0;0;0;0;0;0.041667;0;0;0;0;22-5-2025;7-5-2025;;;Jurist Woo bij de Rijksoverheid;Advocaat
+Maintenance Engineer;Onderhoudsingenieur;Netherlands;Groningen (provincie);Groningen;167;8;0;0;0;0;0;0.047904;0;0;0;0;22-5-2025;7-5-2025;;;Jurist Woo bij de Rijksoverheid;Advocaat
+Maintenance Engineer;Onderhoudsingenieur;Netherlands;Drenthe;Emmen;37;2;0;0;0;0;0;0.054054;0;0;0;0;22-5-2025;13-5-2025;;;Jurist Woo bij de Rijksoverheid;Advocaat
+Maintenance Engineer;Onderhoudsingenieur;Netherlands;Friesland;Joure;42;3;0;0;0;0;0;0.071429;0;0;0;0;22-5-2025;14-5-2025;;;Jurist Woo bij de Rijksoverheid;Advocaat
+Maintenance Engineer;Onderhoudsingenieur;Netherlands;Friesland;Drachten;169;6;1;0;2.521.666.666.666.660;15.13;0;0.035503;0;0.166667;0;15.13;22-5-2025;20-5-2025;;;Jurist Woo bij de Rijksoverheid;Advocaat
+Maintenance Engineer;Onderhoudsingenieur;Netherlands;Overijssel;Oldenzaal;132;11;1;0;1.518.181.818.181.810;16.7;0;0.083333;0;0.090909;0;16.7;22-5-2025;20-5-2025;;;Jurist Woo bij de Rijksoverheid;Advocaat
+Maintenance Engineer;Onderhoudsingenieur;Netherlands;Overijssel;Hengelo OV;241;14;0;0;0;0;0;0.058091;0;0;0;0;22-5-2025;20-5-2025;;;Jurist Woo bij de Rijksoverheid;Advocaat
+Maintenance Engineer;Onderhoudsingenieur;Netherlands;Overijssel;Deventer;67;5;0;0;0;0;0;0.074627;0;0;0;0;19-6-2025;2-6-2025;;;Jurist Woo bij de Rijksoverheid;Advocaat
+Maintenance Engineer;Onderhoudsingenieur;Netherlands;Drenthe;Beilen;83;5;0;0;0;0;0;0.060241;0;0;0;0;19-6-2025;2-6-2025;;;Jurist Woo bij de Rijksoverheid;Advocaat
+Maintenance Engineer;Onderhoudsingenieur;Netherlands;Groningen (provincie);Groningen;130;12;2;0;10.899.999.999.999.900;6.539.999.999.999.990;0;0.092308;0;0.166667;0;13.079.999.999.999.900;19-6-2025;2-6-2025;;;Jurist Woo bij de Rijksoverheid;Advocaat
+Maintenance Engineer;Onderhoudsingenieur;Netherlands;Noord-Holland;Lutjewinkel;22;1;0;0;0;0;0;0.045455;0;0;0;0;2-6-2025;2-6-2025;;;Jurist Woo bij de Rijksoverheid;Advocaat
+Maintenance Engineer;Onderhoudsingenieur;Netherlands;Friesland;Leeuwarden;108;9;0;0;0;0;0;0.083333;0;0;0;0;19-6-2025;2-6-2025;;;Medior Jurist Bestuursrecht - Rijksoverheid;Advocaat
+Maintenance Engineer;Onderhoudsingenieur;Netherlands;Drenthe;Emmen;98;10;0;0;0;0;0;0.102041;0;0;0;0;19-6-2025;2-6-2025;;;Medior Jurist Bestuursrecht - Rijksoverheid;Advocaat
+Maintenance Engineer;Onderhoudsingenieur;Netherlands;Overijssel;Deventer;101;5;2;0;6.17;15.425;0;0.049505;0;0.4;0;30.85;11-6-2025;6-6-2025;;;Medior Jurist Contractenrecht;Advocaat
+Maintenance Engineer;Onderhoudsingenieur;Netherlands;Drenthe;Hoogeveen;77;2;0;0;0;0;0;0.025974;0;0;0;0;19-6-2025;16-6-2025;;;Medior Jurist Contractenrecht;Advocaat
+Maintenance Engineer;Onderhoudsingenieur;Netherlands;Flevoland;Emmeloord;50;1;0;0;0;0;0;0.02;0;0;0;0;19-6-2025;16-6-2025;;;Medior Jurist Contractenrecht;Advocaat
+Maintenance Engineer;Onderhoudsingenieur;Netherlands;Drenthe;Coevorden;79;1;0;0;0;0;0;0.012658;0;0;0;0;19-6-2025;16-6-2025;;;Medior Jurist Contractenrecht;Advocaat
+Maintenance Engineer;Onderhoudsingenieur;Netherlands;Groningen (provincie);Groningen;74;4;0;0;0;0;0;0.054054;0;0;0;0;19-6-2025;16-6-2025;;;Medior Jurist Contractenrecht;Advocaat
+Maintenance Engineer;Onderhoudsingenieur;Netherlands;Friesland;Leeuwarden;144;1;1;0;9.13;9.13;0;0.006944;0;1;0;9.13;19-6-2025;16-6-2025;;;Medior Jurist Contractenrecht;Advocaat
+Maintenance Engineer;Onderhoudsingenieur;Netherlands;Overijssel;Steenwijk;58;3;0;0;0;0;0;0.051724;0;0;0;0;19-6-2025;16-6-2025;;;Medior Jurist Subsidierecht;Advocaat
+Maintenance Engineer;Onderhoudsingenieur;Netherlands;Friesland;Workum;57;2;0;0;0;0;0;0.035088;0;0;0;0;19-6-2025;16-6-2025;;;Medior Jurist Subsidierecht;Advocaat
+Maintenance Engineer;Onderhoudsingenieur;Netherlands;Drenthe;Assen;48;4;1;0;60.425;24.17;0;0.083333;0;0.25;0;24.17;19-6-2025;16-6-2025;;;Medior Jurist Subsidierecht;Advocaat
+Maintenance Engineer;Onderhoudsingenieur;Netherlands;Overijssel;Ommen;7;1;0;0;0;0;0;0.142857;0;0;0;0;16-6-2025;16-6-2025;;;Medior Jurist Subsidierecht;Advocaat
+Maintenance Engineer;Onderhoudsingenieur;Netherlands;Drenthe;Emmen;59;3;0;0;0;0;0;0.050847;0;0;0;0;19-6-2025;16-6-2025;;;Medior Jurist Subsidierecht;Advocaat
+Maintenance Engineer;Onderhoudsingenieur;Netherlands;Groningen (provincie);Delfzijl;43;3;0;0;0;0;0;0.069767;0;0;0;0;19-6-2025;16-6-2025;;;Senior Jurist APV & Bijzondere Wetten;Advocaat
+Maintenance Engineer;Onderhoudsingenieur;Netherlands;Drenthe;Emmen;4;1;0;0;0;0;0;0.25;0;0;0;0;16-6-2025;16-6-2025;;;Senior Jurist APV & Bijzondere Wetten;Advocaat
+Maintenance Engineer;Onderhoudsingenieur;Netherlands;Friesland;Wolvega;58;2;0;0;0;0;0;0.034483;0;0;0;0;19-6-2025;16-6-2025;;;Senior Jurist Bestuursrecht - Rijksoverheid;Advocaat
+Maintenance Engineer;Onderhoudsingenieur;Netherlands;Noord-Holland;Schagen;53;6;0;0;0;0;0;0.113208;0;0;0;0;19-6-2025;16-6-2025;;;Senior Jurist Bestuursrecht - Rijksoverheid;Advocaat
+Maintenance Engineer;Onderhoudsingenieur;Netherlands;Groningen (provincie);Groningen;61;4;0;0;0;0;0;0.065574;0;0;0;0;19-6-2025;16-6-2025;;;Senior Jurist Bestuursrecht - Rijksoverheid;Advocaat
+Maintenance Engineer;Onderhoudsingenieur;Netherlands;Groningen (provincie);Marum;121;3;0;0;0;0;0;0.024793;0;0;0;0;19-6-2025;16-6-2025;;;Senior Jurist Bestuursrecht - Rijksoverheid;Advocaat
+Maintenance Engineer;Onderhoudsingenieur;Netherlands;Overijssel;Oldenzaal;2;0;0;0;0;0;0;0;0;0;0;0;16-6-2025;16-6-2025;;;Senior Jurist Bezwaar Rijksoverheid;Advocaat
+Maintenance Engineer;Onderhoudsingenieur;Netherlands;Overijssel;Zwolle;58;4;0;0;0;0;0;0.068966;0;0;0;0;19-6-2025;16-6-2025;;;Senior Jurist Bezwaar Rijksoverheid;Advocaat
+Maintenance Engineer;Onderhoudsingenieur;Netherlands;Groningen (provincie);Bedum;38;3;0;0;0;0;0;0.078947;0;0;0;0;19-6-2025;16-6-2025;;;Senior Jurist Bezwaar Rijksoverheid;Advocaat
+Maintenance Engineer;Onderhoudsingenieur;Netherlands;Drenthe;Meppel;60;3;0;0;0;0;0;0.05;0;0;0;0;19-6-2025;16-6-2025;;;Senior Jurist Bezwaar Rijksoverheid;Advocaat
+Maintenance Engineer;Onderhoudsingenieur;Netherlands;Overijssel;Hengelo OV;73;11;0;0;0;0;0;0.150685;0;0;0;0;28-6-2025;23-6-2025;;;Senior Jurist Bezwaar Rijksoverheid;Advocaat
+Maintenance Engineer;Onderhoudsingenieur;Netherlands;Noord-Holland;Lutjewinkel;114;13;2;0;0.47846153846153844;3.11;0;0.114035;0;0.153846;0;6.22;8-8-2025;4-8-2025;;;Senior Jurist Letselschade;Advocaat
+Maintenance Engineer;Onderhoudsingenieur;Netherlands;Drenthe;Emmen;66;10;1;0;0.196;1.96;0;0.151515;0;0.1;0;1.96;8-8-2025;4-8-2025;;;Senior Jurist Woo - Rijksoverheid;Advocaat
+Maintenance Engineer;Onderhoudsingenieur;Netherlands;Groningen (provincie);Groningen;135;11;5;0;18.836.363.636.363.600;4.144;0;0.081481;0;0.454545;0;20.72;8-8-2025;4-8-2025;;;Senior Jurist Woo - Rijksoverheid;Advocaat
+Maintenance Engineer;Onderhoudsingenieur;Netherlands;Friesland;Leeuwarden;228;13;1;0;0.15076923076923077;1.96;0;0.057018;0;0.076923;0;1.96;14-9-2025;15-8-2025;;;Senior Jurist Woo - Rijksoverheid;Advocaat
+Maintenance Engineer;Onderhoudsingenieur;Netherlands;Zuid-Holland;Gouda;114;8;0;0;0;0;0;0.070175;0;0;0;0;25-9-2025;26-8-2025;;;Senior Jurist Woo - Rijksoverheid;Advocaat
+Maintenance Engineer;Onderhoudsingenieur;Netherlands;Zeeland;Terneuzen;56;4;0;0;0;0;0;0.071429;0;0;0;0;17-9-2025;16-9-2025;;;Agile Coach;Agile-coach
+Maintenance Engineer;Onderhoudsingenieur;Netherlands;Friesland;Leeuwarden;44;3;0;0;0;0;0;0.068182;0;0;0;0;1-10-2025;22-9-2025;;;Agile Coach;Agile-coach
+Maintenance Engineer;Onderhoudsingenieur;Netherlands;Drenthe;Emmen;57;6;0;0;0;0;0;0.105263;0;0;0;0;6-11-2025;7-10-2025;;;Agile Coach;Agile-coach
+Traineeship Maintenance Engineer;Onderhoudsingenieur;Netherlands;Utrecht (provincie);Utrecht;124;7;1;0;0.9528571428571428;6.67;0;0.056452;0;0.142857;0;6.67;22-5-2025;13-2-2025;;;Agile Coach;Agile-coach
+Maintenance Manager;Onderhoudsmanager;Netherlands;Friesland;Bolsward;390;30;1;0;0.2936666666666667;8.81;0;0.076923;0;0.033333;0;8.81;22-5-2025;15-5-2025;;;Agile Coach;Agile-coach
+Maintenance Manager;Onderhoudsmanager;Netherlands;Friesland;Bolsward;9;0;0;0;0;0;0;0;0;0;0;0;22-5-2025;15-5-2025;;;Agile Coach;Agile-coach
+Maintenance Manager;Onderhoudsmanager;Netherlands;Noord-Brabant;Waalwijk;239;25;3;0;0.204;1.7;0;0.104603;0;0.12;0;5.1;22-5-2025;16-5-2025;;;Jurist Wet open overheid;Ambtenaar
+Maintenance Manager;Onderhoudsmanager;Netherlands;Noord-Brabant;Waalwijk;123;17;0;0;0;0;0;0.138211;0;0;0;0;22-5-2025;16-5-2025;;;Senior Jurist Wet open overheid;Ambtenaar
+Maintenance Manager;Onderhoudsmanager;Netherlands;Utrecht (provincie);Veenendaal;534;26;1;0;0.4761538461538462;12.38;0;0.048689;0;0.038462;0;12.38;22-5-2025;21-5-2025;;;Senior Jurist Wet open overheid;Ambtenaar
+Maintenance Manager;Onderhoudsmanager;Netherlands;Noord-Brabant;Waalwijk;67;5;1;0;1.542;7.71;0;0.074627;0;0.2;0;7.71;2-6-2025;2-6-2025;;;Specialist Financiâle Administratie Overheid;Ambtenaar
+Maintenance Manager;Onderhoudsmanager;Netherlands;Noord-Brabant;Waalwijk;220;34;5;0;0.6373529411764706;4.334;0;0.154545;0;0.147059;0;21.669.999.999.999.900;19-6-2025;2-6-2025;;;Specialist Financiâle Administratie Overheid;Ambtenaar
+Werkvoorbereider Maintenance;Onderhoudsplanner;Netherlands;Groningen (provincie);Bedum;22;1;0;0;0;0;0;0.045455;0;0;0;0;22-5-2025;10-4-2025;;;Specialist Financiâle Administratie Overheid;Ambtenaar
+Werkvoorbereider Maintenance;Onderhoudsplanner;Netherlands;Groningen (provincie);;87;9;1;0;30.733.333.333.333.300;27.66;0;0.103448;0;0.111111;0;27.66;22-5-2025;6-5-2025;;;Specialist Financiâle Administratie Overheid;Ambtenaar
+Werkvoorbereider Maintenance;Onderhoudsplanner;Netherlands;Friesland;Drachten;148;9;0;0;0;0;0;0.060811;0;0;0;0;19-6-2025;2-6-2025;;;CDD Analist;Analist
+Werkvoorbereider Maintenance;Onderhoudsplanner;Netherlands;Noord-Holland;Lutjewinkel;111;13;0;0;0;0;0;0.117117;0;0;0;0;19-6-2025;2-6-2025;;;CDD Analist;Analist
+Werkvoorbereider Maintenance;Onderhoudsplanner;Netherlands;Friesland;Leeuwarden;142;4;0;0;0;0;0;0.028169;0;0;0;0;19-6-2025;2-6-2025;;;CDD Analist;Analist
+Werkvoorbereider Maintenance;Onderhoudsplanner;Netherlands;Friesland;Workum;123;5;1;0;21.559.999.999.999.900;10.78;0;0.04065;0;0.2;0;10.78;19-6-2025;2-6-2025;;;Medior analist sancties a.i.;Analist
+Werkvoorbereider Maintenance;Onderhoudsplanner;Netherlands;Drenthe;Emmen;100;14;0;0;0;0;0;0.14;0;0;0;0;19-6-2025;2-6-2025;;;Medior CDD Analist;Analist
+Werkvoorbereider Maintenance;Onderhoudsplanner;Netherlands;Zuid-Holland;Rotterdam;36;6;1;0;1.585;9.51;0;0.166667;0;0.166667;0;9.51;11-6-2025;10-6-2025;;;Medior CDD Analist;Analist
+Medior Werkvoorbereider Bouwkunde;Planner;Netherlands;Zuid-Holland;Delft;40;1;0;0;0;0;0;0.025;0;0;0;0;22-5-2025;6-2-2025;;;Medior CDD Analist;Analist
+Medior Werkvoorbereider Bouwkunde;Planner;Netherlands;Zuid-Holland;Delft;82;1;0;0;0;0;0;0.012195;0;0;0;0;22-5-2025;6-2-2025;;;Medior CDD Analist;Analist
+Werkvoorbereider;Planner;Netherlands;Friesland;Bolsward;110;23;1;0;0.07391304347826087;1.7;0;0.209091;0;0.043478;0;1.7;22-5-2025;15-5-2025;;;Medior CDD Analist;Analist
+Werkvoorbereider;Planner;Netherlands;Noord-Brabant;Tilburg;147;5;0;0;0;0;0;0.034014;0;0;0;0;19-6-2025;4-6-2025;;;Medior CDD Analist;Analist
+Werkvoorbereider;Planner;Netherlands;Flevoland;Almere;24;3;0;0;0;0;0;0.125;0;0;0;0;19-6-2025;16-6-2025;;;Medior CDD Analist;Analist
+Werkvoorbereider;Planner;Netherlands;Noord-Holland;Amsterdam Zuid;67;2;0;0;0;0;0;0.029851;0;0;0;0;19-6-2025;18-6-2025;;;Medior CDD Analist;Analist
+Werkvoorbereider;Planner;Netherlands;Noord-Brabant;Cuijk;47;9;0;0;0;0;0;0.191489;0;0;0;0;8-8-2025;28-7-2025;;;Business Analist;Analist bedrijfsstrategie
+Werkvoorbereider;Planner;Netherlands;Noord-Brabant;Cuijk;66;12;1;0;18.825;22.59;0;0.181818;0;0.083333;0;22.59;26-9-2025;27-8-2025;;;KYC Analist;Analist tegen Geldwitwassen
+Werkvoorbereider;Planner;Netherlands;Zuid-Holland;Papendrecht;52;4;0;0;0;0;0;0.076923;0;0;0;0;17-9-2025;15-9-2025;;;KYC/CDD Analist Amsterdam;Analist tegen Geldwitwassen
+Werkvoorbereider;Planner;Netherlands;Noord-Brabant;Cuijk;57;5;0;0;0;0;0;0.087719;0;0;0;0;24-10-2025;2-10-2025;;;KYC/CDD Analist Amsterdam;Analist tegen Geldwitwassen
+Werkvoorbereider Utiliteit Medior;Planner;Netherlands;Noord-Holland;Amsterdam;18;1;0;0;0;0;0;0.055556;0;0;0;0;22-5-2025;15-1-2025;;;KYC/CDD Analist Amsterdam;Analist tegen Geldwitwassen
+Planner (Amersfoort / Borculo);Productieplanner;Netherlands;Utrecht (provincie);;174;24;3;0;0.3325;2.66;0;0.137931;0;0.125;0;7.98;22-5-2025;30-4-2025;;;KYC/CDD Analist Amsterdam;Analist tegen Geldwitwassen
+Planner (Amersfoort / Borculo);Productieplanner;Netherlands;Utrecht (provincie);;42;2;0;0;0;0;0;0.047619;0;0;0;0;22-5-2025;15-5-2025;;;KYC/CDD Analist Amsterdam;Analist tegen Geldwitwassen
+Planner (Amersfoort / Borculo);Productieplanner;Netherlands;Utrecht (provincie);Amersfoort;414;55;3;0;0.35999999999999993;6.599.999.999.999.990;0;0.13285;0;0.054545;0;19.799.999.999.999.900;22-5-2025;15-5-2025;;;KYC/CDD Analist Amsterdam;Analist tegen Geldwitwassen
+Planner (Amersfoort / Borculo);Productieplanner;Netherlands;Utrecht (provincie);Amersfoort;443;45;2;0;0.13111111111111112;2.95;0;0.10158;0;0.044444;0;5.9;19-6-2025;2-6-2025;;;KYC/CDD Analist Amsterdam;Analist tegen Geldwitwassen
+Productieplanner;Productieplanner;Netherlands;Zuid-Holland;Maasdam;299;15;0;0;0;0;0;0.050167;0;0;0;0;4-6-2025;4-6-2025;;;Medior analist KYC Rotterdam;Analist tegen Geldwitwassen
+Junior Project Coîrdinator Installatietechniek;Projectcoîrdinator;Netherlands;Zuid-Holland;Delft;154;6;1;0;11.566.666.666.666.600;6.94;0;0.038961;0;0.166667;0;6.94;22-5-2025;28-1-2025;;;Medior analist KYC Rotterdam;Analist tegen Geldwitwassen
+Project Coordinator;Projectcoîrdinator;Netherlands;Gelderland;Duiven;476;69;1;0;0.15898550724637683;10.97;0;0.144958;0;0.014493;0;10.97;19-6-2025;17-6-2025;;;Medior analist KYC Rotterdam;Analist tegen Geldwitwassen
+Medior Project Engineer;Projectingenieur;Netherlands;Noord-Holland;Amsterdam;59;3;0;0;0;0;0;0.050847;0;0;0;0;22-5-2025;15-1-2025;;;Medior analist KYC Rotterdam;Analist tegen Geldwitwassen
+Medior Project Engineer Installatietechniek;Projectingenieur;Netherlands;Utrecht (provincie);Utrecht;68;3;0;0;0;0;0;0.044118;0;0;0;0;22-5-2025;28-1-2025;;;Medior analist KYC Rotterdam;Analist tegen Geldwitwassen
+Projectleider;Projectleider;Netherlands;Utrecht (provincie);Utrecht;191;21;1;0;0.5119047619047619;10.75;0;0.109948;0;0.047619;0;10.75;11-6-2025;6-6-2025;;;Medior analist KYC Rotterdam;Analist tegen Geldwitwassen
+Projectleider Bouwkunde;Projectleider;Netherlands;Utrecht (provincie);Utrecht;57;1;0;0;0;0;0;0.017544;0;0;0;0;22-5-2025;6-2-2025;;;Medior analist KYC Rotterdam;Analist tegen Geldwitwassen
+Projectleider Bouwkunde;Projectleider;Netherlands;Zuid-Holland;Delft;44;1;0;0;0;0;0;0.022727;0;0;0;0;22-5-2025;6-2-2025;;;Medior analist KYC Rotterdam;Analist tegen Geldwitwassen
+Projectleider Bouwkunde;Projectleider;Netherlands;Noord-Holland;Amsterdam;186;9;1;0;10.466.666.666.666.600;9.42;0;0.048387;0;0.111111;0;9.42;19-6-2025;3-6-2025;;;Medior analist KYC Rotterdam;Analist tegen Geldwitwassen
+Projectleider Civiele Techniek;Projectleider;Netherlands;Zuid-Holland;Delft;38;1;0;0;0;0;0;0.026316;0;0;0;0;22-5-2025;6-2-2025;;;Medior CDD Analist;Analist tegen Geldwitwassen
+Projectleider Civiele Techniek;Projectleider;Netherlands;Utrecht (provincie);Utrecht;49;3;1;0;10.846.666.666.666.600;32.54;0;0.061224;0;0.333333;0;32.54;22-5-2025;6-2-2025;;;Medior CDD/KYC Analist;Analist tegen Geldwitwassen
+Projectleider Civiele Techniek;Projectleider;Netherlands;Noord-Holland;Amsterdam;84;5;0;0;0;0;0;0.059524;0;0;0;0;19-6-2025;3-6-2025;;;Medior KYC/CDD analist;Analist tegen Geldwitwassen
+Projectleider Elektrotechniek;Projectleider;Netherlands;Noord-Holland;Amsterdam;73;2;0;0;0;0;0;0.027397;0;0;0;0;8-8-2025;1-8-2025;;;Medior KYC/CDD analist;Analist tegen Geldwitwassen
+Projectleider Elektrotechniek;Projectleider;Netherlands;Noord-Holland;Amsterdam;25;4;0;0;0;0;0;0.16;0;0;0;0;1-10-2025;1-9-2025;;;Medior KYC/CDD analist;Analist tegen Geldwitwassen
+Projectleider Elektrotechniek;Projectleider;Netherlands;Noord-Holland;Amsterdam;32;0;0;0;0;0;0;0;0;0;0;0;24-10-2025;1-10-2025;;;Medior KYC/CDD Analist Organisaties;Analist tegen Geldwitwassen
+Projectleider Elektrotechniek;Projectleider;Netherlands;Noord-Holland;Amsterdam;3;0;0;0;0;0;0;0;0;0;0;0;30-10-2025;30-10-2025;;;Medior KYC/CDD Analist Organisaties;Analist tegen Geldwitwassen
+Projectleider Installatietechniek;Projectleider;Netherlands;Noord-Holland;Amsterdam;69;2;0;0;0;0;0;0.028986;0;0;0;0;1-10-2025;1-9-2025;;;Medior KYC/CDD Analist Organisaties;Analist tegen Geldwitwassen
+Projectleider Installatietechniek;Projectleider;Netherlands;Zuid-Holland;Rotterdam;75;1;0;0;0;0;0;0.013333;0;0;0;0;1-10-2025;1-9-2025;;;Medior KYC/CDD analist Tilburg;Analist tegen Geldwitwassen
+Projectleider Installatietechniek;Projectleider;Netherlands;Zuid-Holland;Rotterdam;61;2;0;0;0;0;0;0.032787;0;0;0;0;1-10-2025;1-9-2025;;;Medior KYC/CDD analist Tilburg;Analist tegen Geldwitwassen
+Projectleider Installatietechniek;Projectleider;Netherlands;Zuid-Holland;Leiden;78;4;0;0;0;0;0;0.051282;0;0;0;0;24-10-2025;2-10-2025;;;Medior KYC/CDD analist Tilburg HBO;Analist tegen Geldwitwassen
+Projectleider Installatietechniek;Projectleider;Netherlands;Zuid-Holland;Rotterdam;70;2;0;0;0;0;0;0.028571;0;0;0;0;24-10-2025;2-10-2025;;;Senior KYC/CDD Analist;Analist tegen Geldwitwassen
+Projectleider Installatietechniek;Projectleider;Netherlands;Utrecht (provincie);Utrecht;82;5;1;0;8.658;43.29;0;0.060976;0;0.2;0;43.29;24-10-2025;2-10-2025;;;Senior KYC/CDD Analist;Analist tegen Geldwitwassen
+Projectleider Installatietechniek;Projectleider;Netherlands;Zuid-Holland;Den Haag;78;3;1;0;12.799.999.999.999.900;38.4;0;0.038462;0;0.333333;0;38.4;24-10-2025;2-10-2025;;;Senior KYC/CDD Analist;Analist tegen Geldwitwassen
+Projectleider Installatietechniek;Projectleider;Netherlands;Noord-Holland;Haarlem;81;3;0;0;0;0;0;0.037037;0;0;0;0;24-10-2025;2-10-2025;;;Senior KYC/CDD Analist;Analist tegen Geldwitwassen
+Projectleider Installatietechniek;Projectleider;Netherlands;Noord-Holland;Amsterdam;69;2;0;0;0;0;0;0.028986;0;0;0;0;24-10-2025;2-10-2025;;;Senior KYC/CDD Analist;Analist tegen Geldwitwassen
+Projectmanager;Projectmanager;Netherlands;Utrecht (provincie);Utrecht;367;44;2;0;0.3243181818181818;7.135;0;0.119891;0;0.045455;0;14.27;11-6-2025;6-6-2025;;;Senior KYC/CDD Analist;Analist tegen Geldwitwassen
+Projectondersteuner;Projectmanager;Netherlands;Utrecht (provincie);Utrecht;79;13;0;0;0;0;0;0.164557;0;0;0;0;22-5-2025;28-1-2025;;;Senior KYC/CDD analist HBO amsterdam;Analist tegen Geldwitwassen
+Projectorganisator Bouwkunde;Projectmanager;Netherlands;Zuid-Holland;Delft;13;2;0;0;0;0;0;0.153846;0;0;0;0;22-5-2025;6-2-2025;;;Senior KYC/CDD analist HBO amsterdam;Analist tegen Geldwitwassen
+Projectorganisator Bouwkunde;Projectmanager;Netherlands;Utrecht (provincie);Utrecht;29;1;0;0;0;0;0;0.034483;0;0;0;0;22-5-2025;6-2-2025;;;Senior KYC/CDD analist HBO amsterdam;Analist tegen Geldwitwassen
+Projectorganisator Bouwkunde;Projectmanager;Netherlands;Noord-Holland;Amsterdam;115;8;1;0;0.825;6.6;0;0.069565;0;0.125;0;6.6;19-6-2025;3-6-2025;;;Senior KYC/CDD analist HBO amsterdam;Analist tegen Geldwitwassen
+Senior Project Engineer Utiliteit Elektrotechniek;Senior projectingenieur;Netherlands;Noord-Holland;Amsterdam;36;0;0;0;0;0;0;0;0;0;0;0;22-5-2025;15-1-2025;;;Senior KYC/CDD analist WO Amsterdam;Analist tegen Geldwitwassen
+Senior Project Manager;Senior projectmanager;Netherlands;Noord-Brabant;Eindhoven;338;39;6;0;12.164.102.564.102.500;7.906.666.666.666.660;0;0.115385;0;0.153846;0;47.440.000.000.000.000;7-11-2025;8-10-2025;;;Senior KYC/CDD analist WO Amsterdam;Analist tegen Geldwitwassen
+Senior Project Manager Offshore Wind;Senior projectmanager;Netherlands;Utrecht (provincie);Utrecht;170;10;0;0;0;0;0;0.058824;0;0;0;0;22-5-2025;28-1-2025;;;Document Controller;Archivist
+Embedded Software Engineer;SET software-ingenieur;Netherlands;Noord-Brabant;Eindhoven;359;45;5;0;0.18933333333333333;1.704;0;0.125348;0;0.111111;0;8.52;22-5-2025;16-5-2025;;;Business Consultant;Bedrijfsadviseur
+Embedded Software Engineer;SET software-ingenieur;Netherlands;Noord-Brabant;Eindhoven;264;33;5;0;0.29363636363636364;1.938;0;0.125;0;0.151515;0;9.69;22-5-2025;16-5-2025;;;Bedrijfsanalist;Bedrijfsanalist
+Embedded Software Engineer;SET software-ingenieur;Netherlands;Noord-Brabant;Eindhoven;554;63;6;0;0.20904761904761904;2.195;0;0.113718;0;0.095238;0;13.17;22-5-2025;16-5-2025;;;Business Analist;Bedrijfsanalist
+Traineeship Reliability Engineering;Specialist techniek;Netherlands;Utrecht (provincie);Utrecht;199;13;1;0;0.4230769230769231;5.5;0;0.065327;0;0.076923;0;5.5;22-5-2025;13-2-2025;;;Business Analist;Bedrijfsanalist
+Order Fulfilment Officer;Supplychainmedewerker;Netherlands;Noord-Brabant;Veghel;183;14;1;0;0.7878571428571428;11.03;0;0.076503;0;0.071429;0;11.03;22-5-2025;21-5-2025;;;Business Analist;Bedrijfsanalist
+Technisch Specialist Windmolens;Technisch specialist;Netherlands;Groningen (provincie);Groningen;70;4;1;0;1.995;7.98;0;0.057143;0;0.25;0;7.98;19-6-2025;2-6-2025;;;Business Analist;Bedrijfsanalist
+Technisch Tekenaar;Technisch tekenaar;Netherlands;Overijssel;Ommen;77;7;0;0;0;0;0;0.090909;0;0;0;0;24-10-2025;15-10-2025;;;Business Analist;Bedrijfsanalist
+Mechanical Design Engineer;Werktuigbouwkundig ingenieur;Netherlands;Noord-Brabant;Eindhoven;549;61;5;0;0.5454098360655738;6.654.000.000.000.000;0;0.111111;0;0.081967;0;33.27;22-5-2025;21-5-2025;;;Business Analist;Bedrijfsanalist
+Mechanical Engineer;Werktuigbouwkundige;Netherlands;Overijssel;Enschede;276;25;4;0;1.11;69.375;0;0.09058;0;0.16;0;27.75;22-5-2025;30-4-2025;;;Business Analyst;Bedrijfsanalist
+Mechanical Engineer;Werktuigbouwkundige;Netherlands;Gelderland;Lochem;136;13;5;0;12.453.846.153.846.100;32.380.000.000.000.000;0;0.095588;0;0.384615;0;16.19;19-6-2025;18-6-2025;;;Traineeship Technische Bedrijfskunde;Bedrijfsbeheerder
+Mechanical Engineer;Werktuigbouwkundige;Netherlands;Zuid-Holland;Papendrecht;185;25;4;0;13.204.000.000.000.000;8.252.500.000.000.000;0;0.135135;0;0.16;0;33.010.000.000.000.000;26-9-2025;27-8-2025;;;Traineeship Technische Bedrijfskunde;Bedrijfsbeheerder
+Mechanical Engineer;Werktuigbouwkundige;Netherlands;Zuid-Holland;Papendrecht;53;9;1;0;0.3433333333333333;3.09;0;0.169811;0;0.111111;0;3.09;1-10-2025;22-9-2025;;;Traineeship Technische Bedrijfskunde;Bedrijfsbeheerder
+Mechanical Engineer;Werktuigbouwkundige;Netherlands;Overijssel;Enschede;120;15;0;0;0;0;0;0.125;0;0;0;0;5-11-2025;6-10-2025;;;Traineeship Technische Bedrijfskunde;Bedrijfsbeheerder
+Mechanical Engineer;Werktuigbouwkundige;Netherlands;Zuid-Holland;Waddinxveen;57;9;3;0;6.856.666.666.666.660;20.569.999.999.999.900;0;0.157895;0;0.333333;0;61.709.999.999.999.900;28-10-2025;28-10-2025;;;Traineeship Technische Bedrijfskunde;Bedrijfsbeheerder
+Mechanical engineer;Werktuigbouwkundige;Netherlands;Zuid-Holland;Den Haag;115;18;5;0;2.647.777.777.777.770;9.532;0;0.156522;0;0.277778;0;47.660.000.000.000.000;8-8-2025;1-8-2025;;;Traineeship Technische Bedrijfskunde;Bedrijfsbeheerder
+Mechanical engineer;Werktuigbouwkundige;Netherlands;Noord-Holland;Haarlem;80;12;7;0;3.823.333.333.333.330;6.554.285.714.285.710;0;0.15;0;0.583333;0;45.879.999.999.999.900;8-8-2025;1-8-2025;;;Bedrijfsjurist;Bedrijfsjurist
+Mechanical engineer;Werktuigbouwkundige;Netherlands;Zuid-Holland;Leiden;1;0;0;0;0;0;0;0;0;0;0;0;1-10-2025;1-9-2025;;;Bedrijfsjurist;Bedrijfsjurist
+Mechanical engineer;Werktuigbouwkundige;Netherlands;Noord-Holland;Haarlem;1;1;1;0;51.86;51.86;0;1;0;1;0;51.86;1-10-2025;1-9-2025;;;Bedrijfsjurist;Bedrijfsjurist
+Mechanical engineer;Werktuigbouwkundige;Netherlands;Zuid-Holland;Rotterdam;2;1;1;0;0;0;0;0.5;0;1;0;0;1-10-2025;1-9-2025;;;Medior Bezwaarjurist - Den Haag;Bedrijfsjurist
+Mechanical engineer;Werktuigbouwkundige;Netherlands;Zuid-Holland;Den Haag;49;6;0;0;0;0;0;0.122449;0;0;0;0;1-10-2025;1-9-2025;;;Privacy Officer;Bedrijfsjurist
+Mechanical engineer;Werktuigbouwkundige;Netherlands;Noord-Holland;Haarlem;117;14;1;0;0.2785714285714286;3.9;0;0.119658;0;0.071429;0;3.9;24-10-2025;2-10-2025;;;Bedrijfsleider;Bedrijfsleider
+Mechanical engineer;Werktuigbouwkundige;Netherlands;Zuid-Holland;Den Haag;95;15;0;0;0;0;0;0.157895;0;0;0;0;24-10-2025;2-10-2025;;;Specialist Zakelijk Krediet;Bedrijfsspecialist
+Mechanical engineer;Werktuigbouwkundige;Netherlands;Utrecht (provincie);Utrecht;91;9;2;0;34.222.222.222.222.200;15.4;0;0.098901;0;0.222222;0;30.8;24-10-2025;2-10-2025;;;ICT-supportmedewerker;Beheerder ICT-support
+Mechanical Engineer (Automotive);Werktuigbouwkundige;Netherlands;Gelderland;Ede;98;15;1;0;0.21666666666666667;3.25;0;0.153061;0;0.066667;0;3.25;8-8-2025;1-8-2025;;;Beoordelaar Subsidies;Beoordelaar
+(Junior) Werkvoorbereider;;Netherlands;Zeeland;;81;8;0;0;0;0;0;0.098765;0;0;0;0;30-10-2025;30-9-2025;;;Beoordelaar Subsidies;Beoordelaar
+(Senior) Project Manager;;Netherlands;Noord-Holland;Amsterdam;362;59;7;0;0.2016949152542373;1.7;0;0.162983;0;0.118644;0;11.9;22-5-2025;15-5-2025;;;Beoordelaar Subsidies;Beoordelaar
+Adviseur Assetmanagement (waterwingebieden);;Netherlands;Zuid-Holland;Gouda;122;8;1;0;0.35125;2.81;0;0.065574;0;0.125;0;2.81;19-6-2025;3-6-2025;;;Beoordelaar Subsidies;Beoordelaar
+Allround Maintenance Technician;;Netherlands;Zuid-Holland;Leiden;112;16;1;0;0;0;0;0.142857;0;0.0625;0;0;22-5-2025;14-5-2025;;;Medior Subsidie Beoordelaar Den Haag;Beoordelaar
+Allround Onderhoudsmonteur Dagdienst;;Netherlands;Overijssel;Deventer;32;6;0;0;0;0;0;0.1875;0;0;0;0;18-9-2025;19-8-2025;;;Medior Subsidie Beoordelaar Zwolle;Beoordelaar
+All-round Service Monteur;;Netherlands;Overijssel;Oldenzaal;79;8;0;0;0;0;0;0.101266;0;0;0;0;19-6-2025;4-6-2025;;;Medior Subsidie Beoordelaar Zwolle;Beoordelaar
+Assistant Site Leader;;Netherlands;Zuid-Holland;Rotterdam;184;11;0;0;0;0;0;0.059783;0;0;0;0;22-5-2025;15-5-2025;;;KYC Analist;Bestrijdingsspecialist witwassen
+Assistent Project Manager;;Netherlands;Limburg;Heerlen;211;30;3;0;0.8183333333333332;8.183.333.333.333.330;0;0.14218;0;0.1;0;24.549.999.999.999.900;28-6-2025;27-6-2025;;;Netwerk Security Engineer;Beveiligingsingenieur
+BIM Modelleur E;;Netherlands;Zuid-Holland;Rotterdam;75;7;0;0;0;0;0;0.093333;0;0;0;0;17-9-2025;15-9-2025;;;Project & Supply Lead;Bevoorradingsspecialist
+Bouwkundig modelleur;;Netherlands;Noord-Holland;Amsterdam;86;12;4;0;1.265;3.795;0;0.139535;0;0.333333;0;15.18;22-5-2025;19-5-2025;;;Bouw/Civiel Projectleider;Bouw
+Bouwkundig modelleur;;Netherlands;Utrecht (provincie);Utrecht;72;13;1;0;0.8784615384615384;11.42;0;0.180556;0;0.076923;0;11.42;22-5-2025;19-5-2025;;;Bouw/Civiel Projectleider;Bouw
+Bouwkundig modelleur;;Netherlands;Zuid-Holland;Rotterdam;148;13;5;0;25.969.230.769.230.700;6.752;0;0.087838;0;0.384615;0;33.76;22-5-2025;21-5-2025;;;Projectorganisator Bouw;Bouw
+bouwkundig Revit modelleur;;Netherlands;Zuid-Holland;Delft;110;10;3;0;3.622;12.073.333.333.333.300;0;0.090909;0;0.3;0;36.22;22-5-2025;19-5-2025;;;Sales Consultant Bouw-Infra;Bouw
+bouwkundig Revit modelleur;;Netherlands;Zuid-Holland;Delft;102;12;3;0;38.699.999.999.999.900;15.479.999.999.999.900;0;0.117647;0;0.25;0;46.44;22-5-2025;19-5-2025;;;Structural Engineer;Bouwkundig ingenieur
+Bouwplaatsmanager Nieuwbouw;;Netherlands;Overijssel;Almelo;175;8;0;0;0;0;0;0.045714;0;0;0;0;24-10-2025;15-10-2025;;;Structural Engineer;Bouwkundig ingenieur
+Brand Manager;;Netherlands;Utrecht (provincie);Amersfoort;617;48;2;0;0.07083333333333333;1.7;0;0.077796;0;0.041667;0;3.4;22-5-2025;30-4-2025;;;Structural Engineer;Bouwkundig ingenieur
+Clinical Development Scientist;;Netherlands;Noord-Brabant;Eindhoven;595;93;11;0;0.2451612903225806;20.727.272.727.272.700;0;0.156303;0;0.11828;0;22.799.999.999.999.900;22-5-2025;9-5-2025;;;Structural Engineer;Bouwkundig ingenieur
+Clinical Research Officer (CRO);;Netherlands;Noord-Holland;Haarlem;611;66;9;0;0.28454545454545455;2.086.666.666.666.660;0;0.10802;0;0.136364;0;18.78;22-5-2025;20-5-2025;;;Structural Engineer;Bouwkundig ingenieur
+Constructeur;;Netherlands;Zuid-Holland;Dordrecht;88;7;0;0;0;0;0;0.079545;0;0;0;0;29-5-2025;23-5-2025;;;Structural Engineer;Bouwkundig ingenieur
+Content Manager;;Netherlands;Noord-Brabant;Best;323;33;6;0;0.31545454545454543;1.735;0;0.102167;0;0.181818;0;10.41;22-5-2025;28-4-2025;;;Structural Engineer ? Design and Construction;Bouwkundig ingenieur
+Customer Service;;Netherlands;Noord-Brabant;Waalwijk;234;24;5;0;0.6695833333333333;3.214;0;0.102564;0;0.208333;0;16.07;22-5-2025;21-5-2025;;;Structural Engineer ? Design and Construction;Bouwkundig ingenieur
+Demand Planner;;Netherlands;Gelderland;Lochem;839;70;5;0;0.12142857142857143;1.7;0;0.083433;0;0.071429;0;8.5;22-5-2025;6-5-2025;;;Construction Manager;Bouwmanager
+Demand Planner;;Netherlands;Utrecht (provincie);Amersfoort;349;45;7;0;0.9951111111111112;6.397.142.857.142.850;0;0.12894;0;0.155556;0;44.78;22-5-2025;14-5-2025;;;Junior Business Controller;Businesscontroller
+Demand Planner;;Netherlands;Utrecht (provincie);Amersfoort;450;47;3;0;0.4921276595744681;7.71;0;0.104444;0;0.06383;0;23.13;19-6-2025;12-6-2025;;;Junior Business Controller;Businesscontroller
+Design Engineer;;Netherlands;Utrecht (provincie);Utrecht;158;39;1;0;0.331025641025641;12.91;0;0.246835;0;0.025641;0;12.91;11-6-2025;6-6-2025;;;Senior OBD Calibration Engineer;Calibratietechnicus
+Design Engineer;;Netherlands;Noord-Brabant;Den Bosch;134;42;2;0;0.38547619047619053;8.095;0;0.313433;0;0.047619;0;16.19;11-6-2025;6-6-2025;;;Category Procurement Manager Packaging;Category-manager
+EL Specialist;;Netherlands;Noord-Brabant;Boxmeer;685;38;3;0;0.28526315789473683;36.133.333.333.333.300;0;0.055474;0;0.078947;0;10.84;22-5-2025;30-4-2025;;;Bouwkundig Civiel Engineer;Civiel ingenieur
+Electrical Designer;;Netherlands;Noord-Brabant;Eindhoven;8;0;0;0;0;0;0;0;0;0;0;0;19-9-2025;20-8-2025;;;Bouwkundig Civiel Engineer;Civiel ingenieur
+Electrical Engineer Energietransitie;;Netherlands;Zuid-Holland;Rotterdam;23;1;0;0;0;0;0;0.043478;0;0;0;0;9-9-2025;2-9-2025;;;Werkvoorbereider Verduurzaming;Civiel ingenieur
+Electrical Engineer Energietransitie;;Netherlands;Zuid-Holland;Rotterdam;45;4;1;0;7.58;30.32;0;0.088889;0;0.25;0;30.32;24-10-2025;2-10-2025;;;Medior Werkvoorbereider Civiele Techniek;Civiele techniek
+Electrical Engineer Energietransitie;;Netherlands;Noord-Holland;Haarlem;70;4;1;0;6.89;27.56;0;0.057143;0;0.25;0;27.56;24-10-2025;2-10-2025;;;Projectorganisator Civiele Techniek;Civiele techniek
+Electrical Engineer Energietransitie;;Netherlands;Zuid-Holland;Den Haag;69;5;1;0;0;0;0;0.072464;0;0.2;0;0;24-10-2025;2-10-2025;;;Projectorganisator Civiele Techniek;Civiele techniek
+Electrical Engineer Energietransitie;;Netherlands;Noord-Holland;Amsterdam;66;4;0;0;0;0;0;0.060606;0;0;0;0;24-10-2025;2-10-2025;;;Projectorganisator Civiele Techniek;Civiele techniek
+Electrical Engineer Energietransitie;;Netherlands;Utrecht (provincie);Utrecht;54;3;0;0;0;0;0;0.055556;0;0;0;0;24-10-2025;2-10-2025;;;Projectorganisator Civiele Techniek;Civiele techniek
+Electrical Engineer Energietransitie;;Netherlands;Zuid-Holland;Leiden;77;4;1;0;85.425;34.17;0;0.051948;0;0.25;0;34.17;24-10-2025;2-10-2025;;;Projectorganisator Civiele Techniek;Civiele techniek
+Electrical Engineer Maritiem;;Netherlands;Zuid-Holland;Schiedam;55;4;1;0;2.285;9.14;0;0.072727;0;0.25;0;9.14;26-9-2025;27-8-2025;;;Projectorganisator Civiele Techniek;Civiele techniek
+Elektromonteur;;Netherlands;Gelderland;Apeldoorn;42;9;1;0;22.544.444.444.444.400;20.29;0;0.214286;0;0.111111;0;20.29;9-9-2025;26-8-2025;;;Projectorganisator Civiele Techniek;Civiele techniek
+Elektrotechnisch Monteur;;Netherlands;Overijssel;Hengelo OV;30;5;0;0;0;0;0;0.166667;0;0;0;0;22-5-2025;25-4-2025;;;Projectorganisator Civiele Techniek;Civiele techniek
+Embedded Software Engineer C++;;Netherlands;Noord-Brabant;Eindhoven;6;0;0;0;0;0;0;0;0;0;0;0;1-10-2025;30-9-2025;;;Cloud Engineer;Cloud Engineer
+Emissions Coordinator;;Netherlands;Noord-Brabant;Eindhoven;1063;52;2;0;0.17500000000000002;4.550.000.000.000.000;0;0.048918;0;0.038462;0;9.100.000.000.000.000;22-5-2025;9-5-2025;;;Cloud Architect;Cloud-architect
+EMVI schrijver;;Netherlands;Zuid-Holland;Rotterdam;750;58;1;0;0.1910344827586207;11.08;0;0.077333;0;0.017241;0;11.08;22-5-2025;21-5-2025;;;Senior Communicatieadviseur;Communicatieadviseur
+Engineer Elektrotechniek;;Netherlands;Groningen (provincie);Groningen;168;14;0;0;0;0;0;0.083333;0;0;0;0;22-5-2025;12-5-2025;;;Compliance Adviseur;Compliance-adviseur
+Engineer Energietransitie;;Netherlands;Noord-Holland;Amsterdam;103;6;0;0;0;0;0;0.058252;0;0;0;0;24-10-2025;2-10-2025;;;Compliance Adviseur;Compliance-adviseur
+Engineering Manager;;Netherlands;Groningen (provincie);Groningen;293;37;2;0;0.4848648648648648;8.969.999.999.999.990;0;0.12628;0;0.054054;0;17.939.999.999.999.900;22-5-2025;14-5-2025;;;Junior Uitvoerder Bouwkunde;Constructiesupervisor
+Erfgoedspecialist monumenten;;Netherlands;Groningen (provincie);Appingedam;455;52;5;0;0.2073076923076923;21.559.999.999.999.900;0;0.114286;0;0.096154;0;10.78;22-5-2025;21-5-2025;;;Junior Uitvoerder Bouwkunde;Constructiesupervisor
+ERP Planner;;Netherlands;Overijssel;Hengelo OV;541;72;1;0;0.02361111111111111;1.7;0;0.133087;0;0.013889;0;1.7;22-5-2025;28-4-2025;;;Junior Uitvoerder Bouwkunde;Constructiesupervisor
+FPGA Engineer;;Netherlands;Noord-Brabant;Eindhoven;404;41;6;0;0.2736585365853659;1.87;0;0.101485;0;0.146341;0;11.22;19-6-2025;2-6-2025;;;Junior Uitvoerder Bouwkunde;Constructiesupervisor
+Hardware Engineer;;Netherlands;Overijssel;Deventer;116;15;0;0;0;0;0;0.12931;0;0;0;0;22-5-2025;20-5-2025;;;Junior Uitvoerder Bouwkunde;Constructiesupervisor
+HSB Tekenaar;;Netherlands;Overijssel;Almelo;39;3;0;0;0;0;0;0.076923;0;0;0;0;24-10-2025;15-10-2025;;;Junior Uitvoerder Civiele Techniek;Constructiesupervisor
+Inkoper;;Netherlands;Gelderland;Stroe;312;19;1;0;0.15105263157894738;2.87;0;0.060897;0;0.052632;0;2.87;22-5-2025;30-4-2025;;;Junior Uitvoerder Civiele Techniek;Constructiesupervisor
+Inspectie Traineeship;;Netherlands;Limburg;Geleen;438;39;0;0;0;0;0;0.089041;0;0;0;0;22-5-2025;6-5-2025;;;Junior Uitvoerder Civiele Techniek;Constructiesupervisor
+Inspectie Traineeship;;Netherlands;Limburg;Geleen;2;0;0;0;0;0;0;0;0;0;0;0;4-6-2025;4-6-2025;;;Medior Uitvoerder Civiele Techniek;Constructiesupervisor
+Inspectie Traineeship;;Netherlands;Limburg;Geleen;519;70;1;0;0.028;1.96;0;0.134875;0;0.014286;0;1.96;19-6-2025;12-6-2025;;;Medior Uitvoerder Civiele Techniek;Constructiesupervisor
+Integrale supply chain planner;;Netherlands;Noord-Brabant;Eindhoven;530;63;4;0;0.20444444444444446;3.22;0;0.118868;0;0.063492;0;12.88;19-6-2025;2-6-2025;;;Medior Uitvoerder Civiele Techniek;Constructiesupervisor
+Junior adviseur Geo techniek;;Netherlands;Zuid-Holland;Gouda;19;3;0;0;0;0;0;0.157895;0;0;0;0;11-6-2025;11-6-2025;;;Senior Uitvoerder Bouwkunde;Constructiesupervisor
+Junior constructeur gebouw constructies;;Netherlands;Utrecht (provincie);Amersfoort;105;7;1;0;23.314.285.714.285.700;16.32;0;0.066667;0;0.142857;0;16.32;17-9-2025;16-9-2025;;;Senior Uitvoerder Bouwkunde;Constructiesupervisor
+Junior Onderhoudsmonteur Dagdienst;;Netherlands;Overijssel;Deventer;132;6;1;0;11.083.333.333.333.300;6.65;0;0.045455;0;0.166667;0;6.65;19-9-2025;20-8-2025;;;Senior Uitvoerder Bouwkunde;Constructiesupervisor
+Junior Project Engineer Bouwkunde;;Netherlands;Noord-Holland;Amsterdam;120;11;1;0;11.881.818.181.818.100;13.07;0;0.091667;0;0.090909;0;13.07;19-6-2025;3-6-2025;;;Senior Uitvoerder Bouwkunde;Constructiesupervisor
+Junior Project Engineer Civiele Techniek;;Netherlands;Noord-Holland;Amsterdam;69;10;4;0;1.645;41.125;0;0.144928;0;0.4;0;16.45;19-6-2025;3-6-2025;;;Senior Uitvoerder Bouwkunde;Constructiesupervisor
+Junior Projectleider Warmtenetten;;Netherlands;Zuid-Holland;Leiden;359;22;3;0;15.281.818.181.818.100;11.206.666.666.666.600;0;0.061281;0;0.136364;0;33.620.000.000.000.000;22-5-2025;14-5-2025;;;Senior Uitvoerder Bouwkunde;Constructiesupervisor
+Lead Software Engineer (Aerospace);;Netherlands;;;1040;76;7;0;15.875.000.000.000.000;17.235.714.285.714.200;0;0.073077;0;0.092105;0;120.65;24-10-2025;15-10-2025;;;Senior Uitvoerder Civiele Techniek;Constructiesupervisor
+Lean Manufacturing Engineer;;Netherlands;;;1145;139;14;0;0.2815827338129496;2.795.714.285.714.280;0;0.121397;0;0.100719;0;39.14;19-6-2025;2-6-2025;;;Senior Uitvoerder Civiele Techniek;Constructiesupervisor
+Logistiek Medewerker;;Netherlands;Noord-Brabant;Eindhoven;244;58;5;0;0.5063793103448276;58.740.000.000.000.000;0;0.237705;0;0.086207;0;29.37;22-5-2025;7-5-2025;;;Uitvoerder Bouwkunde;Constructiesupervisor
+Maintenance & Reliability Engineer;;Netherlands;Noord-Brabant;Oss;268;21;2;0;1.656.666.666.666.660;17.395.000.000.000.000;0;0.078358;0;0.095238;0;34.790.000.000.000.000;22-5-2025;12-5-2025;;;Uitvoerder Bouwkunde;Constructiesupervisor
+Maintenance Engineer Automation;;Netherlands;Zuid-Holland;Gouda;136;10;1;0;0.9199999999999999;9.2;0;0.073529;0;0.1;0;9.2;22-5-2025;15-5-2025;;;Uitvoerder Bouwkunde;Constructiesupervisor
+Maintenance Engineer Lutjewinkel;;Netherlands;Gelderland;Borculo;23;2;0;0;0;0;0;0.086957;0;0;0;0;22-5-2025;15-5-2025;;;Uitvoerder Bouwkunde;Constructiesupervisor
+Maintenance Engineer Lutjewinkel;;Netherlands;Gelderland;Borculo;63;5;0;0;0;0;0;0.079365;0;0;0;0;22-5-2025;15-5-2025;;;Uitvoerder Bouwkunde;Constructiesupervisor
+Maintenance Engineer W&E;;Netherlands;Noord-Holland;Hoofddorp;50;4;2;0;24.567.500.000.000.000;49.135.000.000.000.000;0;0.08;0;0.5;0;9.827.000.000.000.000;17-9-2025;18-8-2025;;;Uitvoerder onderhoud;Constructiesupervisor
+Maintenance Supervisor;;Netherlands;Limburg;Geleen;66;8;0;0;0;0;0;0.121212;0;0;0;0;9-9-2025;9-9-2025;;;Uitvoerder onderhoud;Constructiesupervisor
+Manager - Technical Site Services;;Netherlands;Limburg;Maastricht;299;41;3;0;0.6829268292682927;9.333.333.333.333.330;0;0.137124;0;0.073171;0;28;11-6-2025;6-6-2025;;;M365 consultant;Consultant
+Manager Projectbeheersing;;Netherlands;Zuid-Holland;Papendrecht;502;32;0;0;0;0;0;0.063745;0;0;0;0;22-5-2025;21-5-2025;;;Contractbeheerder;Contractbeheerder
+Manager Projectbeheersing;;Netherlands;Zuid-Holland;Papendrecht;248;17;1;0;0.16411764705882353;2.79;0;0.068548;0;0.058824;0;2.79;22-5-2025;21-5-2025;;;Contractmanager;Contractmanager
+Manager Realisatie Techniek;;Netherlands;Utrecht (provincie);Bunnik;101;14;2;0;0.27999999999999997;1.96;0;0.138614;0;0.142857;0;3.92;28-6-2025;25-6-2025;;;FP&A Controller;Controller
+Mechanical Engineer Offshore Wind;;Netherlands;Zuid-Holland;Leiden;135;23;5;0;23.834.782.608.695.600;10.964;0;0.17037;0;0.217391;0;54.82;1-10-2025;22-9-2025;;;FP&A Controller;Controller
+Mechanisch Monteur;;Netherlands;Overijssel;Hengelo OV;75;7;1;0;10.457.142.857.142.800;7.32;0;0.093333;0;0.142857;0;7.32;19-6-2025;2-6-2025;;;Digital Conversion Optimization Specialist (CRO) - Philips;Conversiespecialist
+Medior Manager Realisatie Techniek;;Netherlands;Utrecht (provincie);Bunnik;47;2;0;0;0;0;0;0.042553;0;0;0;0;28-6-2025;25-6-2025;;;Projectcoîrdinator;Coîrdinator bedrijfsvoering
+Medior Projectcoîrdinator Nieuwbouw;;Netherlands;Zuid-Holland;Vlaardingen;62;1;0;0;0;0;0;0.016129;0;0;0;0;1-10-2025;19-9-2025;;;Corporate Recruiter Amsterdam;Corporate recruiter
+Medior Projectcoîrdinator Nieuwbouw;;Netherlands;Zuid-Holland;Vlaardingen;45;1;0;0;0;0;0;0.022222;0;0;0;0;1-10-2025;19-9-2025;;;Corporate Recruiter Amsterdam;Corporate recruiter
+Medior Projectcoîrdinator Nieuwbouw;;Netherlands;Zuid-Holland;Vlaardingen;37;1;1;0;27.36;27.36;0;0.027027;0;1;0;27.36;1-10-2025;19-9-2025;;;Corporate Recruiter Amsterdam;Corporate recruiter
+Medior Projectleider Elektrotechniek Utiliteitsbouw;;Netherlands;Noord-Holland;Schiphol;4;0;0;0;0;0;0;0;0;0;0;0;28-6-2025;25-6-2025;;;Creative Asset Producer;Creatief producent
+Medior Projectmanager Installatie techniek Utilliteitsbouw;;Netherlands;Noord-Holland;Schiphol;53;1;0;0;0;0;0;0.018868;0;0;0;0;28-6-2025;25-6-2025;;;Cyber Security Consultant;Cybersecurityconsultant
+Medior Projectmanager Installatietechniek Utiliteitsbouw;;Netherlands;Utrecht (provincie);Bunnik;25;3;0;0;0;0;0;0.12;0;0;0;0;28-6-2025;25-6-2025;;;Cyber Security Consultant;Cybersecurityconsultant
+Medior Uitvoerder Elektrotechniek;;Netherlands;Utrecht (provincie);Bunnik;30;1;0;0;0;0;0;0.033333;0;0;0;0;8-8-2025;1-8-2025;;;Data-analist;Data-analist
+Modelleur Constructie;;Netherlands;Zuid-Holland;Dordrecht;90;6;1;0;20.716.666.666.666.600;12.43;0;0.066667;0;0.166667;0;12.43;29-5-2025;23-5-2025;;;Financieel Data Analist;Data-analist
+Netspecialist Elektra;;Netherlands;Noord-Holland;Amsterdam;78;3;0;0;0;0;0;0.038462;0;0;0;0;19-6-2025;17-6-2025;;;Financieel Data Analist;Data-analist
+Omgevingsmanager IPM;;Netherlands;Zuid-Holland;Gouda;109;10;0;0;0;0;0;0.091743;0;0;0;0;30-10-2025;30-9-2025;;;Financieel Data Analist;Data-analist
+Omgevingsmanager IPM;;Netherlands;Noord-Holland;Amsterdam;153;8;1;0;0.765;6.12;0;0.052288;0;0.125;0;6.12;30-10-2025;30-9-2025;;;Financieel Data Analist;Data-analist
+Omscholingstraject Werktuigkundige Energiecentrale;;Netherlands;Zuid-Holland;Den Haag;305;22;0;0;0;0;0;0.072131;0;0;0;0;22-5-2025;14-5-2025;;;Financieel Risk & Data Traineeship;Dataspecialist
+Ordercoîrdinator;;Netherlands;Noord-Brabant;Veghel;149;17;2;0;0.6;5.1;0;0.114094;0;0.117647;0;10.2;22-5-2025;21-5-2025;;;Financieel Risk & Data Traineeship;Dataspecialist
+Ordercoîrdinator;;Netherlands;Noord-Brabant;Veghel;275;22;5;0;12.427.272.727.272.700;5.468;0;0.08;0;0.227273;0;27.34;19-6-2025;2-6-2025;;;Data Scientist;Datawetenschapper
+Packaging Specification Specialist;;Netherlands;Gelderland;Wageningen;728;58;10;0;0.26379310344827583;15.299.999.999.999.900;0;0.07967;0;0.172414;0;15.299.999.999.999.900;22-5-2025;16-5-2025;;;Market & Digital Data Scientist - Philips;Datawetenschapper
+Physical Design Engineer;;Netherlands;Noord-Brabant;Eindhoven;363;26;3;0;0.6453846153846154;5.593.333.333.333.330;0;0.071625;0;0.115385;0;16.78;29-5-2025;23-5-2025;;;FPGA Design Engineer;Designingenieur
+PLC Software Engineer;;Netherlands;Gelderland;Nijmegen;196;9;1;0;23.499.999.999.999.900;21.15;0;0.045918;0;0.111111;0;21.15;24-10-2025;15-10-2025;;;DevOps Engineer;DevOps Engineer
+Proces Engineer;;Netherlands;Flevoland;Emmeloord;19;1;1;0;9.55;9.55;0;0.052632;0;1;0;9.55;2-6-2025;2-6-2025;;;DevOps Engineer;DevOps Engineer
+Proces Engineer;;Netherlands;Groningen (provincie);Groningen;95;10;2;0;1.538;7.69;0;0.105263;0;0.2;0;15.38;19-6-2025;2-6-2025;;;DevOps Engineer;DevOps Engineer
+Proces Engineer;;Netherlands;Friesland;Drachten;124;15;1;0;0.6366666666666667;9.55;0;0.120968;0;0.066667;0;9.55;19-6-2025;2-6-2025;;;DevOps engineer Dynatrace;DevOps Engineer
+Proces Engineer;;Netherlands;Drenthe;Hoogeveen;150;15;2;0;12.979.999.999.999.900;9.735;0;0.1;0;0.133333;0;19.47;19-6-2025;2-6-2025;;;DevOps Engineer PAAS Windows;DevOps Engineer
+Proces Engineer;;Netherlands;Drenthe;Hoogeveen;135;16;1;0;0.25;4;0;0.118519;0;0.0625;0;4;8-8-2025;4-8-2025;;;DevOps Engineer PAAS Windows;DevOps Engineer
+Proces Engineer;;Netherlands;Groningen (provincie);Groningen;98;19;7;0;0.8647368421052631;2.347.142.857.142.850;0;0.193878;0;0.368421;0;16.43;8-8-2025;4-8-2025;;;DevOps Engineer PAAS Windows;DevOps Engineer
+Procescoîrdinator Infra;;Netherlands;Noord-Holland;Zaanstad;9;1;0;0;0;0;0;0.111111;0;0;0;0;14-9-2025;15-8-2025;;;Diagnostic Engineer;Diagnosetechnicus
+Procescoîrdinator Infra;;Netherlands;Noord-Holland;Zaanstad;150;4;1;0;10.77;43.08;0;0.026667;0;0.25;0;43.08;17-9-2025;16-9-2025;;;Digital Customer Journey Expert;Digitale specialist
+Procurement Manager (packaging);;Netherlands;Utrecht (provincie);Amersfoort;976;59;7;0;0.3547457627118644;29.899.999.999.999.900;0;0.060451;0;0.118644;0;20.93;11-6-2025;11-6-2025;;;GMP and Documentation specialist;Documentatiespecialist
+Product Developer;;Netherlands;Gelderland;Wageningen;29;1;0;0;0;0;0;0.034483;0;0;0;0;20-8-2025;20-8-2025;;;Domein Architect;Domeinarchitect
+Project Coîrdinator;;Netherlands;Zuid-Holland;Dordrecht;817;71;2;0;0.34647887323943666;12.3;0;0.086903;0;0.028169;0;24.6;29-5-2025;23-5-2025;;;Domein Architect;Domeinarchitect
+Project Coîrdinator;;Netherlands;Zuid-Holland;Dordrecht;260;32;1;0;0.5775;18.48;0;0.123077;0;0.03125;0;18.48;28-6-2025;23-6-2025;;;Senior EHS Specialist;EHS-specialist
+Project Coîrdinator;;Netherlands;Zuid-Holland;Dordrecht;162;19;1;0;0;0;0;0.117284;0;0.052632;0;0;17-9-2025;16-9-2025;;;Electrical Engineer;Elektrisch ingenieur
+Project Coordinator Meet en Regeltechniek;;Netherlands;Noord-Holland;Amsterdam;161;7;1;0;0.7285714285714285;5.1;0;0.043478;0;0.142857;0;5.1;22-5-2025;30-4-2025;;;Electrical Engineer;Elektrisch ingenieur
+Project Coordinator Meet en Regeltechniek;;Netherlands;Noord-Holland;Amsterdam;564;22;2;0;0.6595454545454545;7.255;0;0.039007;0;0.090909;0;14.51;22-5-2025;14-5-2025;;;Electrical Engineer;Elektrisch ingenieur
+Project Coordinator Meet en Regeltechniek;;Netherlands;Noord-Holland;Velsen-Noord;99;3;0;0;0;0;0;0.030303;0;0;0;0;22-5-2025;14-5-2025;;;Electrical Engineer;Elektrisch ingenieur
+Project Coordinator Meet en Regeltechniek;;Netherlands;Noord-Holland;Diemen;485;11;1;0;16.600.000.000.000.000;18.26;0;0.02268;0;0.090909;0;18.26;22-5-2025;14-5-2025;;;Electrical Engineer;Elektrisch ingenieur
+Project Engineer Bouwkunde;;Netherlands;Noord-Holland;Amsterdam;85;6;0;0;0;0;0;0.070588;0;0;0;0;19-6-2025;3-6-2025;;;Electrical Engineer;Elektrisch ingenieur
+Project Engineer Civiele Techniek;;Netherlands;Noord-Holland;Amsterdam;77;4;1;0;28.925;11.57;0;0.051948;0;0.25;0;11.57;19-6-2025;3-6-2025;;;Electrical Engineer;Elektrisch ingenieur
+Project Engineer CT;;Netherlands;Groningen (provincie);Groningen;136;12;1;0;0.35083333333333333;4.21;0;0.088235;0;0.083333;0;4.21;22-5-2025;14-5-2025;;;Electrical Engineer;Elektrisch ingenieur
+Project Engineer CT;;Netherlands;Drenthe;Meppel;12;2;0;0;0;0;0;0.166667;0;0;0;0;22-5-2025;14-5-2025;;;Electrical Engineer;Elektrisch ingenieur
+Project Engineer CT;;Netherlands;Friesland;Drachten;10;1;0;0;0;0;0;0.1;0;0;0;0;22-5-2025;14-5-2025;;;Electrical Engineer;Elektrisch ingenieur
+Project Engineer CT;;Netherlands;Friesland;Leeuwarden;157;7;0;0;0;0;0;0.044586;0;0;0;0;22-5-2025;14-5-2025;;;Electrical Engineer;Elektrisch ingenieur
+Project Engineer CT;;Netherlands;Drenthe;Emmen;139;8;0;0;0;0;0;0.057554;0;0;0;0;22-5-2025;14-5-2025;;;Electrical Engineer;Elektrisch ingenieur
+Project Engineer CT;;Netherlands;Groningen (provincie);Stadskanaal;134;11;1;0;0.8581818181818182;9.44;0;0.08209;0;0.090909;0;9.44;22-5-2025;16-5-2025;;;Electrical Engineer;Elektrisch ingenieur
+Project Engineer CT;;Netherlands;Groningen (provincie);Groningen;141;8;3;0;5.83;15.546.666.666.666.600;0;0.056738;0;0.375;0;46.64;19-6-2025;2-6-2025;;;Electrical Engineer;Elektrisch ingenieur
+Project Engineer CT;;Netherlands;Drenthe;Assen;125;7;1;0;1.502.857.142.857.140;10.52;0;0.056;0;0.142857;0;10.52;19-6-2025;2-6-2025;;;Electrical Engineer;Elektrisch ingenieur
+Project Engineer CT;;Netherlands;Friesland;Leeuwarden;128;6;1;0;2.151.666.666.666.660;12.91;0;0.046875;0;0.166667;0;12.91;19-6-2025;2-6-2025;;;Junior Project Engineer Duurzame Energie;Elektrisch ingenieur
+Project Engineer CT;;Netherlands;Drenthe;Wijster;182;8;0;0;0;0;0;0.043956;0;0;0;0;19-6-2025;2-6-2025;;;Medior Project Engineer Duurzame Energie;Elektrisch ingenieur
+Project Engineer CT;;Netherlands;Drenthe;Meppel;156;8;0;0;0;0;0;0.051282;0;0;0;0;19-6-2025;2-6-2025;;;Medior Project Engineer Duurzame Energie;Elektrisch ingenieur
+Project Engineer CT;;Netherlands;Groningen (provincie);Veendam;147;9;1;0;0.8611111111111112;7.75;0;0.061224;0;0.111111;0;7.75;19-6-2025;2-6-2025;;;Medior Project Engineer Duurzame Energie;Elektrisch ingenieur
+Project Engineer CT;;Netherlands;Drenthe;Coevorden;136;5;1;0;17.260.000.000.000.000;8.63;0;0.036765;0;0.2;0;8.63;19-6-2025;2-6-2025;;;Medior Project Engineer Energie opwek Elektrotechniek;Elektrotechniek
+Project Engineer CT;;Netherlands;Friesland;Drachten;165;9;0;0;0;0;0;0.054545;0;0;0;0;19-6-2025;2-6-2025;;;Medior Project Engineer Energie opwek Elektrotechniek;Elektrotechniek
+Project Engineer CT;;Netherlands;Groningen (provincie);Veendam;91;3;0;0;0;0;0;0.032967;0;0;0;0;28-6-2025;25-6-2025;;;Medior Project Engineer Energie opwek Elektrotechniek;Elektrotechniek
+Project Engineer CT;;Netherlands;Groningen (provincie);Groningen;35;2;0;0;0;0;0;0.057143;0;0;0;0;28-6-2025;25-6-2025;;;Project Engineer Energie opwek Elektrotechniek;Elektrotechniek
+Project Engineer CT;;Netherlands;Drenthe;Assen;41;2;0;0;0;0;0;0.04878;0;0;0;0;28-6-2025;25-6-2025;;;Project Engineer Energie opwek Elektrotechniek;Elektrotechniek
+Project Engineer CT;;Netherlands;Friesland;Drachten;69;3;0;0;0;0;0;0.043478;0;0;0;0;28-6-2025;25-6-2025;;;Project Engineer Energie opwek Elektrotechniek;Elektrotechniek
+Project Engineer CT;;Netherlands;Drenthe;Coevorden;59;4;0;0;0;0;0;0.067797;0;0;0;0;28-6-2025;25-6-2025;;;Adviseur Ruimtelijke Ordening Energie-Infrastructuur;Energieconsultant
+Project Engineer CT;;Netherlands;Friesland;Leeuwarden;48;3;1;0;33.800.000.000.000.000;10.14;0;0.0625;0;0.333333;0;10.14;28-6-2025;25-6-2025;;;Carriäre in de energietransitie;Energiespecialist
+Project Engineer CT;;Netherlands;Overijssel;Zwolle;93;6;0;0;0;0;0;0.064516;0;0;0;0;28-6-2025;25-6-2025;;;Enterprise Architect;Enterprise-architect
+Project Engineer CT;;Netherlands;Drenthe;Wijster;107;3;0;0;0;0;0;0.028037;0;0;0;0;28-6-2025;25-6-2025;;;Business Support Vermogen;Equity-specialist
+Project Engineer CT;;Netherlands;Friesland;Heerenveen;69;3;0;0;0;0;0;0.043478;0;0;0;0;28-6-2025;25-6-2025;;;Process/ Manufacturing Engineer;Fabricage-ingenieur
+Project Engineer CT;;Netherlands;Drenthe;Emmen;33;3;0;0;0;0;0;0.090909;0;0;0;0;28-6-2025;25-6-2025;;;Process/Manufacturing Engineer;Fabricage-ingenieur
+Project Engineer CT;;Netherlands;Drenthe;Beilen;57;2;0;0;0;0;0;0.035088;0;0;0;0;28-6-2025;25-6-2025;;;Assetmanagement Water;Facilitair manager
+Project Engineer CT;;Netherlands;Groningen (provincie);Delfzijl;55;1;1;0;8.35;8.35;0;0.018182;0;1;0;8.35;28-6-2025;25-6-2025;;;Project & Operations Manager (Sales Enablement);Facilitair manager
+Project Engineer CT;;Netherlands;Drenthe;Meppel;46;4;0;0;0;0;0;0.086957;0;0;0;0;28-6-2025;25-6-2025;;;Field Manager;Field Manager
+Project Engineer CT;;Netherlands;Friesland;Leeuwarden;70;4;0;0;0;0;0;0.057143;0;0;0;0;8-8-2025;30-7-2025;;;Financial Accountant;Financieel accountant
+Project Engineer WTB;;Netherlands;Groningen (provincie);Stadskanaal;27;1;1;0;0;0;0;0.037037;0;1;0;0;28-6-2025;25-6-2025;;;Financieel Adviseur Klantbeheer;Financieel adviseur
+Project engineer WTB;;Netherlands;Groningen (provincie);Stadskanaal;8;1;0;0;0;0;0;0.125;0;0;0;0;22-5-2025;15-5-2025;;;Financieringsassistent;Financieel adviseur
+Project engineer WTB;;Netherlands;Drenthe;Wijster;11;0;0;0;0;0;0;0;0;0;0;0;22-5-2025;15-5-2025;;;Medior Subsidieadviseur;Financieel adviseur
+Project engineer WTB;;Netherlands;Drenthe;Meppel;11;0;0;0;0;0;0;0;0;0;0;0;22-5-2025;15-5-2025;;;Medior/Senior CDD Analist;Financieel analist
+Project engineer WTB;;Netherlands;Drenthe;Coevorden;20;1;0;0;0;0;0;0.05;0;0;0;0;22-5-2025;15-5-2025;;;Financieel Coach;Financieel coach
+Project engineer WTB;;Netherlands;Groningen (provincie);Veendam;13;0;0;0;0;0;0;0;0;0;0;0;22-5-2025;15-5-2025;;;Financieel Coach;Financieel coach
+Project engineer WTB;;Netherlands;Groningen (provincie);Groningen;130;13;2;0;1.506.153.846.153.840;9.79;0;0.1;0;0.153846;0;19.58;22-5-2025;15-5-2025;;;Financieel Coach Utrecht;Financieel coach
+Project engineer WTB;;Netherlands;Drenthe;Assen;99;8;1;0;1.185;9.48;0;0.080808;0;0.125;0;9.48;22-5-2025;15-5-2025;;;Financieel Coach Utrecht;Financieel coach
+Project engineer WTB;;Netherlands;Friesland;Heerenveen;122;9;1;0;0.38333333333333336;3.45;0;0.07377;0;0.111111;0;3.45;22-5-2025;15-5-2025;;;Financieel Coach Utrecht;Financieel coach
+Project engineer WTB;;Netherlands;Friesland;Leeuwarden;216;12;0;0;0;0;0;0.055556;0;0;0;0;22-5-2025;15-5-2025;;;Financieel Coach Utrecht;Financieel coach
+Project engineer WTB;;Netherlands;Overijssel;Zwolle;4;1;0;0;0;0;0;0.25;0;0;0;0;22-5-2025;15-5-2025;;;Financial Controller;Financieel controller
+Project engineer WTB;;Netherlands;Drenthe;Emmen;135;7;0;0;0;0;0;0.051852;0;0;0;0;22-5-2025;15-5-2025;;;Financial Controller;Financieel controller
+Project engineer WTB;;Netherlands;Groningen (provincie);Groningen;203;12;0;0;0;0;0;0.059113;0;0;0;0;19-6-2025;2-6-2025;;;Financieel controller;Financieel controller
+Project engineer WTB;;Netherlands;Drenthe;Assen;115;5;1;0;2.566;12.83;0;0.043478;0;0.2;0;12.83;19-6-2025;2-6-2025;;;Financieel controller;Financieel controller
+Project engineer WTB;;Netherlands;Friesland;Heerenveen;118;7;1;0;14.828.571.428.571.400;10.38;0;0.059322;0;0.142857;0;10.38;19-6-2025;2-6-2025;;;Projectcontroller;Financieel controller
+Project engineer WTB;;Netherlands;Groningen (provincie);Delfzijl;88;4;1;0;26.375;10.55;0;0.045455;0;0.25;0;10.55;19-6-2025;2-6-2025;;;Trainee Finance & Control;Financieel controller
+Project engineer WTB;;Netherlands;Friesland;Leeuwarden;7;0;0;0;0;0;0;0;0;0;0;0;2-6-2025;2-6-2025;;;Trainee Finance & Control;Financieel controller
+Project engineer WTB;;Netherlands;Overijssel;Zwolle;77;11;3;0;1.231.818.181.818.180;4.516.666.666.666.660;0;0.142857;0;0.272727;0;13.55;19-6-2025;2-6-2025;;;Trainee Finance & Control;Financieel controller
+Project engineer WTB;;Netherlands;Drenthe;Beilen;115;6;0;0;0;0;0;0.052174;0;0;0;0;19-6-2025;2-6-2025;;;Trainee Finance & Control;Financieel controller
+Project engineer WTB;;Netherlands;Drenthe;Emmen;85;6;3;0;71.499.999.999.999.900;14.299.999.999.999.900;0;0.070588;0;0.5;0;42.9;19-6-2025;2-6-2025;;;Trainee Finance & Control;Financieel controller
+Project engineer WTB;;Netherlands;Drenthe;Beilen;36;2;1;0;0;0;0;0.055556;0;0.5;0;0;28-6-2025;25-6-2025;;;Trainee Finance & Control;Financieel controller
+Project engineer WTB;;Netherlands;Overijssel;Zwolle;44;3;0;0;0;0;0;0.068182;0;0;0;0;28-6-2025;25-6-2025;;;Trainee Finance & Control;Financieel controller
+Project engineer WTB;;Netherlands;Friesland;Heerenveen;46;4;0;0;0;0;0;0.086957;0;0;0;0;28-6-2025;25-6-2025;;;Trainee Finance & Control;Financieel controller
+Project engineer WTB;;Netherlands;Friesland;Leeuwarden;68;1;0;0;0;0;0;0.014706;0;0;0;0;28-6-2025;25-6-2025;;;Trainee Finance & Control;Financieel controller
+Project engineer WTB;;Netherlands;Groningen (provincie);Groningen;39;3;1;0;7.753.333.333.333.330;23.26;0;0.076923;0;0.333333;0;23.26;28-6-2025;25-6-2025;;;Trainee Finance & Control;Financieel controller
+Project engineer WTB;;Netherlands;Groningen (provincie);Veendam;37;2;0;0;0;0;0;0.054054;0;0;0;0;28-6-2025;25-6-2025;;;Trainee Finance & Control;Financieel controller
+Project engineer WTB;;Netherlands;Drenthe;Wijster;72;1;0;0;0;0;0;0.013889;0;0;0;0;28-6-2025;25-6-2025;;;Trainee Finance & Control;Financieel controller
+Project engineer WTB;;Netherlands;Drenthe;Emmen;15;2;1;0;8.21;16.42;0;0.133333;0;0.5;0;16.42;28-6-2025;25-6-2025;;;Trainee Finance & Control;Financieel controller
+Project engineer WTB;;Netherlands;Groningen (provincie);Delfzijl;35;1;0;0;0;0;0;0.028571;0;0;0;0;28-6-2025;25-6-2025;;;Trainee Finance & Control;Financieel controller
+Project engineer WTB;;Netherlands;Drenthe;Assen;60;3;0;0;0;0;0;0.05;0;0;0;0;28-6-2025;25-6-2025;;;Trainee Finance & Control;Financieel controller
+Project engineer WTB;;Netherlands;Drenthe;Hoogeveen;22;4;1;0;4.605;18.42;0;0.181818;0;0.25;0;18.42;28-6-2025;25-6-2025;;;Trainee Finance & Control;Financieel controller
+Project engineer WTB;;Netherlands;Friesland;Drachten;27;4;1;0;5.815;23.26;0;0.148148;0;0.25;0;23.26;28-6-2025;25-6-2025;;;Trainee Finance & Control;Financieel controller
+Project engineer WTB;;Netherlands;Drenthe;Meppel;62;3;0;0;0;0;0;0.048387;0;0;0;0;28-6-2025;25-6-2025;;;Trainee Finance & Control;Financieel controller
+Project engineer WTB;;Netherlands;Drenthe;Coevorden;27;3;0;0;0;0;0;0.111111;0;0;0;0;28-6-2025;25-6-2025;;;Trainee Finance & Control;Financieel controller
+Project engineer WTB;;Netherlands;Drenthe;Meppel;99;5;1;0;9.193.999.999.999.990;45.97;0;0.050505;0;0.2;0;45.97;8-8-2025;30-7-2025;;;Trainee Finance & Control;Financieel controller
+Project Manager a.i.;;Netherlands;Noord-Brabant;Den Bosch;442;73;8;0;0.17917808219178083;1.635;0;0.165158;0;0.109589;0;13.08;19-6-2025;13-6-2025;;;Trainee Finance & Control;Financieel controller
+Project Support Medewerker (site engineering);;Netherlands;Noord-Holland;Haarlem;156;14;2;0;0.852857142857143;5.970.000.000.000.000;0;0.089744;0;0.142857;0;11.940.000.000.000.000;22-5-2025;19-5-2025;;;Bid Manager;Financieel manager
+Project Support Medewerker (site engineering);;Netherlands;Noord-Holland;Haarlem;132;9;0;0;0;0;0;0.068182;0;0;0;0;2-6-2025;2-6-2025;;;Bid Manager;Financieel manager
+Projectcoîrdinator Machinebouw;;Netherlands;Overijssel;Enschede;472;14;2;0;0.9171428571428571;6.42;0;0.029661;0;0.142857;0;12.84;19-6-2025;4-6-2025;;;Bid Manager;Financieel manager
+Projectcoordinator Parking;;Netherlands;Noord-Holland;Schiphol;809;49;2;0;0.18469387755102043;4.525;0;0.060569;0;0.040816;0;9.05;22-5-2025;9-5-2025;;;Bid Manager;Financieel manager
+Projectengineer;;Netherlands;Limburg;Weert;4;0;0;0;0;0;0;0;0;0;0;0;17-9-2025;17-9-2025;;;Bid Manager;Financieel manager
+Projectleider (energiesector);;Netherlands;Noord-Brabant;Den Bosch;117;6;0;0;0;0;0;0.051282;0;0;0;0;22-5-2025;6-5-2025;;;Financieel Medewerker Amersfoort;Financieel medewerker
+Projectleider (energiesector);;Netherlands;Noord-Brabant;Den Bosch;101;5;2;0;1.56;3.9;0;0.049505;0;0.4;0;7.8;19-6-2025;2-6-2025;;;Financial Risk & Data Traineeship;Financieel professional
+Projectleider Bouw;;Netherlands;Groningen (provincie);Marum;105;7;0;0;0;0;0;0.066667;0;0;0;0;22-5-2025;16-5-2025;;;Financial Risk & Data Traineeship;Financieel professional
+Projectleider Bouw;;Netherlands;Friesland;Leeuwarden;73;7;0;0;0;0;0;0.09589;0;0;0;0;19-6-2025;2-6-2025;;;Assistent Beleggen;Financiâle Dienstverleningsassistent
+Projectleider Bouw;;Netherlands;Overijssel;Zwolle;114;7;0;0;0;0;0;0.061404;0;0;0;0;19-6-2025;2-6-2025;;;Finance Talent Program;Financiân
+Projectleider Bouw;;Netherlands;Flevoland;Lelystad;37;3;1;0;4;12;0;0.081081;0;0.333333;0;12;19-6-2025;2-6-2025;;;Finance Talenten Programma;Financiân
+Projectleider Bouw;;Netherlands;Friesland;Drachten;80;5;0;0;0;0;0;0.0625;0;0;0;0;19-6-2025;2-6-2025;;;Finance Talenten Programma;Financiân
+Projectleider Bouw;;Netherlands;Groningen (provincie);Groningen;107;6;0;0;0;0;0;0.056075;0;0;0;0;19-6-2025;2-6-2025;;;Finance Talenten Programma;Financiân
+Projectleider Civiel;;Netherlands;Groningen (provincie);Groningen;142;6;0;0;0;0;0;0.042254;0;0;0;0;19-6-2025;2-6-2025;;;Junior AML-Analist;Financiân
+Projectleider Civiel;;Netherlands;Friesland;Drachten;90;4;1;0;20.325;8.13;0;0.044444;0;0.25;0;8.13;19-6-2025;2-6-2025;;;Junior Subsidieadviseur Den Haag;Financiân
+Projectleider Civiel;;Netherlands;Friesland;Leeuwarden;73;4;1;0;20.325;8.13;0;0.054795;0;0.25;0;8.13;19-6-2025;2-6-2025;;;Junior Subsidieadviseur Utrecht;Financiân
+Projectleider Civiel;;Netherlands;Overijssel;Zwolle;127;10;1;0;0.438;4.38;0;0.07874;0;0.1;0;4.38;19-6-2025;2-6-2025;;;Junior Subsidieadviseur Zwolle;Financiân
+Projectleider Civiel;;Netherlands;Flevoland;Lelystad;45;3;1;0;16.500.000.000.000.000;4.95;0;0.066667;0;0.333333;0;4.95;19-6-2025;2-6-2025;;;Junior Subsidiebehandelaar;Financiân
+Projectleider Civiel;;Netherlands;Noord-Holland;;15;1;0;0;0;0;0;0.066667;0;0;0;0;28-6-2025;27-6-2025;;;Junior Subsidiebehandelaar;Financiân
+Projectleider Elektrotechniek Utiliteitsbouw;;Netherlands;Noord-Holland;Schiphol;33;2;0;0;0;0;0;0.060606;0;0;0;0;28-6-2025;25-6-2025;;;Junior Subsidiebehandelaar;Financiân
+Projectleider Energietechniek;;Netherlands;Zuid-Holland;Rotterdam;66;4;0;0;0;0;0;0.060606;0;0;0;0;8-8-2025;1-8-2025;;;Junior Subsidiebehandelaar;Financiân
+Projectleider Energietechniek;;Netherlands;Zuid-Holland;Den Haag;97;4;0;0;0;0;0;0.041237;0;0;0;0;8-8-2025;1-8-2025;;;Junior Subsidiebehandelaar;Financiân
+Projectleider Energietechniek;;Netherlands;Utrecht (provincie);Utrecht;96;3;0;0;0;0;0;0.03125;0;0;0;0;8-8-2025;1-8-2025;;;Junior Subsidiebehandelaar;Financiân
+Projectleider Energietechniek;;Netherlands;Utrecht (provincie);Utrecht;32;4;1;0;44.875;17.95;0;0.125;0;0.25;0;17.95;1-10-2025;1-9-2025;;;Junior Subsidiebehandelaar;Financiân
+Projectleider Energietechniek;;Netherlands;Noord-Holland;Haarlem;59;7;0;0;0;0;0;0.118644;0;0;0;0;1-10-2025;1-9-2025;;;Junior Subsidiebehandelaar;Financiân
+Projectleider Energietechniek;;Netherlands;Zuid-Holland;Rotterdam;50;3;0;0;0;0;0;0.06;0;0;0;0;1-10-2025;1-9-2025;;;Junior Subsidiebehandelaar;Financiân
+Projectleider Energietechniek;;Netherlands;Zuid-Holland;Leiden;41;4;0;0;0;0;0;0.097561;0;0;0;0;1-10-2025;1-9-2025;;;Junior Subsidiebeoordelaar;Financiân
+Projectleider Energietechniek;;Netherlands;Zuid-Holland;Den Haag;89;1;0;0;0;0;0;0.011236;0;0;0;0;24-10-2025;2-10-2025;;;Junior Subsidiebeoordelaar;Financiân
+Projectleider Energietechniek;;Netherlands;Zuid-Holland;Leiden;58;2;0;0;0;0;0;0.034483;0;0;0;0;24-10-2025;2-10-2025;;;Traineeship Hypotheekacceptatie;Financiân
+Projectleider Energietechniek;;Netherlands;Noord-Holland;Haarlem;57;1;0;0;0;0;0;0.017544;0;0;0;0;24-10-2025;2-10-2025;;;Traineeship KYC;Financiân
+Projectleider Energietechniek;;Netherlands;Utrecht (provincie);Utrecht;91;2;0;0;0;0;0;0.021978;0;0;0;0;24-10-2025;15-10-2025;;;Firmware Engineer;Firmware-ingenieur
+Projectleider Energietechniek;;Netherlands;Utrecht (provincie);Utrecht;61;2;0;0;0;0;0;0.032787;0;0;0;0;24-10-2025;15-10-2025;;;Functioneel Beheerder;Functioneel manager
+Projectleider Energietechniek;;Netherlands;Zuid-Holland;Rotterdam;43;3;0;0;0;0;0;0.069767;0;0;0;0;24-10-2025;15-10-2025;;;Functioneel Beheerder;Functioneel manager
+Projectleider Gevelbouw;;Netherlands;Overijssel;Oldenzaal;103;4;1;0;80.475;32.19;0;0.038835;0;0.25;0;32.19;24-10-2025;15-10-2025;;;Data Engineer;Gegevensingenieur
+Projectleider Infra;;Netherlands;Zuid-Holland;Gouda;99;6;0;0;0;0;0;0.060606;0;0;0;0;30-10-2025;30-9-2025;;;Growth hacker/ Marketeer;Growth Hacker
+Projectleider IPM;;Netherlands;Zuid-Holland;Gouda;150;7;0;0;0;0;0;0.046667;0;0;0;0;30-10-2025;30-9-2025;;;Senior Maintenance Engineer E&I;Hoofd Onderhoudsingenieur
+Projectleider Nieuwbouw;;Netherlands;Overijssel;Almelo;143;5;0;0;0;0;0;0.034965;0;0;0;0;24-10-2025;15-10-2025;;;Senior Maintenance Engineer E&I;Hoofd Onderhoudsingenieur
+Projectleider Werktuigbouwkunde;;Netherlands;Noord-Brabant;Eindhoven;77;5;0;0;0;0;0;0.064935;0;0;0;0;19-6-2025;17-6-2025;;;People & Change Lead;Hoofd verandering
+Projectmanager \| Gebiedsontwikkeling;;Netherlands;Noord-Holland;Zaandam;466;19;2;0;0.5789473684210527;5.5;0;0.040773;0;0.105263;0;11;19-6-2025;12-6-2025;;;Lead Process Engineer;Hoofdprocestechnicus
+Projectmanager Bouwkunde;;Netherlands;;;528;17;1;0;2.796.470.588.235.290;47.54;0;0.032197;0;0.058824;0;47.54;1-10-2025;23-9-2025;;;Junior HR Business Partner;HR-businesspartner
+Projectmanager Elektrotechniek;;Netherlands;Utrecht (provincie);Bunnik;62;1;0;0;0;0;0;0.016129;0;0;0;0;17-9-2025;15-9-2025;;;Junior HR Business Partner;HR-businesspartner
+Projectmanager Energietechniek;;Netherlands;Noord-Holland;Amsterdam;1;0;0;0;0;0;0;0;0;0;0;0;1-10-2025;1-9-2025;;;HSE Manager;HSE-manager
+Projectmanager Energietechniek;;Netherlands;Utrecht (provincie);Utrecht;1;0;0;0;0;0;0;0;0;0;0;0;1-10-2025;1-9-2025;;;HSE Manager;HSE-manager
+Projectmanager Energietechniek;;Netherlands;Zuid-Holland;Rotterdam;24;0;0;0;0;0;0;0;0;0;0;0;1-10-2025;1-9-2025;;;HSE Manager;HSE-manager
+Projectmanager Energietechniek;;Netherlands;Utrecht (provincie);Utrecht;74;3;0;0;0;0;0;0.040541;0;0;0;0;24-10-2025;2-10-2025;;;HSE Manager;HSE-manager
+Projectmanager Energietechniek;;Netherlands;Noord-Holland;Amsterdam;128;3;0;0;0;0;0;0.023438;0;0;0;0;24-10-2025;2-10-2025;;;Junior Hypotheekspecialist;Hypotheekspecialist
+Projectmanager Energietechniek;;Netherlands;Zuid-Holland;Rotterdam;114;4;0;0;0;0;0;0.035088;0;0;0;0;24-10-2025;2-10-2025;;;Junior Hypotheekspecialist;Hypotheekspecialist
+Projectmanager Energietechniek;;Netherlands;Zuid-Holland;Den Haag;92;2;0;0;0;0;0;0.021739;0;0;0;0;24-10-2025;2-10-2025;;;Kredietbeoordelaar Hypotheken Amersfoort;Hypotheekspecialist
+Projectmanager Energietechniek;;Netherlands;Noord-Holland;Amsterdam;154;3;0;0;0;0;0;0.019481;0;0;0;0;24-10-2025;2-10-2025;;;Traineeship Hypotheken;Hypotheekspecialist
+Projectmanager Hoogspanningsstations;;Netherlands;Noord-Holland;;209;11;0;0;0;0;0;0.052632;0;0;0;0;17-9-2025;16-9-2025;;;Hypotheekacceptant;Hypotheekverzekeraar
+Projectmanager Installatietechniek - Grote Utiliteitsprojecten;;Netherlands;Utrecht (provincie);Bunnik;187;7;1;0;4.264.285.714.285.710;29.85;0;0.037433;0;0.142857;0;29.85;17-9-2025;16-9-2025;;;Hypotheekacceptant;Hypotheekverzekeraar
+Projectmanager Installatietechniek Utiliteitsbouw;;Netherlands;Utrecht (provincie);Bunnik;148;4;0;0;0;0;0;0.027027;0;0;0;0;28-6-2025;25-6-2025;;;Hypotheekacceptant;Hypotheekverzekeraar
+Projectmanager Installatietechniek Utiliteitsbouw;;Netherlands;Utrecht (provincie);Bunnik;113;0;0;0;0;0;0;0;0;0;0;0;28-6-2025;25-6-2025;;;Hypotheekacceptant;Hypotheekverzekeraar
+Projectmanager Installatietechniek Utilliteitsbouw;;Netherlands;Noord-Holland;Schiphol;144;3;1;0;51.866.666.666.666.600;15.56;0;0.020833;0;0.333333;0;15.56;28-6-2025;25-6-2025;;;Hypotheekacceptant;Hypotheekverzekeraar
+Projectmanager Warmtenetten;;Netherlands;Zuid-Holland;Leiden;324;15;3;0;13.346.666.666.666.600;6.673.333.333.333.330;0;0.046296;0;0.2;0;20.02;22-5-2025;14-5-2025;;;Hypotheekacceptant;Hypotheekverzekeraar
+Projectorganisator Civiel \| Randstad;;Netherlands;Zuid-Holland;Gouda;96;1;0;0;0;0;0;0.010417;0;0;0;0;22-5-2025;15-5-2025;;;Hypotheekacceptant;Hypotheekverzekeraar
+Projectorganisator Civiel \| Randstad;;Netherlands;Zuid-Holland;Gouda;38;2;1;0;3.395;6.79;0;0.052632;0;0.5;0;6.79;23-5-2025;15-5-2025;;;Hypotheekacceptant bij Stater in Amersfoort;Hypotheekverzekeraar
+Regional Media & PR Strategy Lead;;Netherlands;Noord-Holland;Amsterdam;271;18;3;0;0.3955555555555555;2.373.333.333.333.330;0;0.066421;0;0.166667;0;7.119.999.999.999.990;4-6-2025;4-6-2025;;;Hypotheekacceptant Utrecht;Hypotheekverzekeraar
+Senior Operator Energiecentrale;;Netherlands;Zuid-Holland;Leiden;4;0;0;0;0;0;0;0;0;0;0;0;22-5-2025;15-5-2025;;;Junior Hypotheekacceptant;Hypotheekverzekeraar
+Senior Operator Energiecentrale;;Netherlands;Zuid-Holland;Den Haag;106;13;2;0;11.984.615.384.615.300;7.79;0;0.122642;0;0.153846;0;15.58;22-5-2025;16-5-2025;;;Junior Hypotheekacceptant;Hypotheekverzekeraar
+Senior Operator Energiecentrale;;Netherlands;Zuid-Holland;Leiden;118;14;1;0;0.8771428571428571;12.28;0;0.118644;0;0.071429;0;12.28;22-5-2025;16-5-2025;;;Junior Hypotheekacceptant Amersfoort;Hypotheekverzekeraar
+Senior Planvoorbereider Nieuwbouw;;Netherlands;Overijssel;Almelo;106;2;0;0;0;0;0;0.018868;0;0;0;0;24-10-2025;15-10-2025;;;Junior Hypotheekacceptant Amersfoort;Hypotheekverzekeraar
+Senior Project Engineer;;Netherlands;Zuid-Holland;Rotterdam;223;11;1;0;14.227.272.727.272.700;15.65;0;0.049327;0;0.090909;0;15.65;17-9-2025;17-9-2025;;;Junior Hypotheekacceptant Amersfoort;Hypotheekverzekeraar
+Senior Project Engineer;;Netherlands;Zuid-Holland;Rotterdam;90;4;1;0;60.525;24.21;0;0.044444;0;0.25;0;24.21;24-10-2025;17-10-2025;;;Junior Hypotheekacceptant Amersfoort;Hypotheekverzekeraar
+Senior Projectcoîrdinator Nieuwbouw;;Netherlands;Zuid-Holland;Vlaardingen;28;1;0;0;0;0;0;0.035714;0;0;0;0;14-9-2025;15-8-2025;;;Junior Hypotheekacceptant Amersfoort;Hypotheekverzekeraar
+Senior Projectcoîrdinator Nieuwbouw;;Netherlands;Zuid-Holland;Vlaardingen;105;4;0;0;0;0;0;0.038095;0;0;0;0;1-10-2025;19-9-2025;;;Junior Hypotheekacceptant Amersfoort;Hypotheekverzekeraar
+Senior Projectmanager;;Netherlands;Zuid-Holland;Rotterdam;24;4;2;0;67.525;13.505;0;0.166667;0;0.5;0;27.01;17-9-2025;15-9-2025;;;Junior Hypotheekacceptant Amersfoort;Hypotheekverzekeraar
+Senior Projectmanager;;Netherlands;Zuid-Holland;Rotterdam;73;7;0;0;0;0;0;0.09589;0;0;0;0;24-10-2025;15-10-2025;;;Junior Hypotheekacceptant Amersfoort;Hypotheekverzekeraar
+Senior Specialist Process Engineer;;Netherlands;Noord-Brabant;Boxmeer;372;34;2;0;0.43823529411764706;7.45;0;0.091398;0;0.058824;0;14.9;22-5-2025;19-5-2025;;;Junior Hypotheekacceptant Sittard;Hypotheekverzekeraar
+Service Engineer Software;;Netherlands;Gelderland;Doetinchem;184;11;2;0;12.554.545.454.545.400;6.905;0;0.059783;0;0.181818;0;13.81;19-6-2025;2-6-2025;;;Junior Hypotheekacceptant Sittard;Hypotheekverzekeraar
+Site Manager;;Netherlands;Zuid-Holland;;301;18;1;0;0.585;10.53;0;0.059801;0;0.055556;0;10.53;22-5-2025;21-5-2025;;;Junior Hypotheekacceptant Utrecht;Hypotheekverzekeraar
+Software Engineer;;Netherlands;Noord-Brabant;Eindhoven;473;45;2;0;0.5095555555555555;11.465;0;0.095137;0;0.044444;0;22.93;19-6-2025;17-6-2025;;;Junior Hypotheekacceptant Utrecht;Hypotheekverzekeraar
+Software Engineer - Procesautomatisering;;Netherlands;Drenthe;Wijster;173;11;0;0;0;0;0;0.063584;0;0;0;0;22-5-2025;13-5-2025;;;Traineeship Hypotheekacceptant Amersfoort;Hypotheekverzekeraar
+Software Engineer - Procesautomatisering;;Netherlands;Drenthe;Wijster;42;7;0;0;0;0;0;0.166667;0;0;0;0;29-5-2025;28-5-2025;;;Traineeship Hypotheekacceptant Amsterdam;Hypotheekverzekeraar
+Software Engineer - Procesautomatisering;;Netherlands;Drenthe;Wijster;67;6;1;0;0.42333333333333334;2.54;0;0.089552;0;0.166667;0;2.54;28-6-2025;25-6-2025;;;Traineeship Hypotheekacceptant Utrecht;Hypotheekverzekeraar
+Software PLC Engineer;;Netherlands;Noord-Brabant;Breda;328;27;1;0;0.2785185185185185;7.52;0;0.082317;0;0.037037;0;7.52;22-5-2025;21-5-2025;;;Support Engineer IT;ICT-ingenieur
+Software solutions engineer;;Netherlands;Overijssel;Hengelo OV;422;26;1;0;0.4761538461538462;12.38;0;0.061611;0;0.038462;0;12.38;11-6-2025;6-6-2025;;;Support Engineer IT;ICT-ingenieur
+Specialist Assetmanagement IT;;Netherlands;Zuid-Holland;Gouda;241;14;0;0;0;0;0;0.058091;0;0;0;0;18-6-2025;28-5-2025;;;Support Engineer IT;ICT-ingenieur
+Specialist Werktuigbouwkunde ME;;Netherlands;Utrecht (provincie);Utrecht;170;8;3;0;32.225;8.593.333.333.333.330;0;0.047059;0;0.375;0;25.78;22-5-2025;6-5-2025;;;ICT Support medewerker;ICT-medewerker
+Sr. Maintenance Engineer;;Netherlands;Noord-Brabant;Moerdijk;93;10;1;0;1.032;10.32;0;0.107527;0;0.1;0;10.32;22-5-2025;21-5-2025;;;ICT Support medewerker;ICT-medewerker
+Sr. Maintenance Engineer;;Netherlands;Noord-Brabant;Moerdijk;43;7;0;0;0;0;0;0.162791;0;0;0;0;20-6-2025;20-6-2025;;;ICT Support medewerker;ICT-medewerker
+Sr. Principal Software Architect;;Netherlands;Noord-Brabant;Eindhoven;258;15;2;0;0.4613333333333333;3.46;0;0.05814;0;0.133333;0;6.92;22-5-2025;21-5-2025;;;ICT Support medewerker;ICT-medewerker
+Sr. Werkvoorbereider E;;Netherlands;Noord-Holland;Amsterdam;84;3;0;0;0;0;0;0.035714;0;0;0;0;7-11-2025;8-10-2025;;;ICT Support medewerker;ICT-medewerker
+Supply Chain Planner;;Netherlands;Friesland;Heerenveen;119;21;5;0;3.582.857.142.857.140;15.048.000.000.000.000;0;0.176471;0;0.238095;0;7.524.000.000.000.000;24-10-2025;24-9-2025;;;ICT Support medewerker;ICT-medewerker
+Supply Network Planner;;Netherlands;Utrecht (provincie);Amersfoort;582;37;5;0;0.8786486486486486;6.502;0;0.063574;0;0.135135;0;32.51;29-5-2025;23-5-2025;;;ICT support medewerker;ICT-medewerker
+Supply Planner;;Netherlands;Utrecht (provincie);Amersfoort;520;38;2;0;0.10763157894736841;2.045;0;0.073077;0;0.052632;0;4.09;22-5-2025;14-5-2025;;;ICT support medewerker;ICT-medewerker
+Supply Planner;;Netherlands;Utrecht (provincie);Leerdam;437;42;1;0;0.24595238095238095;10.33;0;0.09611;0;0.02381;0;10.33;22-5-2025;16-5-2025;;;ICT support medewerker;ICT-medewerker
+Supply Planner;;Netherlands;Utrecht (provincie);Amersfoort;270;22;2;0;0.5245454545454545;57.700.000.000.000.000;0;0.081481;0;0.090909;0;11.540.000.000.000.000;19-6-2025;12-6-2025;;;ICT support medewerker;ICT-medewerker
+System Engineer Procesautomatisering;;Netherlands;Drenthe;Wijster;191;10;0;0;0;0;0;0.052356;0;0;0;0;22-5-2025;13-5-2025;;;IT Support Medewerker;ICT-medewerker
+System Engineer Procesautomatisering;;Netherlands;Drenthe;Wijster;25;3;1;0;28.176.666.666.666.600;84.53;0;0.12;0;0.333333;0;84.53;29-5-2025;28-5-2025;;;IT Support Medewerker;ICT-medewerker
+System Engineer Procesautomatisering;;Netherlands;Drenthe;Wijster;95;13;0;0;0;0;0;0.136842;0;0;0;0;19-6-2025;2-6-2025;;;IT Support Medewerker - Apeldoorn;ICT-medewerker
+System Engineer Procesautomatisering;;Netherlands;Drenthe;Wijster;97;10;0;0;0;0;0;0.103093;0;0;0;0;28-6-2025;25-6-2025;;;IT Support Medewerker - Apeldoorn;ICT-medewerker
+System Test Engineer;;Netherlands;;;963;80;7;0;0.25987499999999997;29.699.999.999.999.900;0;0.083074;0;0.0875;0;20.79;22-5-2025;9-5-2025;;;IT Support Medewerker - Apeldoorn;ICT-medewerker
+System Verification Engineer (Shipbuilding);;Netherlands;Zeeland;Vlissingen;388;23;1;0;0.5073913043478261;11.67;0;0.059278;0;0.043478;0;11.67;19-6-2025;2-6-2025;;;IT Support Medewerker - Apeldoorn;ICT-medewerker
+Teamlead logistics;;Netherlands;Zuid-Holland;;386;27;3;0;0.43962962962962965;3.956.666.666.666.660;0;0.069948;0;0.111111;0;11.870.000.000.000.000;22-5-2025;16-5-2025;;;IT Support Medewerker - Apeldoorn;ICT-medewerker
+Teamlead logistics;;Netherlands;Zuid-Holland;;255;22;1;0;0.07727272727272727;1.7;0;0.086275;0;0.045455;0;1.7;22-5-2025;16-5-2025;;;Junior ICT Support Medewerker;ICT-medewerker
+Technicus Elektrotechniek;;Netherlands;Zuid-Holland;Rotterdam;7;2;0;0;0;0;0;0.285714;0;0;0;0;1-10-2025;1-9-2025;;;Junior ICT Support Medewerker;ICT-medewerker
+Technicus Elektrotechniek;;Netherlands;Noord-Holland;Amsterdam;10;0;0;0;0;0;0;0;0;0;0;0;1-10-2025;1-9-2025;;;Junior ICT Support Medewerker;ICT-medewerker
+Technicus Elektrotechniek;;Netherlands;Zuid-Holland;Den Haag;3;0;0;0;0;0;0;0;0;0;0;0;1-10-2025;1-9-2025;;;Junior ICT Support Medewerker;ICT-medewerker
+Technicus Elektrotechniek;;Netherlands;Noord-Holland;Haarlem;51;7;1;0;14.985.714.285.714.200;10.49;0;0.137255;0;0.142857;0;10.49;24-10-2025;2-10-2025;;;Junior ICT Support Medewerker;ICT-medewerker
+Technicus Elektrotechniek;;Netherlands;Zuid-Holland;Rotterdam;60;7;2;0;37.142.857.142.857.100;13;0;0.116667;0;0.285714;0;26;24-10-2025;2-10-2025;;;Junior ICT Support Medewerker;ICT-medewerker
+Technicus Elektrotechniek;;Netherlands;Zuid-Holland;Leiden;48;7;0;0;0;0;0;0.145833;0;0;0;0;24-10-2025;2-10-2025;;;Medior ICT Support Medewerker;ICT-medewerker
+Technicus Elektrotechniek;;Netherlands;Zuid-Holland;Den Haag;40;5;1;0;25.780.000.000.000.000;12.89;0;0.125;0;0.2;0;12.89;24-10-2025;2-10-2025;;;Medior ICT Support Medewerker;ICT-medewerker
+Toezichthouder Elektrotechniek;;Netherlands;Utrecht (provincie);Amersfoort;128;7;1;0;0.2942857142857143;2.06;0;0.054688;0;0.142857;0;2.06;19-6-2025;13-6-2025;;;Medior ICT Support Medewerker;ICT-medewerker
+Toezichthouder Elektrotechniek;;Netherlands;Utrecht (provincie);Amersfoort;91;2;0;0;0;0;0;0.021978;0;0;0;0;17-9-2025;16-9-2025;;;ICT Support;ICT-ondersteuning
+Traineeship Werktuigkundige Energiecentrale;;Netherlands;Zuid-Holland;Leiden;207;8;0;0;0;0;0;0.038647;0;0;0;0;22-5-2025;25-4-2025;;;ICT Support;ICT-ondersteuning
+Traineeship Werktuigkundige Energiecentrale;;Netherlands;Zuid-Holland;Den Haag;221;19;1;0;0.5178947368421053;9.84;0;0.085973;0;0.052632;0;9.84;22-5-2025;6-5-2025;;;ICT Support;ICT-ondersteuning
+Uitvoerder;;Netherlands;Limburg;Venlo;99;5;0;0;0;0;0;0.050505;0;0;0;0;25-9-2025;26-8-2025;;;IT Support Multi Client Pool;ICT-ondersteuningsspecialist
+Uitvoerder Civiele Techniek;;Netherlands;Zuid-Holland;Delft;32;2;0;0;0;0;0;0.0625;0;0;0;0;19-6-2025;3-6-2025;;;IT Support Multi Client Pool;ICT-ondersteuningsspecialist
+Uitvoerder Civiele Techniek (senior);;Netherlands;Zuid-Holland;Delft;31;2;0;0;0;0;0;0.064516;0;0;0;0;19-6-2025;3-6-2025;;;IT Support Multi Client Pool;ICT-ondersteuningsspecialist
+Uitvoerder Elektrotechniek Utiliteitsbouw;;Netherlands;Utrecht (provincie);Bunnik;26;0;0;0;0;0;0;0;0;0;0;0;9-9-2025;9-9-2025;;;IT Support Multi Client Pool;ICT-ondersteuningsspecialist
+Uitvoerder Elektrotechniek Utiliteitsbouw;;Netherlands;;;822;10;1;0;0.45899999999999996;4.59;0;0.012165;0;0.1;0;4.59;9-9-2025;9-9-2025;;;IT Support Specialist;ICT-ondersteuningsspecialist
+Wekvoorbereider Maintenance \| civiel;;Netherlands;Zuid-Holland;Dordrecht;24;1;0;0;0;0;0;0.041667;0;0;0;0;29-5-2025;23-5-2025;;;Junior IT Support;ICT-ondersteuningsspecialist
+Wekvoorbereider Maintenance \| civiel - Junior;;Netherlands;;;1142;31;1;0;0.5187096774193548;16.08;0;0.027145;0;0.032258;0;16.08;29-5-2025;23-5-2025;;;Werkplekbeheer/IT Support;ICT-ondersteuningsspecialist
+Werktuigkundige;;Netherlands;Zuid-Holland;Den Haag;265;7;0;0;0;0;0;0.026415;0;0;0;0;22-5-2025;14-5-2025;;;Werkplekbeheer/IT Support;ICT-ondersteuningsspecialist
+Werktuigkundige;;Netherlands;Zuid-Holland;Leiden;212;7;0;0;0;0;0;0.033019;0;0;0;0;22-5-2025;14-5-2025;;;ICT Servicedesk;ICT-servicedesk
+Werktuigkundige;;Netherlands;Zuid-Holland;Rotterdam;254;4;0;0;0;0;0;0.015748;0;0;0;0;22-5-2025;14-5-2025;;;ICT Servicedesk;ICT-servicedesk
+Werktuigkundige Energiecentrale;;Netherlands;Zuid-Holland;Den Haag;140;7;1;0;18.785.714.285.714.200;13.15;0;0.05;0;0.142857;0;13.15;22-5-2025;30-4-2025;;;ICT Servicedesk Medewerker;ICT-servicedesk
+Werkvergunning Coîrdinator;;Netherlands;Noord-Brabant;Oss;1108;58;2;0;0.16620689655172416;4.82;0;0.052347;0;0.034483;0;9.64;2-6-2025;2-6-2025;;;ICT Servicedesk Medewerker;ICT-servicedesk
+Werkvoorbereider Beheer & Onderhoud;;Netherlands;Zuid-Holland;Gouda;106;7;1;0;14.314.285.714.285.700;10.02;0;0.066038;0;0.142857;0;10.02;22-5-2025;15-5-2025;;;ICT Servicedesk Medewerker;ICT-servicedesk
+Werkvoorbereider Beheer & Onderhoud \| Schiphol;;Netherlands;Zuid-Holland;Gouda;96;7;0;0;0;0;0;0.072917;0;0;0;0;22-5-2025;15-5-2025;;;ICT Servicedeskmedewerker;ICT-specialist
+Werkvoorbereider bestaande Bouw;;Netherlands;Overijssel;Almelo;51;3;0;0;0;0;0;0.058824;0;0;0;0;24-10-2025;15-10-2025;;;ICT Servicedeskmedewerker - Zwolle;ICT-specialist
+Werkvoorbereider Bouw;;Netherlands;Drenthe;Assen;105;7;0;0;0;0;0;0.066667;0;0;0;0;22-5-2025;15-5-2025;;;ICT Servicedeskmedewerker ? Zwolle;ICT-specialist
+Werkvoorbereider Bouw;;Netherlands;Flevoland;Emmeloord;11;0;0;0;0;0;0;0;0;0;0;0;22-5-2025;15-5-2025;;;IT - Medior Servicedesk Specialist;ICT-specialist
+Werkvoorbereider Bouw;;Netherlands;Flevoland;Lelystad;89;5;0;0;0;0;0;0.05618;0;0;0;0;22-5-2025;15-5-2025;;;IT - Servicedesk Specialist;ICT-specialist
+Werkvoorbereider Bouw;;Netherlands;Friesland;Heerenveen;9;0;0;0;0;0;0;0;0;0;0;0;22-5-2025;15-5-2025;;;IT - Servicedesk Specialist;ICT-specialist
+Werkvoorbereider Bouw;;Netherlands;Overijssel;Zwolle;200;7;0;0;0;0;0;0.035;0;0;0;0;22-5-2025;16-5-2025;;;IT - Servicedesk Specialist;ICT-specialist
+Werkvoorbereider Bouw;;Netherlands;Flevoland;Emmeloord;23;2;0;0;0;0;0;0.086957;0;0;0;0;30-5-2025;30-5-2025;;;IT - Servicedesk Specialist;ICT-specialist
+Werkvoorbereider Bouw;;Netherlands;Flevoland;Lelystad;26;1;0;0;0;0;0;0.038462;0;0;0;0;30-5-2025;30-5-2025;;;IT - Servicedesk Specialist;ICT-specialist
+Werkvoorbereider Bouw;;Netherlands;Overijssel;Enschede;87;6;0;0;0;0;0;0.068966;0;0;0;0;19-6-2025;2-6-2025;;;IT Servicedeskmedewerker;ICT-specialist
+Werkvoorbereider Bouw;;Netherlands;Groningen (provincie);Groningen;151;6;1;0;16.733.333.333.333.300;10.04;0;0.039735;0;0.166667;0;10.04;19-6-2025;2-6-2025;;;IT Servicedeskmedewerker;ICT-specialist
+Werkvoorbereider Bouw;;Netherlands;Friesland;Leeuwarden;101;6;1;0;16.383.333.333.333.300;9.83;0;0.059406;0;0.166667;0;9.83;19-6-2025;2-6-2025;;;IT Servicedeskmedewerker;ICT-specialist
+Werkvoorbereider Bouw;;Netherlands;Overijssel;Zwolle;111;4;0;0;0;0;0;0.036036;0;0;0;0;19-6-2025;2-6-2025;;;IT Servicedeskmedewerker;ICT-specialist
+Werkvoorbereider Bouw;;Netherlands;Friesland;Drachten;120;8;0;0;0;0;0;0.066667;0;0;0;0;19-6-2025;2-6-2025;;;IT Servicedeskmedewerker;ICT-specialist
+Werkvoorbereider Bouw;;Netherlands;Flevoland;Lelystad;89;1;0;0;0;0;0;0.011236;0;0;0;0;19-6-2025;2-6-2025;;;IT Servicedeskmedewerker;ICT-specialist
+Werkvoorbereider Bouw;;Netherlands;;;229;23;0;0;0;0;0;0.100437;0;0;0;0;17-9-2025;17-9-2025;;;IT Servicedeskmedewerker;ICT-specialist
+Werkvoorbereider Bouwkunde - Grote Projecten in de Randstad;;Netherlands;Utrecht (provincie);Bunnik;18;1;0;0;0;0;0;0.055556;0;0;0;0;17-9-2025;16-9-2025;;;IT Supportmedewerker;ICT-specialist
+Werkvoorbereider Civiel;;Netherlands;Drenthe;Assen;87;6;0;0;0;0;0;0.068966;0;0;0;0;22-5-2025;16-5-2025;;;IT Supportmedewerker;ICT-specialist
+Werkvoorbereider Civiel;;Netherlands;Groningen (provincie);Groningen;53;1;0;0;0;0;0;0.018868;0;0;0;0;19-6-2025;2-6-2025;;;IT Supportmedewerker;ICT-specialist
+Werkvoorbereider Civiel;;Netherlands;Friesland;Drachten;69;2;0;0;0;0;0;0.028986;0;0;0;0;19-6-2025;2-6-2025;;;IT Supportmedewerker;ICT-specialist
+Werkvoorbereider Civiel;;Netherlands;Friesland;Leeuwarden;70;5;0;0;0;0;0;0.071429;0;0;0;0;19-6-2025;2-6-2025;;;IT Supportmedewerker;ICT-specialist
+Werkvoorbereider Civiel;;Netherlands;Flevoland;Lelystad;28;2;0;0;0;0;0;0.071429;0;0;0;0;19-6-2025;2-6-2025;;;IT Supportmedewerker;ICT-specialist
+Werkvoorbereider Civiel;;Netherlands;Overijssel;Zwolle;26;0;0;0;0;0;0;0;0;0;0;0;19-6-2025;2-6-2025;;;IT Supportmedewerker;ICT-specialist
+Werkvoorbereider Civiele Betonbouw;;Netherlands;Zuid-Holland;Gouda;35;3;1;0;40.01;120.03;0;0.085714;0;0.333333;0;120.03;17-9-2025;16-9-2025;;;Junior Functioneel Beheerder;ICT-specialist
+Werkvoorbereider Civiele Techniek;;Netherlands;Utrecht (provincie);Bunnik;46;2;0;0;0;0;0;0.043478;0;0;0;0;22-5-2025;15-5-2025;;;Junior ICT Servicedeskmedewerker;ICT-specialist
+Werkvoorbereider E;;Netherlands;Zuid-Holland;Rotterdam;138;10;0;0;0;0;0;0.072464;0;0;0;0;24-9-2025;25-8-2025;;;Junior ICT Servicedeskmedewerker;ICT-specialist
+Werkvoorbereider E;;Netherlands;Zuid-Holland;Rotterdam;55;4;0;0;0;0;0;0.072727;0;0;0;0;24-10-2025;13-10-2025;;;Junior IT Servicedeskmedewerker;ICT-specialist
+Werkvoorbereider E&I;;Netherlands;Zuid-Holland;Schiedam;68;6;0;0;0;0;0;0.088235;0;0;0;0;22-5-2025;16-5-2025;;;Junior IT Servicedeskmedewerker;ICT-specialist
+Werkvoorbereider Elektrotechniek;;Netherlands;Utrecht (provincie);Bunnik;32;1;0;0;0;0;0;0.03125;0;0;0;0;9-9-2025;9-9-2025;;;Junior IT Servicedeskmedewerker;ICT-specialist
+Werkvoorbereider Elektrotechniek;;Netherlands;Utrecht (provincie);Bunnik;33;1;0;0;0;0;0;0.030303;0;0;0;0;17-9-2025;9-9-2025;;;Junior IT Servicedeskmedewerker;ICT-specialist
+Werkvoorbereider Energietechniek;;Netherlands;Zuid-Holland;Rotterdam;58;4;0;0;0;0;0;0.068966;0;0;0;0;8-8-2025;1-8-2025;;;Junior IT Servicedeskmedewerker;ICT-specialist
+Werkvoorbereider Energietechniek;;Netherlands;Zuid-Holland;Den Haag;48;3;0;0;0;0;0;0.0625;0;0;0;0;8-8-2025;1-8-2025;;;MCP IT Specialist;ICT-specialist
+Werkvoorbereider Energietechniek;;Netherlands;Noord-Holland;Amsterdam;60;3;0;0;0;0;0;0.05;0;0;0;0;8-8-2025;1-8-2025;;;MCP IT Specialist;ICT-specialist
+Werkvoorbereider Energietechniek;;Netherlands;Zuid-Holland;Den Haag;24;1;1;0;78.47;78.47;0;0.041667;0;1;0;78.47;1-10-2025;1-9-2025;;;Medior IT-Servicedesk Specialist;ICT-specialist
+Werkvoorbereider Energietechniek;;Netherlands;Zuid-Holland;Rotterdam;10;0;0;0;0;0;0;0;0;0;0;0;1-10-2025;1-9-2025;;;Medior IT-Servicedesk Specialist;ICT-specialist
+Werkvoorbereider Energietechniek;;Netherlands;Noord-Holland;Haarlem;7;1;0;0;0;0;0;0.142857;0;0;0;0;1-10-2025;1-9-2025;;;Medior IT-Servicedesk Specialist;ICT-specialist
+Werkvoorbereider Energietechniek;;Netherlands;Noord-Holland;Haarlem;4;0;0;0;0;0;0;0;0;0;0;0;1-10-2025;1-9-2025;;;ICT-systeembeheerder;ICT-systeembeheerder
+Werkvoorbereider Energietechniek;;Netherlands;Zuid-Holland;Den Haag;1;0;0;0;0;0;0;0;0;0;0;0;1-10-2025;1-9-2025;;;Informatie Adviseur;Informatie-adviseur
+Werkvoorbereider Energietechniek;;Netherlands;Zuid-Holland;Rotterdam;1;0;0;0;0;0;0;0;0;0;0;0;1-10-2025;1-9-2025;;;Informatie Adviseur;Informatie-adviseur
+Werkvoorbereider Energietechniek;;Netherlands;Zuid-Holland;Rotterdam;60;3;0;0;0;0;0;0.05;0;0;0;0;24-10-2025;2-10-2025;;;Informatie Adviseur;Informatie-adviseur
+Werkvoorbereider Energietechniek;;Netherlands;Zuid-Holland;Den Haag;39;3;0;0;0;0;0;0.076923;0;0;0;0;24-10-2025;2-10-2025;;;Informatiespecialist;Informatiespecialist
+Werkvoorbereider Energietechniek;;Netherlands;Noord-Holland;Haarlem;75;1;0;0;0;0;0;0.013333;0;0;0;0;24-10-2025;2-10-2025;;;Engineer Ondergrondse Infra;Infrastructuuringenieur
+Werkvoorbereider Energietechniek;;Netherlands;Zuid-Holland;Leiden;51;1;0;0;0;0;0;0.019608;0;0;0;0;24-10-2025;2-10-2025;;;Engineer Ondergrondse Infra;Infrastructuuringenieur
+Werkvoorbereider Energietechniek;;Netherlands;Utrecht (provincie);Utrecht;55;3;0;0;0;0;0;0.054545;0;0;0;0;24-10-2025;2-10-2025;;;High Voltage Engineer;Ingenieur
+Werkvoorbereider Energietechniek;;Netherlands;Zuid-Holland;Den Haag;63;2;0;0;0;0;0;0.031746;0;0;0;0;24-10-2025;2-10-2025;;;ILS Engineer;Ingenieur
+Werkvoorbereider Energietechniek;;Netherlands;Noord-Holland;Amsterdam;31;2;0;0;0;0;0;0.064516;0;0;0;0;24-10-2025;2-10-2025;;;Modern Workplace Engineer;Ingenieur
+Werkvoorbereider Energietechniek;;Netherlands;Noord-Holland;Amsterdam;66;3;1;0;11.686.666.666.666.600;35.06;0;0.045455;0;0.333333;0;35.06;24-10-2025;2-10-2025;;;OT Engineer;Ingenieur
+Werkvoorbereider Energietechniek;;Netherlands;Noord-Holland;Haarlem;86;1;0;0;0;0;0;0.011628;0;0;0;0;24-10-2025;2-10-2025;;;Rotating Engineer;Ingenieur
+Werkvoorbereider Energietechniek;;Netherlands;Utrecht (provincie);Utrecht;63;3;0;0;0;0;0;0.047619;0;0;0;0;24-10-2025;2-10-2025;;;Team Brunel Engineer;Ingenieur
+Werkvoorbereider Energietechniek;;Netherlands;Zuid-Holland;Rotterdam;68;3;0;0;0;0;0;0.044118;0;0;0;0;24-10-2025;2-10-2025;;;Analog IC Design Engineer;Ingenieur analoge ontwerpen
+Werkvoorbereider Energietechniek;;Netherlands;Zuid-Holland;Leiden;85;2;0;0;0;0;0;0.023529;0;0;0;0;24-10-2025;15-10-2025;;;Automation Engineer;Ingenieur automatisering
+Werkvoorbereider Energietechniek;;Netherlands;Zuid-Holland;Rotterdam;31;3;0;0;0;0;0;0.096774;0;0;0;0;24-10-2025;15-10-2025;;;Automation Engineer;Ingenieur automatisering
+Werkvoorbereider GWW;;Netherlands;Noord-Holland;Zaandam;88;4;0;0;0;0;0;0.045455;0;0;0;0;30-10-2025;30-9-2025;;;Automation Engineer;Ingenieur automatisering
+Werkvoorbereider Nieuwbouw;;Netherlands;Overijssel;Almelo;61;3;0;0;0;0;0;0.04918;0;0;0;0;24-10-2025;15-10-2025;;;Automation Engineer;Ingenieur automatisering
+Werkvoorbereider ondergrondse infra;;Netherlands;Flevoland;Almere;28;2;1;0;8.325;16.65;0;0.071429;0;0.5;0;16.65;19-6-2025;16-6-2025;;;Automation Engineer;Ingenieur automatisering
+Werkvoorbereider Stadswarmte;;Netherlands;Noord-Holland;Amsterdam;63;6;0;0;0;0;0;0.095238;0;0;0;0;22-5-2025;13-5-2025;;;Reliability Engineer;Ingenieur betrouwbaarheid
+Werkvoorbereider Stadswarmte;;Netherlands;Utrecht (provincie);Utrecht;46;3;1;0;5.413.333.333.333.330;16.24;0;0.065217;0;0.333333;0;16.24;22-5-2025;14-5-2025;;;Reliability Engineer;Ingenieur betrouwbaarheid
+Werkvoorbereider Stadswarmte;;Netherlands;Noord-Holland;Amsterdam;24;3;0;0;0;0;0;0.125;0;0;0;0;22-5-2025;14-5-2025;;;Reliability Engineer;Ingenieur betrouwbaarheid
+Werkvoorbereider WTB;;Netherlands;Utrecht (provincie);Bunnik;12;0;0;0;0;0;0;0;0;0;0;0;17-9-2025;17-9-2025;;;Reliability Engineer;Ingenieur betrouwbaarheid
+;;;;;;;;;;;;;;;;;;;;;Electrical Design Engineer;Ingenieur elektrisch ontwerp
+;;;;;;;;;;;;;;;;;;;;;Commissioning Engineer;Ingenieur inbedrijfstelling
+;;;;;;;;;;;;;;;;;;;;;Commissioning Engineer Data Centers ? Electrical;Ingenieur inbedrijfstelling
+;;;;;;;;;;;;;;;;;;;;;Instrumentation & Control Engineer;Ingenieur instrumentatiecontrolesystemen
+;;;;;;;;;;;;;;;;;;;;;Layout Engineer;Ingenieur lay-out
+;;;;;;;;;;;;;;;;;;;;;Supplier Quality Engineer;Ingenieur leverancierskwaliteit
+;;;;;;;;;;;;;;;;;;;;;NOC engineer;Ingenieur netwerkbeheercentrum
+;;;;;;;;;;;;;;;;;;;;;NOC engineer;Ingenieur netwerkbeheercentrum
+;;;;;;;;;;;;;;;;;;;;;NOC engineer;Ingenieur netwerkbeheercentrum
+;;;;;;;;;;;;;;;;;;;;;Category Procurement Manager Packaging;Inkoopmanager
+;;;;;;;;;;;;;;;;;;;;;Procurement Manager;Inkoopmanager
+;;;;;;;;;;;;;;;;;;;;;Procurement Manager;Inkoopmanager
+;;;;;;;;;;;;;;;;;;;;;International HR Manager   ;Internationaal HR Manager
+;;;;;;;;;;;;;;;;;;;;;International HR Manager   ;Internationaal HR Manager
+;;;;;;;;;;;;;;;;;;;;;IT-Recruiter;IT-recruiter
+;;;;;;;;;;;;;;;;;;;;;IT-Recruiter;IT-recruiter
+;;;;;;;;;;;;;;;;;;;;;IT-recruiter;IT-recruiter
+;;;;;;;;;;;;;;;;;;;;;Java Developer (Spring Boot);Java-ontwikkelaar
+;;;;;;;;;;;;;;;;;;;;;Junior Adviseur Subsidies Roermond;Junior adviseur
+;;;;;;;;;;;;;;;;;;;;;Junior Financieel Adviseur Planning & Control;Junior adviseur
+;;;;;;;;;;;;;;;;;;;;;Junior Financieel Adviseur Planning & Control;Junior adviseur
+;;;;;;;;;;;;;;;;;;;;;Junior Jurist Bestuursrecht;Junior advocaat
+;;;;;;;;;;;;;;;;;;;;;Junior Jurist Bestuursrecht;Junior advocaat
+;;;;;;;;;;;;;;;;;;;;;Junior Jurist Contractenrecht;Junior advocaat
+;;;;;;;;;;;;;;;;;;;;;Junior Jurist Contractenrecht;Junior advocaat
+;;;;;;;;;;;;;;;;;;;;;Junior Jurist Contractenrecht;Junior advocaat
+;;;;;;;;;;;;;;;;;;;;;Junior Jurist Contractenrecht;Junior advocaat
+;;;;;;;;;;;;;;;;;;;;;Junior Jurist Contractenrecht;Junior advocaat
+;;;;;;;;;;;;;;;;;;;;;Junior Jurist Contractenrecht;Junior advocaat
+;;;;;;;;;;;;;;;;;;;;;Junior Jurist Contractenrecht;Junior advocaat
+;;;;;;;;;;;;;;;;;;;;;Junior Jurist Contractenrecht;Junior advocaat
+;;;;;;;;;;;;;;;;;;;;;Junior Jurist Contractenrecht;Junior advocaat
+;;;;;;;;;;;;;;;;;;;;;Junior Jurist Contractenrecht;Junior advocaat
+;;;;;;;;;;;;;;;;;;;;;Junior Jurist Contractenrecht;Junior advocaat
+;;;;;;;;;;;;;;;;;;;;;Junior Jurist Contractenrecht;Junior advocaat
+;;;;;;;;;;;;;;;;;;;;;Junior Jurist Contractenrecht;Junior advocaat
+;;;;;;;;;;;;;;;;;;;;;Junior Jurist Contractenrecht;Junior advocaat
+;;;;;;;;;;;;;;;;;;;;;Junior Jurist Contractenrecht;Junior advocaat
+;;;;;;;;;;;;;;;;;;;;;Junior Jurist Contractenrecht;Junior advocaat
+;;;;;;;;;;;;;;;;;;;;;Junior jurist handhaving;Junior advocaat
+;;;;;;;;;;;;;;;;;;;;;Junior jurist handhaving;Junior advocaat
+;;;;;;;;;;;;;;;;;;;;;Junior jurist handhaving;Junior advocaat
+;;;;;;;;;;;;;;;;;;;;;Junior jurist handhaving;Junior advocaat
+;;;;;;;;;;;;;;;;;;;;;Junior jurist handhaving;Junior advocaat
+;;;;;;;;;;;;;;;;;;;;;junior jurist handhaving;Junior advocaat
+;;;;;;;;;;;;;;;;;;;;;Junior jurist handhaving;Junior advocaat
+;;;;;;;;;;;;;;;;;;;;;Junior jurist handhaving;Junior advocaat
+;;;;;;;;;;;;;;;;;;;;;Junior jurist handhaving;Junior advocaat
+;;;;;;;;;;;;;;;;;;;;;Junior Jurist Milieu;Junior advocaat
+;;;;;;;;;;;;;;;;;;;;;Junior Jurist Milieu;Junior advocaat
+;;;;;;;;;;;;;;;;;;;;;Junior Jurist Omgevingsrecht;Junior advocaat
+;;;;;;;;;;;;;;;;;;;;;Junior Jurist Omgevingsrecht;Junior advocaat
+;;;;;;;;;;;;;;;;;;;;;Junior Jurist RO;Junior advocaat
+;;;;;;;;;;;;;;;;;;;;;Junior Jurist RO;Junior advocaat
+;;;;;;;;;;;;;;;;;;;;;Junior Jurist RO;Junior advocaat
+;;;;;;;;;;;;;;;;;;;;;Junior Jurist Sociaal Domein;Junior advocaat
+;;;;;;;;;;;;;;;;;;;;;Junior Jurist Sociaal Domein;Junior advocaat
+;;;;;;;;;;;;;;;;;;;;;Junior Jurist Subsidierecht;Junior advocaat
+;;;;;;;;;;;;;;;;;;;;;Junior Jurist Subsidierecht;Junior advocaat
+;;;;;;;;;;;;;;;;;;;;;Junior Jurist Subsidierecht;Junior advocaat
+;;;;;;;;;;;;;;;;;;;;;Junior Jurist Subsidierecht;Junior advocaat
+;;;;;;;;;;;;;;;;;;;;;Junior Jurist Subsidierecht;Junior advocaat
+;;;;;;;;;;;;;;;;;;;;;Junior Jurist Subsidierecht;Junior advocaat
+;;;;;;;;;;;;;;;;;;;;;Junior Jurist Subsidierecht;Junior advocaat
+;;;;;;;;;;;;;;;;;;;;;Junior Jurist Vergunningen;Junior advocaat
+;;;;;;;;;;;;;;;;;;;;;Junior Jurist Vergunningen;Junior advocaat
+;;;;;;;;;;;;;;;;;;;;;Junior Jurist Woo bij de Rijksoverheid;Junior advocaat
+;;;;;;;;;;;;;;;;;;;;;Junior Jurist Woo bij de Rijksoverheid;Junior advocaat
+;;;;;;;;;;;;;;;;;;;;;Junior Jurist Woo bij de Rijksoverheid;Junior advocaat
+;;;;;;;;;;;;;;;;;;;;;Junior Jurist Woo bij de Rijksoverheid;Junior advocaat
+;;;;;;;;;;;;;;;;;;;;;Junior Jurist Woo bij de Rijksoverheid;Junior advocaat
+;;;;;;;;;;;;;;;;;;;;;Junior Jurist Woo bij de Rijksoverheid;Junior advocaat
+;;;;;;;;;;;;;;;;;;;;;Junior Jurist Woo bij de Rijksoverheid;Junior advocaat
+;;;;;;;;;;;;;;;;;;;;;Junior Jurist Woo bij de Rijksoverheid;Junior advocaat
+;;;;;;;;;;;;;;;;;;;;;Junior Jurist Woo bij de Rijksoverheid;Junior advocaat
+;;;;;;;;;;;;;;;;;;;;;Junior Jurist Woo bij de Rijksoverheid;Junior advocaat
+;;;;;;;;;;;;;;;;;;;;;Junior Jurist Woo bij de Rijksoverheid;Junior advocaat
+;;;;;;;;;;;;;;;;;;;;;Jurist Rechtsbijstand (Junior);Junior advocaat
+;;;;;;;;;;;;;;;;;;;;;Jurist Rechtsbijstand (Junior);Junior advocaat
+;;;;;;;;;;;;;;;;;;;;;Jurist Rechtsbijstand (Junior);Junior advocaat
+;;;;;;;;;;;;;;;;;;;;;WO Junior Jurist Omgevingsrecht;Junior advocaat
+;;;;;;;;;;;;;;;;;;;;;WO Junior Jurist Omgevingsrecht;Junior advocaat
+;;;;;;;;;;;;;;;;;;;;;Junior AML-Analist;Junior analist
+;;;;;;;;;;;;;;;;;;;;;Junior AML-Analist;Junior analist
+;;;;;;;;;;;;;;;;;;;;;Junior FEC Analist;Junior analist
+;;;;;;;;;;;;;;;;;;;;;Junior TM Analist;Junior analist
+;;;;;;;;;;;;;;;;;;;;;Junior TM Analist;Junior analist
+;;;;;;;;;;;;;;;;;;;;;Junior TM Analist;Junior analist
+;;;;;;;;;;;;;;;;;;;;;Junior TM Analist;Junior analist
+;;;;;;;;;;;;;;;;;;;;;Junior TM Analist;Junior analist
+;;;;;;;;;;;;;;;;;;;;;Junior Business Controller;Junior controller
+;;;;;;;;;;;;;;;;;;;;;Junior Project Controller - wo - Den Haag;Junior controller
+;;;;;;;;;;;;;;;;;;;;;Junior Financial Controller;Junior Financial Controller
+;;;;;;;;;;;;;;;;;;;;;Junior Financial Controller;Junior Financial Controller
+;;;;;;;;;;;;;;;;;;;;;Junior Financial Controller;Junior Financial Controller
+;;;;;;;;;;;;;;;;;;;;;Junior Financial Controller;Junior Financial Controller
+;;;;;;;;;;;;;;;;;;;;;Junior PLC Engineer - Maritiem / Industrie;Junior ingenieur
+;;;;;;;;;;;;;;;;;;;;;Junior Java Engineer;Junior Java-ontwikkelaar
+;;;;;;;;;;;;;;;;;;;;;Junior Netwerk Engineer;Junior Netwerk Engineer
+;;;;;;;;;;;;;;;;;;;;;Junior Netwerkbeheerder;Junior Netwerkbeheerder
+;;;;;;;;;;;;;;;;;;;;;Junior Netwerkbeheerder;Junior Netwerkbeheerder
+;;;;;;;;;;;;;;;;;;;;;Junior Netwerkbeheerder;Junior Netwerkbeheerder
+;;;;;;;;;;;;;;;;;;;;;Junior Power Platform Developer;Junior ontwikkelaar
+;;;;;;;;;;;;;;;;;;;;;Junior Bouwkundig Werkvoorbereider;Junior Planner
+;;;;;;;;;;;;;;;;;;;;;Junior Bouwkundig Werkvoorbereider;Junior Planner
+;;;;;;;;;;;;;;;;;;;;;Junior Werkvoorbereider bouwkunde;Junior Planner
+;;;;;;;;;;;;;;;;;;;;;Junior Werkvoorbereider bouwkunde;Junior Planner
+;;;;;;;;;;;;;;;;;;;;;Junior Werkvoorbereider Bouwkunde;Junior Planner
+;;;;;;;;;;;;;;;;;;;;;Junior Werkvoorbereider bouwkunde;Junior Planner
+;;;;;;;;;;;;;;;;;;;;;Junior Werkvoorbereider Bouwkunde;Junior Planner
+;;;;;;;;;;;;;;;;;;;;;Junior Werkvoorbereider Bouwkunde;Junior Planner
+;;;;;;;;;;;;;;;;;;;;;Junior Werkvoorbereider Civiele Techniek;Junior Planner
+;;;;;;;;;;;;;;;;;;;;;Junior Werkvoorbereider Civiele Techniek;Junior Planner
+;;;;;;;;;;;;;;;;;;;;;Junior Werkvoorbereider Civiele Techniek;Junior Planner
+;;;;;;;;;;;;;;;;;;;;;Junior Werkvoorbereider Civiele Techniek;Junior Planner
+;;;;;;;;;;;;;;;;;;;;;Junior Werkvoorbereider Civiele Techniek;Junior Planner
+;;;;;;;;;;;;;;;;;;;;;Werkvoorbereider Utiliteit Junior;Junior Planner
+;;;;;;;;;;;;;;;;;;;;;Werkvoorbereider Utiliteit Junior;Junior Planner
+;;;;;;;;;;;;;;;;;;;;;Werkvoorbereider Utiliteit Junior;Junior Planner
+;;;;;;;;;;;;;;;;;;;;;Junior Project Engineer Duurzame Energie;Junior Projectingenieur
+;;;;;;;;;;;;;;;;;;;;;Junior Project Engineer Duurzame Energie;Junior Projectingenieur
+;;;;;;;;;;;;;;;;;;;;;Junior Project Engineer Utiliteit elektrotechniek;Junior Projectingenieur
+;;;;;;;;;;;;;;;;;;;;;Junior Project Engineer Utiliteit elektrotechniek;Junior Projectingenieur
+;;;;;;;;;;;;;;;;;;;;;Junior Project Engineer Utiliteit elektrotechniek;Junior Projectingenieur
+;;;;;;;;;;;;;;;;;;;;;Junior Project Engineer Utiliteit elektrotechniek;Junior Projectingenieur
+;;;;;;;;;;;;;;;;;;;;;Junior Project Engineer Utiliteit elektrotechniek;Junior Projectingenieur
+;;;;;;;;;;;;;;;;;;;;;Junior Project Engineer Utiliteit Werktuigbouwkundig;Junior Projectingenieur
+;;;;;;;;;;;;;;;;;;;;;Junior Project Engineer Utiliteit Werktuigbouwkundig;Junior Projectingenieur
+;;;;;;;;;;;;;;;;;;;;;Junior Project Engineer Utiliteit Werktuigbouwkundig;Junior Projectingenieur
+;;;;;;;;;;;;;;;;;;;;;Junior Project Engineer Utiliteit Werktuigbouwkundig;Junior Projectingenieur
+;;;;;;;;;;;;;;;;;;;;;Junior Project Engineer Utiliteit Werktuigbouwkundig;Junior Projectingenieur
+;;;;;;;;;;;;;;;;;;;;;Junior Project Engineer Utiliteit Werktuigbouwkundig;Junior Projectingenieur
+;;;;;;;;;;;;;;;;;;;;;Junior Project Engineer Utiliteit Werktuigbouwkundig;Junior Projectingenieur
+;;;;;;;;;;;;;;;;;;;;;Junior Specialist Klantonboarding;Junior specialist
+;;;;;;;;;;;;;;;;;;;;;Junior Specialist Klantonboarding;Junior specialist
+;;;;;;;;;;;;;;;;;;;;;Junior systeembeheerder Linux;Junior systeembeheerder
+;;;;;;;;;;;;;;;;;;;;;Junior Jurist Bestuursrecht;Juridisch
+;;;;;;;;;;;;;;;;;;;;;Juridisch Vergunningverlener HBO;Juridisch
+;;;;;;;;;;;;;;;;;;;;;Juridisch Vergunningverlener HBO Junior;Juridisch
+;;;;;;;;;;;;;;;;;;;;;Juridisch Vergunningverlener WO;Juridisch
+;;;;;;;;;;;;;;;;;;;;;Juridisch Vergunningverlener WO Junior;Juridisch
+;;;;;;;;;;;;;;;;;;;;;Jurist APV & Bijzondere wetten;Juridisch
+;;;;;;;;;;;;;;;;;;;;;Jurist Rechtsbijstand (Senior);Juridisch
+;;;;;;;;;;;;;;;;;;;;;Jurist Vastgoed & Grondzaken ;Juridisch
+;;;;;;;;;;;;;;;;;;;;;Senior Juridisch Vergunningverlener HBO;Juridisch
+;;;;;;;;;;;;;;;;;;;;;Senior Privacy Jurist;Juridisch
+;;;;;;;;;;;;;;;;;;;;;Senior Privacy Jurist;Juridisch
+;;;;;;;;;;;;;;;;;;;;;Legal Counsel;Juridisch adviseur
+;;;;;;;;;;;;;;;;;;;;;Legal Counsel;Juridisch adviseur
+;;;;;;;;;;;;;;;;;;;;;Legal Counsel;Juridisch adviseur
+;;;;;;;;;;;;;;;;;;;;;Legal Counsel;Juridisch adviseur
+;;;;;;;;;;;;;;;;;;;;;Legal Counsel;Juridisch adviseur
+;;;;;;;;;;;;;;;;;;;;;Legal Counsel;Juridisch adviseur
+;;;;;;;;;;;;;;;;;;;;;Legal Counsel;Juridisch adviseur
+;;;;;;;;;;;;;;;;;;;;;Legal Counsel;Juridisch adviseur
+;;;;;;;;;;;;;;;;;;;;;Legal Counsel;Juridisch adviseur
+;;;;;;;;;;;;;;;;;;;;;Legal Counsel;Juridisch adviseur
+;;;;;;;;;;;;;;;;;;;;;Legal Counsel;Juridisch adviseur
+;;;;;;;;;;;;;;;;;;;;;Legal Counsel;Juridisch adviseur
+;;;;;;;;;;;;;;;;;;;;;Legal Counsel;Juridisch adviseur
+;;;;;;;;;;;;;;;;;;;;;Legal Counsel;Juridisch adviseur
+;;;;;;;;;;;;;;;;;;;;;Legal Counsel;Juridisch adviseur
+;;;;;;;;;;;;;;;;;;;;;Legal Counsel;Juridisch adviseur
+;;;;;;;;;;;;;;;;;;;;;Legal Counsel;Juridisch adviseur
+;;;;;;;;;;;;;;;;;;;;;Legal Counsel;Juridisch adviseur
+;;;;;;;;;;;;;;;;;;;;;Legal Counsel;Juridisch adviseur
+;;;;;;;;;;;;;;;;;;;;;Legal Counsel;Juridisch adviseur
+;;;;;;;;;;;;;;;;;;;;;Legal Counsel;Juridisch adviseur
+;;;;;;;;;;;;;;;;;;;;;Legal Counsel;Juridisch adviseur
+;;;;;;;;;;;;;;;;;;;;;Legal Counsel;Juridisch adviseur
+;;;;;;;;;;;;;;;;;;;;;Legal Counsel;Juridisch adviseur
+;;;;;;;;;;;;;;;;;;;;;Legal Counsel;Juridisch adviseur
+;;;;;;;;;;;;;;;;;;;;;Legal Counsel;Juridisch adviseur
+;;;;;;;;;;;;;;;;;;;;;Legal Counsel;Juridisch adviseur
+;;;;;;;;;;;;;;;;;;;;;Legal Counsel;Juridisch adviseur
+;;;;;;;;;;;;;;;;;;;;;Legal Counsel;Juridisch adviseur
+;;;;;;;;;;;;;;;;;;;;;Legal Counsel;Juridisch adviseur
+;;;;;;;;;;;;;;;;;;;;;Legal Counsel Energy;Juridisch adviseur
+;;;;;;;;;;;;;;;;;;;;;Sales Consultant Legal;Juridisch consulent
+;;;;;;;;;;;;;;;;;;;;;Sales Consultant Legal;Juridisch consulent
+;;;;;;;;;;;;;;;;;;;;;Sales Consultant Legal;Juridisch consulent
+;;;;;;;;;;;;;;;;;;;;;Sales Consultant Legal;Juridisch consulent
+;;;;;;;;;;;;;;;;;;;;;Sales Consultant Legal;Juridisch consulent
+;;;;;;;;;;;;;;;;;;;;;Junior Bezwaarjurist - Den Haag;Juridisch medewerker
+;;;;;;;;;;;;;;;;;;;;;Medior Bezwaarjurist - Utrecht;Juridisch medewerker
+;;;;;;;;;;;;;;;;;;;;;Senior Jurist Handhaving;Juridisch medewerker
+;;;;;;;;;;;;;;;;;;;;;Handhavingsjurist WO;Juridisch specialist
+;;;;;;;;;;;;;;;;;;;;;Jurist Handhaving;Juridisch specialist
+;;;;;;;;;;;;;;;;;;;;;Medior Bezwaarjurist - Den Haag;Juridisch specialist
+;;;;;;;;;;;;;;;;;;;;;Medior Bezwaarjurist - Den Haag;Juridisch specialist
+;;;;;;;;;;;;;;;;;;;;;Medior Bezwaarjurist - Utrecht;Juridisch specialist
+;;;;;;;;;;;;;;;;;;;;;Medior Bezwaarjurist - Utrecht;Juridisch specialist
+;;;;;;;;;;;;;;;;;;;;;Medior Bezwaarjurist - Utrecht;Juridisch specialist
+;;;;;;;;;;;;;;;;;;;;;Medior Bezwaarjurist - Utrecht;Juridisch specialist
+;;;;;;;;;;;;;;;;;;;;;Senior Bezwaarjurist;Juridisch specialist
+;;;;;;;;;;;;;;;;;;;;;Senior Bezwaarjurist;Juridisch specialist
+;;;;;;;;;;;;;;;;;;;;;Senior Bezwaarjurist - Den Haag;Juridisch specialist
+;;;;;;;;;;;;;;;;;;;;;Senior Bezwaarjurist - Utrecht;Juridisch specialist
+;;;;;;;;;;;;;;;;;;;;;Senior Bezwaarjurist - Utrecht;Juridisch specialist
+;;;;;;;;;;;;;;;;;;;;;Senior jurist handhaving;Juridisch specialist
+;;;;;;;;;;;;;;;;;;;;;Senior Jurist Omgevingsrecht;Juridisch specialist
+;;;;;;;;;;;;;;;;;;;;;Senior Privacy Jurist;Juridisch specialist
+;;;;;;;;;;;;;;;;;;;;;Senior Privacy Jurist;Juridisch specialist
+;;;;;;;;;;;;;;;;;;;;;Senior Privacy Jurist;Juridisch specialist
+;;;;;;;;;;;;;;;;;;;;;Klantcontactmedewerker - Verzekeringen & Pensioenen;Klantmedewerker
+;;;;;;;;;;;;;;;;;;;;;Klantcontactmedewerker - Verzekeringen & Pensioenen;Klantmedewerker
+;;;;;;;;;;;;;;;;;;;;;Klantcontactmedewerker - Verzekeringen & Pensioenen;Klantmedewerker
+;;;;;;;;;;;;;;;;;;;;;Klantcontactmedewerker - Verzekeringen & Pensioenen;Klantmedewerker
+;;;;;;;;;;;;;;;;;;;;;Klantcontactmedewerker - Verzekeringen & Pensioenen;Klantmedewerker
+;;;;;;;;;;;;;;;;;;;;;Klantcontactmedewerker - Verzekeringen & Pensioenen;Klantmedewerker
+;;;;;;;;;;;;;;;;;;;;;Klantcontactmedewerker - Verzekeringen & Pensioenen;Klantmedewerker
+;;;;;;;;;;;;;;;;;;;;;Multi Client Pool ICT Servicedeskmedewerker;Klantspecialist
+;;;;;;;;;;;;;;;;;;;;;Multi Client Pool ICT Servicedeskmedewerker;Klantspecialist
+;;;;;;;;;;;;;;;;;;;;;Multi Client Pool ICT Servicedeskmedewerker;Klantspecialist
+;;;;;;;;;;;;;;;;;;;;;Multi Client Pool ICT Servicedeskmedewerker;Klantspecialist
+;;;;;;;;;;;;;;;;;;;;;Calculator;Kostenschatter
+;;;;;;;;;;;;;;;;;;;;;Credit Risk Analist (NL);Kredietrisicoanalist
+;;;;;;;;;;;;;;;;;;;;;Credit Risk Analist (NL);Kredietrisicoanalist
+;;;;;;;;;;;;;;;;;;;;;Credit Risk Analist (NL);Kredietrisicoanalist
+;;;;;;;;;;;;;;;;;;;;;Site Quality Manager;Kwaliteitsmanager Locatie
+;;;;;;;;;;;;;;;;;;;;;Quality Specialist;Kwaliteitsspecialist
+;;;;;;;;;;;;;;;;;;;;;Quality Assurance Specialist;Kwaliteitszorg
+;;;;;;;;;;;;;;;;;;;;;Quantity Surveyor;Kwantiteitsbewaker
+;;;;;;;;;;;;;;;;;;;;;Learning & Development Specialist;Leer- en ontwikkelingsspecialist
+;;;;;;;;;;;;;;;;;;;;;Learning & Development Specialist;Leer- en ontwikkelingsspecialist
+;;;;;;;;;;;;;;;;;;;;;Learning & Development Specialist;Leer- en ontwikkelingsspecialist
+;;;;;;;;;;;;;;;;;;;;;Learning & Development Specialist;Leer- en ontwikkelingsspecialist
+;;;;;;;;;;;;;;;;;;;;;Pipeline Engineer;Leidingingenieur
+;;;;;;;;;;;;;;;;;;;;;Pipeline Engineer;Leidingingenieur
+;;;;;;;;;;;;;;;;;;;;;Pipeline Engineer;Leidingingenieur
+;;;;;;;;;;;;;;;;;;;;;Pipeline Engineer;Leidingingenieur
+;;;;;;;;;;;;;;;;;;;;;Pipeline Engineer;Leidingingenieur
+;;;;;;;;;;;;;;;;;;;;;Management Assistent;Managementassistent
+;;;;;;;;;;;;;;;;;;;;;Team Manager;Manager
+;;;;;;;;;;;;;;;;;;;;;Financial Risk Manager (NL);Manager financiâle risico's
+;;;;;;;;;;;;;;;;;;;;;Financial Risk Manager (NL);Manager financiâle risico's
+;;;;;;;;;;;;;;;;;;;;;Manager Juridische Zaken;Manager juridische zaken
+;;;;;;;;;;;;;;;;;;;;;Manager Juridische Zaken;Manager juridische zaken
+;;;;;;;;;;;;;;;;;;;;;Manager Juridische Zaken;Manager juridische zaken
+;;;;;;;;;;;;;;;;;;;;;Manager Juridische Zaken;Manager juridische zaken
+;;;;;;;;;;;;;;;;;;;;;Manager Juridische Zaken;Manager juridische zaken
+;;;;;;;;;;;;;;;;;;;;;Manager Juridische Zaken;Manager juridische zaken
+;;;;;;;;;;;;;;;;;;;;;Service Level Manager;Manager klantenservice
+;;;;;;;;;;;;;;;;;;;;;Global Marketing Communciation Manager Philips;Manager marketingcommunicatie
+;;;;;;;;;;;;;;;;;;;;;Procesmanager Amersfoort;Manager procestechniek
+;;;;;;;;;;;;;;;;;;;;;Procesmanager Utrecht;Manager procestechniek
+;;;;;;;;;;;;;;;;;;;;;Software Engineering Manager;Manager softwaretechniek
+;;;;;;;;;;;;;;;;;;;;;Senior Insights Manager;Manager statistische gegevens
+;;;;;;;;;;;;;;;;;;;;;Teammanager Engineering;Manager techniek
+;;;;;;;;;;;;;;;;;;;;;Naval Architect;Marinearchitect
+;;;;;;;;;;;;;;;;;;;;;Junior Werkvoorbereider Werktuigbouwkunde;Mechanisch Coîrdinator
+;;;;;;;;;;;;;;;;;;;;;Werkvoorbereider Werktuigbouwkunde - Schiphol;Mechanisch Coîrdinator
+;;;;;;;;;;;;;;;;;;;;;Medewerker Betaalachterstanden Amsterdam;Medewerker
+;;;;;;;;;;;;;;;;;;;;;Medewerker (Backoffice) Hypotheken;Medewerker hypotheken
+;;;;;;;;;;;;;;;;;;;;;Medewerker (Backoffice) Hypotheken bij Stater in Amersfoort;Medewerker hypotheken
+;;;;;;;;;;;;;;;;;;;;;Medewerker Hypotheken Bijzonder Beheer;Medewerker hypotheken
+;;;;;;;;;;;;;;;;;;;;;Operationeel medewerker Hypotheken;Medewerker hypotheken
+;;;;;;;;;;;;;;;;;;;;;Operationeel medewerker Hypotheken Amersfoort;Medewerker hypotheken
+;;;;;;;;;;;;;;;;;;;;;Information Security Officer;Medewerker informatiebeveiliging
+;;;;;;;;;;;;;;;;;;;;;Information Security Officer ( ISO);Medewerker informatiebeveiliging
+;;;;;;;;;;;;;;;;;;;;;Information Security Officer ( ISO);Medewerker informatiebeveiliging
+;;;;;;;;;;;;;;;;;;;;;Medewerker business support Inkoop JP1022;Medewerker inkoop
+;;;;;;;;;;;;;;;;;;;;;Medewerker business support Inkoop JP1022;Medewerker inkoop
+;;;;;;;;;;;;;;;;;;;;;Medewerker business support Inkoop JP1022;Medewerker inkoop
+;;;;;;;;;;;;;;;;;;;;;Medewerker business support Inkoop JP1022;Medewerker inkoop
+;;;;;;;;;;;;;;;;;;;;;QA Sales Officer;Medewerker kwaliteitszorg
+;;;;;;;;;;;;;;;;;;;;;Jurist Milieu;Milieudeskundige
+;;;;;;;;;;;;;;;;;;;;;Monteur Schadeherstel;Monteur
+;;;;;;;;;;;;;;;;;;;;;Monteur Schadeherstel;Monteur
+;;;;;;;;;;;;;;;;;;;;;Monteur Schadeherstel;Monteur
+;;;;;;;;;;;;;;;;;;;;;Medior Netwerk Engineer;Netwerkingenieur
+;;;;;;;;;;;;;;;;;;;;;Medior Netwerk Engineer;Netwerkingenieur
+;;;;;;;;;;;;;;;;;;;;;Netwerkbeheer;Netwerkingenieur
+;;;;;;;;;;;;;;;;;;;;;Traineeship Maintenance en Assetmanagement;Onderhoud
+;;;;;;;;;;;;;;;;;;;;;Traineeship Maintenance en Assetmanagement;Onderhoud
+;;;;;;;;;;;;;;;;;;;;;Traineeship Maintenance en Assetmanagement;Onderhoud
+;;;;;;;;;;;;;;;;;;;;;Onderhoudscoîrdinator;Onderhoudscoîrdinator
+;;;;;;;;;;;;;;;;;;;;;Onderhoudscoîrdinator;Onderhoudscoîrdinator
+;;;;;;;;;;;;;;;;;;;;;Maintenance Engineer;Onderhoudsingenieur
+;;;;;;;;;;;;;;;;;;;;;Maintenance Engineer;Onderhoudsingenieur
+;;;;;;;;;;;;;;;;;;;;;Maintenance Engineer;Onderhoudsingenieur
+;;;;;;;;;;;;;;;;;;;;;Maintenance Engineer;Onderhoudsingenieur
+;;;;;;;;;;;;;;;;;;;;;Maintenance Engineer;Onderhoudsingenieur
+;;;;;;;;;;;;;;;;;;;;;Maintenance Engineer;Onderhoudsingenieur
+;;;;;;;;;;;;;;;;;;;;;Maintenance Engineer;Onderhoudsingenieur
+;;;;;;;;;;;;;;;;;;;;;Maintenance Engineer;Onderhoudsingenieur
+;;;;;;;;;;;;;;;;;;;;;Maintenance Engineer;Onderhoudsingenieur
+;;;;;;;;;;;;;;;;;;;;;Maintenance Engineer;Onderhoudsingenieur
+;;;;;;;;;;;;;;;;;;;;;Maintenance Engineer;Onderhoudsingenieur
+;;;;;;;;;;;;;;;;;;;;;Maintenance Engineer;Onderhoudsingenieur
+;;;;;;;;;;;;;;;;;;;;;Maintenance Engineer;Onderhoudsingenieur
+;;;;;;;;;;;;;;;;;;;;;Maintenance Engineer;Onderhoudsingenieur
+;;;;;;;;;;;;;;;;;;;;;Maintenance Engineer;Onderhoudsingenieur
+;;;;;;;;;;;;;;;;;;;;;Maintenance Engineer;Onderhoudsingenieur
+;;;;;;;;;;;;;;;;;;;;;Maintenance Engineer;Onderhoudsingenieur
+;;;;;;;;;;;;;;;;;;;;;Maintenance Engineer;Onderhoudsingenieur
+;;;;;;;;;;;;;;;;;;;;;Maintenance Engineer;Onderhoudsingenieur
+;;;;;;;;;;;;;;;;;;;;;Maintenance Engineer;Onderhoudsingenieur
+;;;;;;;;;;;;;;;;;;;;;Maintenance Engineer;Onderhoudsingenieur
+;;;;;;;;;;;;;;;;;;;;;Maintenance Engineer;Onderhoudsingenieur
+;;;;;;;;;;;;;;;;;;;;;Maintenance Engineer;Onderhoudsingenieur
+;;;;;;;;;;;;;;;;;;;;;Maintenance Engineer;Onderhoudsingenieur
+;;;;;;;;;;;;;;;;;;;;;Maintenance Engineer;Onderhoudsingenieur
+;;;;;;;;;;;;;;;;;;;;;Maintenance Engineer;Onderhoudsingenieur
+;;;;;;;;;;;;;;;;;;;;;Maintenance Engineer;Onderhoudsingenieur
+;;;;;;;;;;;;;;;;;;;;;Maintenance Engineer;Onderhoudsingenieur
+;;;;;;;;;;;;;;;;;;;;;Maintenance Engineer Bouwkunde;Onderhoudsingenieur
+;;;;;;;;;;;;;;;;;;;;;Maintenance Engineer Elektrotechniek;Onderhoudsingenieur
+;;;;;;;;;;;;;;;;;;;;;Maintenance Engineer Elektrotechniek;Onderhoudsingenieur
+;;;;;;;;;;;;;;;;;;;;;Maintenance Engineer Elektrotechniek;Onderhoudsingenieur
+;;;;;;;;;;;;;;;;;;;;;Maintenance Engineer Elektrotechniek;Onderhoudsingenieur
+;;;;;;;;;;;;;;;;;;;;;Maintenance Engineer Elektrotechniek;Onderhoudsingenieur
+;;;;;;;;;;;;;;;;;;;;;Maintenance Engineer Elektrotechniek;Onderhoudsingenieur
+;;;;;;;;;;;;;;;;;;;;;Maintenance Engineer Elektrotechniek;Onderhoudsingenieur
+;;;;;;;;;;;;;;;;;;;;;Maintenance Engineer Elektrotechniek;Onderhoudsingenieur
+;;;;;;;;;;;;;;;;;;;;;Maintenance Engineer Elektrotechniek;Onderhoudsingenieur
+;;;;;;;;;;;;;;;;;;;;;Maintenance Engineer Elektrotechniek;Onderhoudsingenieur
+;;;;;;;;;;;;;;;;;;;;;Maintenance Engineer Elektrotechniek;Onderhoudsingenieur
+;;;;;;;;;;;;;;;;;;;;;Maintenance Engineer Elektrotechniek;Onderhoudsingenieur
+;;;;;;;;;;;;;;;;;;;;;Maintenance Engineer Elektrotechniek;Onderhoudsingenieur
+;;;;;;;;;;;;;;;;;;;;;Maintenance Engineer Elektrotechniek;Onderhoudsingenieur
+;;;;;;;;;;;;;;;;;;;;;Maintenance Engineer Elektrotechniek;Onderhoudsingenieur
+;;;;;;;;;;;;;;;;;;;;;Maintenance Engineer Elektrotechniek;Onderhoudsingenieur
+;;;;;;;;;;;;;;;;;;;;;Maintenance Engineer Elektrotechniek;Onderhoudsingenieur
+;;;;;;;;;;;;;;;;;;;;;Maintenance Engineer Mechanical;Onderhoudsingenieur
+;;;;;;;;;;;;;;;;;;;;;Maintenance Engineer Projecten MJOP;Onderhoudsingenieur
+;;;;;;;;;;;;;;;;;;;;;Maintenance Engineer Werktuigbouwkunde;Onderhoudsingenieur
+;;;;;;;;;;;;;;;;;;;;;Traineeship Maintenance Engineer;Onderhoudsingenieur
+;;;;;;;;;;;;;;;;;;;;;Maintenance Manager;Onderhoudsmanager
+;;;;;;;;;;;;;;;;;;;;;Maintenance Planner;Onderhoudsplanner
+;;;;;;;;;;;;;;;;;;;;;Onderhoudsplanner;Onderhoudsplanner
+;;;;;;;;;;;;;;;;;;;;;Werkvoorbereider Maintenance;Onderhoudsplanner
+;;;;;;;;;;;;;;;;;;;;;Maintenance Trainee;Onderhoudstechnicus
+;;;;;;;;;;;;;;;;;;;;;Medior ICT Support Medewerker;Ondersteuning
+;;;;;;;;;;;;;;;;;;;;;Werkplekbeheer en Support;Ondersteuning
+;;;;;;;;;;;;;;;;;;;;;Werkplekbeheer en Support;Ondersteuning
+;;;;;;;;;;;;;;;;;;;;;Werkplekbeheer en Support;Ondersteuning
+;;;;;;;;;;;;;;;;;;;;;Werkplekbeheer en Support;Ondersteuning
+;;;;;;;;;;;;;;;;;;;;;ICT Support Engineer;Ondersteuningstechnicus ICT
+;;;;;;;;;;;;;;;;;;;;;ICT Support Engineer;Ondersteuningstechnicus ICT
+;;;;;;;;;;;;;;;;;;;;;ICT Support Engineer;Ondersteuningstechnicus ICT
+;;;;;;;;;;;;;;;;;;;;;IT Support Engineer;Ondersteuningstechnicus ICT
+;;;;;;;;;;;;;;;;;;;;;IT Support Engineer;Ondersteuningstechnicus ICT
+;;;;;;;;;;;;;;;;;;;;;IT Support Engineer;Ondersteuningstechnicus ICT
+;;;;;;;;;;;;;;;;;;;;;Junior IT Support Engineer;Ondersteuningstechnicus ICT
+;;;;;;;;;;;;;;;;;;;;;Medior IT Support Engineer;Ondersteuningstechnicus ICT
+;;;;;;;;;;;;;;;;;;;;;Senior Online Marketeer;Online marketeer
+;;;;;;;;;;;;;;;;;;;;;SEA & online marketing specialist;Online marketing
+;;;;;;;;;;;;;;;;;;;;;Vision & Measurement Designer;Ontwerper
+;;;;;;;;;;;;;;;;;;;;;Power Platform Developer;Ontwikkelaar
+;;;;;;;;;;;;;;;;;;;;;Power Platform Developer;Ontwikkelaar
+;;;;;;;;;;;;;;;;;;;;;Commissioning Start Up Manager;Opdrachtmanager
+;;;;;;;;;;;;;;;;;;;;;OT Engineer;Operationeel ingenieur
+;;;;;;;;;;;;;;;;;;;;;Solution Architect;Oplossingenarchitect
+;;;;;;;;;;;;;;;;;;;;;Oracle Database Administrator;Oracle DBA
+;;;;;;;;;;;;;;;;;;;;;Oracle Database Administrator;Oracle DBA
+;;;;;;;;;;;;;;;;;;;;;Pensioenspecialist;Pensioenspecialist
+;;;;;;;;;;;;;;;;;;;;;Bouwkundig Werkvoorbereider;Planner
+;;;;;;;;;;;;;;;;;;;;;Bouwkundig Werkvoorbereider;Planner
+;;;;;;;;;;;;;;;;;;;;;Bouwkundig Werkvoorbereider;Planner
+;;;;;;;;;;;;;;;;;;;;;Bouwkundig Werkvoorbereider;Planner
+;;;;;;;;;;;;;;;;;;;;;Hypothecair planner;Planner
+;;;;;;;;;;;;;;;;;;;;;Medior Werkvoorbereider Bouwkunde;Planner
+;;;;;;;;;;;;;;;;;;;;;Medior Werkvoorbereider Bouwkunde;Planner
+;;;;;;;;;;;;;;;;;;;;;Medior Werkvoorbereider Bouwkunde;Planner
+;;;;;;;;;;;;;;;;;;;;;Medior Werkvoorbereider Bouwkunde;Planner
+;;;;;;;;;;;;;;;;;;;;;Medior Werkvoorbereider Bouwkunde;Planner
+;;;;;;;;;;;;;;;;;;;;;Medior Werkvoorbereider Civiele Techniek;Planner
+;;;;;;;;;;;;;;;;;;;;;Medior Werkvoorbereider Civiele Techniek;Planner
+;;;;;;;;;;;;;;;;;;;;;Medior Werkvoorbereider Civiele Techniek;Planner
+;;;;;;;;;;;;;;;;;;;;;Medior Werkvoorbereider Civiele Techniek;Planner
+;;;;;;;;;;;;;;;;;;;;;Medior Werkvoorbereider Civiele Techniek;Planner
+;;;;;;;;;;;;;;;;;;;;;Medior Werkvoorbereider Civiele Techniek;Planner
+;;;;;;;;;;;;;;;;;;;;;Planner;Planner
+;;;;;;;;;;;;;;;;;;;;;Planner/coîrdinator - IT;Planner
+;;;;;;;;;;;;;;;;;;;;;Planner/coîrdinator - IT;Planner
+;;;;;;;;;;;;;;;;;;;;;Werkvoorbereider;Planner
+;;;;;;;;;;;;;;;;;;;;;Werkvoorbereider;Planner
+;;;;;;;;;;;;;;;;;;;;;Werkvoorbereider / Technisch Klantadviseur ? Energie & Infra;Planner
+;;;;;;;;;;;;;;;;;;;;;Werkvoorbereider Civiel - overheid;Planner
+;;;;;;;;;;;;;;;;;;;;;Werkvoorbereider Elektrotechniek - Schiphol;Planner
+;;;;;;;;;;;;;;;;;;;;;Werkvoorbereider Procesindustrie;Planner
+;;;;;;;;;;;;;;;;;;;;;Werkvoorbereider scheepsbouw;Planner
+;;;;;;;;;;;;;;;;;;;;;Werkvoorbereider Utiliteit Medior;Planner
+;;;;;;;;;;;;;;;;;;;;;Werkvoorbereider Vattenfall;Planner
+;;;;;;;;;;;;;;;;;;;;;Medior Financieel Adviseur Planning & Control;Planningsbeheer
+;;;;;;;;;;;;;;;;;;;;;Medior Financieel Adviseur Planning & Control;Planningsbeheer
+;;;;;;;;;;;;;;;;;;;;;Juridisch Planoloog HBO;Planoloog
+;;;;;;;;;;;;;;;;;;;;;Juridisch Planoloog WO;Planoloog
+;;;;;;;;;;;;;;;;;;;;;Senior Juridisch Planoloog HBO;Planoloog
+;;;;;;;;;;;;;;;;;;;;;Senior Juridisch Planoloog WO;Planoloog
+;;;;;;;;;;;;;;;;;;;;;Junior Privacy Jurist;Privacy Advocaat
+;;;;;;;;;;;;;;;;;;;;;Junior Privacy Jurist;Privacy Advocaat
+;;;;;;;;;;;;;;;;;;;;;Junior Privacy Jurist;Privacy Advocaat
+;;;;;;;;;;;;;;;;;;;;;Junior Privacy Jurist Utrecht;Privacy Advocaat
+;;;;;;;;;;;;;;;;;;;;;Junior Privacy Jurist Utrecht;Privacy Advocaat
+;;;;;;;;;;;;;;;;;;;;;Medior Privacy Jurist;Privacy Advocaat
+;;;;;;;;;;;;;;;;;;;;;Medior Privacy Jurist;Privacy Advocaat
+;;;;;;;;;;;;;;;;;;;;;Medior Privacy Jurist;Privacy Advocaat
+;;;;;;;;;;;;;;;;;;;;;Medior Privacy Jurist Den Haag;Privacy Advocaat
+;;;;;;;;;;;;;;;;;;;;;Medior Privacy Jurist Utrecht;Privacy Advocaat
+;;;;;;;;;;;;;;;;;;;;;Medior Privacy Jurist Utrecht;Privacy Advocaat
+;;;;;;;;;;;;;;;;;;;;;Senior Privacy Jurist;Privacy Advocaat
+;;;;;;;;;;;;;;;;;;;;;Senior Privacy Jurist;Privacy Advocaat
+;;;;;;;;;;;;;;;;;;;;;Senior Privacy Jurist;Privacy Advocaat
+;;;;;;;;;;;;;;;;;;;;;Senior Privacy Jurist;Privacy Advocaat
+;;;;;;;;;;;;;;;;;;;;;Senior Privacy Jurist;Privacy Advocaat
+;;;;;;;;;;;;;;;;;;;;;Procesmanager Amersfoort;Procesmanager
+;;;;;;;;;;;;;;;;;;;;;Procesmanager Utrecht;Procesmanager
+;;;;;;;;;;;;;;;;;;;;;Offshore Process Operator;Procesoperator
+;;;;;;;;;;;;;;;;;;;;;Junior Processpecialist;Processpecialist
+;;;;;;;;;;;;;;;;;;;;;Procesinnovator;Processpecialist
+;;;;;;;;;;;;;;;;;;;;;Product Owner;Producteigenaar
+;;;;;;;;;;;;;;;;;;;;;Product Owner;Producteigenaar
+;;;;;;;;;;;;;;;;;;;;;Product Owner;Producteigenaar
+;;;;;;;;;;;;;;;;;;;;;Product Owner;Producteigenaar
+;;;;;;;;;;;;;;;;;;;;;Product Owner;Producteigenaar
+;;;;;;;;;;;;;;;;;;;;;Product Owner;Producteigenaar
+;;;;;;;;;;;;;;;;;;;;;Planner (Amersfoort / Borculo);Productieplanner
+;;;;;;;;;;;;;;;;;;;;;Productieplanner;Productieplanner
+;;;;;;;;;;;;;;;;;;;;;Senior Work Planner Production & Assembly;Productieplanner
+;;;;;;;;;;;;;;;;;;;;;Project/Programmamanager;Programmamanager
+;;;;;;;;;;;;;;;;;;;;;Junior Project Coîrdinator Installatietechniek;Projectcoîrdinator
+;;;;;;;;;;;;;;;;;;;;;Junior Project Coîrdinator Installatietechniek;Projectcoîrdinator
+;;;;;;;;;;;;;;;;;;;;;Junior Project Coîrdinator Installatietechniek;Projectcoîrdinator
+;;;;;;;;;;;;;;;;;;;;;Project coordinator;Projectcoîrdinator
+;;;;;;;;;;;;;;;;;;;;;Project coordinator;Projectcoîrdinator
+;;;;;;;;;;;;;;;;;;;;;Medior Project Engineer;Projectingenieur
+;;;;;;;;;;;;;;;;;;;;;Medior Project Engineer;Projectingenieur
+;;;;;;;;;;;;;;;;;;;;;Medior Project Engineer Duurzame Energie;Projectingenieur
+;;;;;;;;;;;;;;;;;;;;;Medior Project Engineer Duurzame Energie;Projectingenieur
+;;;;;;;;;;;;;;;;;;;;;Medior Project Engineer Duurzame Energie;Projectingenieur
+;;;;;;;;;;;;;;;;;;;;;Medior Project Engineer Energie opwek Elektrotechniek;Projectingenieur
+;;;;;;;;;;;;;;;;;;;;;Medior Project Engineer Energie opwek Elektrotechniek;Projectingenieur
+;;;;;;;;;;;;;;;;;;;;;Medior Project Engineer Energie opwek Elektrotechniek;Projectingenieur
+;;;;;;;;;;;;;;;;;;;;;Medior Project Engineer Energie opwek Werktuigbouwkunde;Projectingenieur
+;;;;;;;;;;;;;;;;;;;;;Medior Project Engineer Energie opwek Werktuigbouwkunde;Projectingenieur
+;;;;;;;;;;;;;;;;;;;;;Medior Project Engineer Energie opwek Werktuigbouwkunde;Projectingenieur
+;;;;;;;;;;;;;;;;;;;;;Medior Project Engineer Energie opwek Werktuigbouwkunde;Projectingenieur
+;;;;;;;;;;;;;;;;;;;;;Medior Project Engineer Installatietechniek;Projectingenieur
+;;;;;;;;;;;;;;;;;;;;;Medior Project Engineer Installatietechniek;Projectingenieur
+;;;;;;;;;;;;;;;;;;;;;Project Engineer;Projectingenieur
+;;;;;;;;;;;;;;;;;;;;;Project Engineer;Projectingenieur
+;;;;;;;;;;;;;;;;;;;;;Project Engineer;Projectingenieur
+;;;;;;;;;;;;;;;;;;;;;Project Engineer Duurzame Energie;Projectingenieur
+;;;;;;;;;;;;;;;;;;;;;Project Engineer Duurzame Energie;Projectingenieur
+;;;;;;;;;;;;;;;;;;;;;Project Engineer Duurzame Energie;Projectingenieur
+;;;;;;;;;;;;;;;;;;;;;Project Engineer Duurzame Energie;Projectingenieur
+;;;;;;;;;;;;;;;;;;;;;Project Engineer Duurzame Energie;Projectingenieur
+;;;;;;;;;;;;;;;;;;;;;Project Engineer Duurzame Energie;Projectingenieur
+;;;;;;;;;;;;;;;;;;;;;Project Engineer Energie opwek Elektrotechniek;Projectingenieur
+;;;;;;;;;;;;;;;;;;;;;Project Engineer Energie opwek Elektrotechniek;Projectingenieur
+;;;;;;;;;;;;;;;;;;;;;Project Engineer Energie opwek Elektrotechniek;Projectingenieur
+;;;;;;;;;;;;;;;;;;;;;Project Engineer Energie opwek Elektrotechniek;Projectingenieur
+;;;;;;;;;;;;;;;;;;;;;Project Engineer Energie opwek Mechanisch;Projectingenieur
+;;;;;;;;;;;;;;;;;;;;;Project Engineer Energie opwek Mechanisch;Projectingenieur
+;;;;;;;;;;;;;;;;;;;;;Project Engineer Energie opwek Mechanisch;Projectingenieur
+;;;;;;;;;;;;;;;;;;;;;Project Engineer Energie opwek Mechanisch;Projectingenieur
+;;;;;;;;;;;;;;;;;;;;;Project Engineer Energie opwek Mechanisch;Projectingenieur
+;;;;;;;;;;;;;;;;;;;;;Project Engineer Hoogspanning;Projectingenieur
+;;;;;;;;;;;;;;;;;;;;;Project Engineer HVAC;Projectingenieur
+;;;;;;;;;;;;;;;;;;;;;Senior Werkvoorbereider;Projectingenieur
+;;;;;;;;;;;;;;;;;;;;;Junior Projectleider Bouwmanagement;Projectleider
+;;;;;;;;;;;;;;;;;;;;;Junior Projectleider Verduurzaming;Projectleider
+;;;;;;;;;;;;;;;;;;;;;Projectleider;Projectleider
+;;;;;;;;;;;;;;;;;;;;;Projectleider;Projectleider
+;;;;;;;;;;;;;;;;;;;;;Projectleider;Projectleider
+;;;;;;;;;;;;;;;;;;;;;Projectleider Bouwkunde;Projectleider
+;;;;;;;;;;;;;;;;;;;;;Projectleider Bouwkunde;Projectleider
+;;;;;;;;;;;;;;;;;;;;;Projectleider Bouwkunde;Projectleider
+;;;;;;;;;;;;;;;;;;;;;Projectleider Bouwkunde;Projectleider
+;;;;;;;;;;;;;;;;;;;;;Projectleider Civiele Techniek;Projectleider
+;;;;;;;;;;;;;;;;;;;;;Projectleider Civiele Techniek;Projectleider
+;;;;;;;;;;;;;;;;;;;;;Projectleider Elektrotechniek;Projectleider
+;;;;;;;;;;;;;;;;;;;;;Projectleider Elektrotechniek;Projectleider
+;;;;;;;;;;;;;;;;;;;;;Projectleider Elektrotechniek;Projectleider
+;;;;;;;;;;;;;;;;;;;;;Projectleider Elektrotechniek;Projectleider
+;;;;;;;;;;;;;;;;;;;;;Projectleider Installatietechniek;Projectleider
+;;;;;;;;;;;;;;;;;;;;;Projectleider Installatietechniek;Projectleider
+;;;;;;;;;;;;;;;;;;;;;Projectleider IT;Projectleider
+;;;;;;;;;;;;;;;;;;;;;Projectleider IT;Projectleider
+;;;;;;;;;;;;;;;;;;;;;Projectleider IT;Projectleider
+;;;;;;;;;;;;;;;;;;;;;Projectleider Technisch Onderhoud;Projectleider
+;;;;;;;;;;;;;;;;;;;;;Asset Projectmanager;Projectmanager
+;;;;;;;;;;;;;;;;;;;;;Project Manager;Projectmanager
+;;;;;;;;;;;;;;;;;;;;;Project Manager;Projectmanager
+;;;;;;;;;;;;;;;;;;;;;Project Manager;Projectmanager
+;;;;;;;;;;;;;;;;;;;;;Project manager datacenter;Projectmanager
+;;;;;;;;;;;;;;;;;;;;;Project manager datacenter;Projectmanager
+;;;;;;;;;;;;;;;;;;;;;Project Manager Marketing;Projectmanager
+;;;;;;;;;;;;;;;;;;;;;Project Manager Ondersteuner;Projectmanager
+;;;;;;;;;;;;;;;;;;;;;Projectleider;Projectmanager
+;;;;;;;;;;;;;;;;;;;;;Projectmanager;Projectmanager
+;;;;;;;;;;;;;;;;;;;;;Projectmanager Tunnelventilatiesystemen;Projectmanager
+;;;;;;;;;;;;;;;;;;;;;Projectondersteuner;Projectmanager
+;;;;;;;;;;;;;;;;;;;;;Projectondersteuner;Projectmanager
+;;;;;;;;;;;;;;;;;;;;;Projectondersteuner;Projectmanager
+;;;;;;;;;;;;;;;;;;;;;Projectorganisator Bouwkunde;Projectmanager
+;;;;;;;;;;;;;;;;;;;;;Projectorganisator Bouwkunde;Projectmanager
+;;;;;;;;;;;;;;;;;;;;;Projectorganisator Bouwkunde;Projectmanager
+;;;;;;;;;;;;;;;;;;;;;Projectorganisator Bouwkunde;Projectmanager
+;;;;;;;;;;;;;;;;;;;;;Projectorganisator Bouwkunde;Projectmanager
+;;;;;;;;;;;;;;;;;;;;;Projectorganisator Bouwkunde;Projectmanager
+;;;;;;;;;;;;;;;;;;;;;Projectmanager bouw;Projectmanager bouw
+;;;;;;;;;;;;;;;;;;;;;Coîrdinator E&I;Projectmanager engineering
+;;;;;;;;;;;;;;;;;;;;;Project Planner;Projectplanner
+;;;;;;;;;;;;;;;;;;;;;Werkvoorbereider;Projectplanner
+;;;;;;;;;;;;;;;;;;;;;Werkvoorbereider Bouwkunde;Projectplanner
+;;;;;;;;;;;;;;;;;;;;;Werkvoorbereider Bouwkunde ? Regio Noord;Projectplanner
+;;;;;;;;;;;;;;;;;;;;;Projectleider Automatisering;Projectsupervisor
+;;;;;;;;;;;;;;;;;;;;;Recruiter;Recruiter
+;;;;;;;;;;;;;;;;;;;;;Recruitment Consultant;Recruitmentconsultant
+;;;;;;;;;;;;;;;;;;;;;Schadebehandelaar;Schadebehandelaar
+;;;;;;;;;;;;;;;;;;;;;Schadebehandelaar;Schadebehandelaar
+;;;;;;;;;;;;;;;;;;;;;Letselschadebehandelaar;Schade-expert
+;;;;;;;;;;;;;;;;;;;;;Letselschadebehandelaar;Schade-expert
+;;;;;;;;;;;;;;;;;;;;;Scrum Master;Scrummaster
+;;;;;;;;;;;;;;;;;;;;;Scrum Master;Scrummaster
+;;;;;;;;;;;;;;;;;;;;;Scrum Master;Scrummaster
+;;;;;;;;;;;;;;;;;;;;;Scrum Master;Scrummaster
+;;;;;;;;;;;;;;;;;;;;;Scrum Master;Scrummaster
+;;;;;;;;;;;;;;;;;;;;;Scrum Master;Scrummaster
+;;;;;;;;;;;;;;;;;;;;;Scrum Master;Scrummaster
+;;;;;;;;;;;;;;;;;;;;;Jurist Bezwaar & Beroep Senior WO;Senior Advocaat
+;;;;;;;;;;;;;;;;;;;;;Jurist Rechtsbijstand (senior);Senior Advocaat
+;;;;;;;;;;;;;;;;;;;;;Jurist Rechtsbijstand (senior);Senior Advocaat
+;;;;;;;;;;;;;;;;;;;;;Jurist Rechtsbijstand (senior);Senior Advocaat
+;;;;;;;;;;;;;;;;;;;;;Jurist Rechtsbijstand (senior);Senior Advocaat
+;;;;;;;;;;;;;;;;;;;;;Jurist Rechtsbijstand (Senior);Senior Advocaat
+;;;;;;;;;;;;;;;;;;;;;Jurist Rechtsbijstand (Senior);Senior Advocaat
+;;;;;;;;;;;;;;;;;;;;;Jurist Rechtsbijstand (Senior);Senior Advocaat
+;;;;;;;;;;;;;;;;;;;;;Jurist Rechtsbijstand (Senior);Senior Advocaat
+;;;;;;;;;;;;;;;;;;;;;Jurist Rechtsbijstand (senior);Senior Advocaat
+;;;;;;;;;;;;;;;;;;;;;Jurist Rechtsbijstand (Senior);Senior Advocaat
+;;;;;;;;;;;;;;;;;;;;;Senior Jurist Beroep;Senior Advocaat
+;;;;;;;;;;;;;;;;;;;;;Senior Jurist Beroep;Senior Advocaat
+;;;;;;;;;;;;;;;;;;;;;Senior Jurist Bestuursrecht;Senior Advocaat
+;;;;;;;;;;;;;;;;;;;;;Senior Jurist Bestuursrecht;Senior Advocaat
+;;;;;;;;;;;;;;;;;;;;;Senior Jurist Bezwaar Rijksoverheid;Senior Advocaat
+;;;;;;;;;;;;;;;;;;;;;Senior Jurist Bezwaar Rijksoverheid;Senior Advocaat
+;;;;;;;;;;;;;;;;;;;;;Senior Jurist Bezwaar Rijksoverheid;Senior Advocaat
+;;;;;;;;;;;;;;;;;;;;;Senior Jurist Contractenrecht;Senior Advocaat
+;;;;;;;;;;;;;;;;;;;;;Senior Jurist Contractenrecht;Senior Advocaat
+;;;;;;;;;;;;;;;;;;;;;Senior Jurist Contractenrecht;Senior Advocaat
+;;;;;;;;;;;;;;;;;;;;;Senior Jurist Contractenrecht;Senior Advocaat
+;;;;;;;;;;;;;;;;;;;;;Senior Jurist Contractenrecht;Senior Advocaat
+;;;;;;;;;;;;;;;;;;;;;Senior Jurist Contractenrecht;Senior Advocaat
+;;;;;;;;;;;;;;;;;;;;;Senior Jurist Contractenrecht;Senior Advocaat
+;;;;;;;;;;;;;;;;;;;;;Senior Jurist Contractenrecht;Senior Advocaat
+;;;;;;;;;;;;;;;;;;;;;Senior Jurist Contractenrecht;Senior Advocaat
+;;;;;;;;;;;;;;;;;;;;;Senior Jurist Contractenrecht;Senior Advocaat
+;;;;;;;;;;;;;;;;;;;;;Senior Jurist Contractenrecht;Senior Advocaat
+;;;;;;;;;;;;;;;;;;;;;Senior Jurist Contractenrecht;Senior Advocaat
+;;;;;;;;;;;;;;;;;;;;;Senior jurist handhaving;Senior Advocaat
+;;;;;;;;;;;;;;;;;;;;;Senior Jurist Milieu;Senior Advocaat
+;;;;;;;;;;;;;;;;;;;;;Senior Jurist Milieu;Senior Advocaat
+;;;;;;;;;;;;;;;;;;;;;Senior Jurist Omgevingsrecht;Senior Advocaat
+;;;;;;;;;;;;;;;;;;;;;Senior Jurist Omgevingsrecht;Senior Advocaat
+;;;;;;;;;;;;;;;;;;;;;Senior Jurist Omgevingsrecht;Senior Advocaat
+;;;;;;;;;;;;;;;;;;;;;Senior Jurist Omgevingsrecht;Senior Advocaat
+;;;;;;;;;;;;;;;;;;;;;Senior Jurist Omgevingsrecht;Senior Advocaat
+;;;;;;;;;;;;;;;;;;;;;Senior Jurist Omgevingsrecht;Senior Advocaat
+;;;;;;;;;;;;;;;;;;;;;Senior Jurist Omgevingsrecht;Senior Advocaat
+;;;;;;;;;;;;;;;;;;;;;Senior Jurist Ruimtelijke Ordening;Senior Advocaat
+;;;;;;;;;;;;;;;;;;;;;Senior Jurist Ruimtelijke Ordening;Senior Advocaat
+;;;;;;;;;;;;;;;;;;;;;Senior Jurist Ruimtelijke Ordening;Senior Advocaat
+;;;;;;;;;;;;;;;;;;;;;Senior Jurist Ruimtelijke Ordening;Senior Advocaat
+;;;;;;;;;;;;;;;;;;;;;Senior Jurist Ruimtelijke Ordening;Senior Advocaat
+;;;;;;;;;;;;;;;;;;;;;Senior Jurist Sociaal Domein;Senior Advocaat
+;;;;;;;;;;;;;;;;;;;;;Senior Jurist Vergunningen;Senior Advocaat
+;;;;;;;;;;;;;;;;;;;;;Senior Jurist Vergunningen;Senior Advocaat
+;;;;;;;;;;;;;;;;;;;;;Senior Jurist Wet open overheid;Senior Advocaat
+;;;;;;;;;;;;;;;;;;;;;Senior Jurist Wet open overheid;Senior Advocaat
+;;;;;;;;;;;;;;;;;;;;;Senior Jurist Wet open overheid;Senior Advocaat
+;;;;;;;;;;;;;;;;;;;;;Senior Jurist Wet open overheid;Senior Advocaat
+;;;;;;;;;;;;;;;;;;;;;Senior Jurist Wet open overheid;Senior Advocaat
+;;;;;;;;;;;;;;;;;;;;;Senior Jurist Wet open overheid;Senior Advocaat
+;;;;;;;;;;;;;;;;;;;;;Senior Jurist Woo - Rijksoverheid;Senior Advocaat
+;;;;;;;;;;;;;;;;;;;;;Senior Jurist Woo bij de Rijksoverheid;Senior Advocaat
+;;;;;;;;;;;;;;;;;;;;;Senior Jurist Woo bij de Rijksoverheid;Senior Advocaat
+;;;;;;;;;;;;;;;;;;;;;Senior Jurist Woo bij de Rijksoverheid;Senior Advocaat
+;;;;;;;;;;;;;;;;;;;;;Senior Jurist Woo bij de Rijksoverheid;Senior Advocaat
+;;;;;;;;;;;;;;;;;;;;;Senior Jurist Woo bij de Rijksoverheid;Senior Advocaat
+;;;;;;;;;;;;;;;;;;;;;Senior Jurist Woo bij de Rijksoverheid;Senior Advocaat
+;;;;;;;;;;;;;;;;;;;;;Senior Jurist Woo bij de Rijksoverheid;Senior Advocaat
+;;;;;;;;;;;;;;;;;;;;;Senior Jurist Woo bij de Rijksoverheid;Senior Advocaat
+;;;;;;;;;;;;;;;;;;;;;Senior Jurist Woo bij de Rijksoverheid;Senior Advocaat
+;;;;;;;;;;;;;;;;;;;;;Senior analist sancties;Senior analist
+;;;;;;;;;;;;;;;;;;;;;Senior analist sancties;Senior analist
+;;;;;;;;;;;;;;;;;;;;;Senior analist sancties;Senior analist
+;;;;;;;;;;;;;;;;;;;;;Senior Infrastructuur Automation Engineer;Senior automatiseringstechnicus
+;;;;;;;;;;;;;;;;;;;;;Senior Infrastructuur Automation Engineer;Senior automatiseringstechnicus
+;;;;;;;;;;;;;;;;;;;;;Senior Business Controller;Senior Bedrijfscontroller
+;;;;;;;;;;;;;;;;;;;;;Senior Business Controller;Senior Bedrijfscontroller
+;;;;;;;;;;;;;;;;;;;;;Senior Business Controller;Senior Bedrijfscontroller
+;;;;;;;;;;;;;;;;;;;;;Senior Energieconsultant;Senior Energieconsultant
+;;;;;;;;;;;;;;;;;;;;;Senior Energieconsultant;Senior Energieconsultant
+;;;;;;;;;;;;;;;;;;;;;Senior Energieconsultant;Senior Energieconsultant
+;;;;;;;;;;;;;;;;;;;;;Senior Energieconsultant;Senior Energieconsultant
+;;;;;;;;;;;;;;;;;;;;;Senior Financieel Adviseur Planning & Control;Senior financieel adviseur
+;;;;;;;;;;;;;;;;;;;;;Senior Financieel Adviseur Planning & Control;Senior financieel adviseur
+;;;;;;;;;;;;;;;;;;;;;Senior Financieel Adviseur Planning & Control;Senior financieel adviseur
+;;;;;;;;;;;;;;;;;;;;;Senior Financial Accountant;Senior financieel boekhouder
+;;;;;;;;;;;;;;;;;;;;;Senior Functioneel Beheerder;Senior Functioneel Manager
+;;;;;;;;;;;;;;;;;;;;;Senior Machine Learning Engineer;Senior Machine Learning Engineer
+;;;;;;;;;;;;;;;;;;;;;Senior Machine Learning Engineer;Senior Machine Learning Engineer
+;;;;;;;;;;;;;;;;;;;;;Senior Machine Learning Engineer;Senior Machine Learning Engineer
+;;;;;;;;;;;;;;;;;;;;;Senior Marketing Project Manager;Senior Marketing Project Manager
+;;;;;;;;;;;;;;;;;;;;;Senior Netwerk Engineer;Senior netwerkingenieur
+;;;;;;;;;;;;;;;;;;;;;Senior Support Engineer;Senior ondersteuningsingenieur
+;;;;;;;;;;;;;;;;;;;;;Senior Support Engineer;Senior ondersteuningsingenieur
+;;;;;;;;;;;;;;;;;;;;;Senior Support Engineer;Senior ondersteuningsingenieur
+;;;;;;;;;;;;;;;;;;;;;Senior Support Engineer;Senior ondersteuningsingenieur
+;;;;;;;;;;;;;;;;;;;;;Senior Support Engineer;Senior ondersteuningsingenieur
+;;;;;;;;;;;;;;;;;;;;;Senior Support Engineer;Senior ondersteuningsingenieur
+;;;;;;;;;;;;;;;;;;;;;Senior Support Engineer;Senior ondersteuningsingenieur
+;;;;;;;;;;;;;;;;;;;;;Senior Support Engineer;Senior ondersteuningsingenieur
+;;;;;;;;;;;;;;;;;;;;;Senior Project Controller;Senior Project Controller
+;;;;;;;;;;;;;;;;;;;;;Senior Project Controller;Senior Project Controller
+;;;;;;;;;;;;;;;;;;;;;Senior Project Engineer Offshore Energie;Senior projectingenieur
+;;;;;;;;;;;;;;;;;;;;;Senior Project Engineer Utiliteit Elektrotechniek;Senior projectingenieur
+;;;;;;;;;;;;;;;;;;;;;Senior Project Manager;Senior projectmanager
+;;;;;;;;;;;;;;;;;;;;;Senior Project Manager Offshore Wind;Senior projectmanager
+;;;;;;;;;;;;;;;;;;;;;Senior Project Manager Offshore Wind;Senior projectmanager
+;;;;;;;;;;;;;;;;;;;;;Senior Project Manager Offshore Wind;Senior projectmanager
+;;;;;;;;;;;;;;;;;;;;;Senior  SW Engineer On Board Diagnostics;Senior software-ingenieur
+;;;;;;;;;;;;;;;;;;;;;Senior Bezwaarjurist;Senior specialist
+;;;;;;;;;;;;;;;;;;;;;Senior Bezwaarjurist;Senior specialist
+;;;;;;;;;;;;;;;;;;;;;Senior Handhavingsjurist HBO;Senior specialist
+;;;;;;;;;;;;;;;;;;;;;Senior Handhavingsjurist WO;Senior specialist
+;;;;;;;;;;;;;;;;;;;;;Senior netwerkebeheerder;Senior specialist
+;;;;;;;;;;;;;;;;;;;;;Senior netwerkebeheerder;Senior specialist
+;;;;;;;;;;;;;;;;;;;;;Senior netwerkebeheerder;Senior specialist
+;;;;;;;;;;;;;;;;;;;;;Senior systeembeheerder Windows;Senior systeembeheerder
+;;;;;;;;;;;;;;;;;;;;;Senior systeembeheerder Windows;Senior systeembeheerder
+;;;;;;;;;;;;;;;;;;;;;Senior Hypotheek Acceptant Sittard;Senior verzekeraar
+;;;;;;;;;;;;;;;;;;;;;Senior Mechanical Engineer;Senior werktuigbouwkundige
+;;;;;;;;;;;;;;;;;;;;;Senior Naval Architect;Seniore Scheepsbouwkundige
+;;;;;;;;;;;;;;;;;;;;;ICT Servicedeskmedewerker;Servicedesk-specialist
+;;;;;;;;;;;;;;;;;;;;;Medior Servicedeskmedewerker;Servicedesk-specialist
+;;;;;;;;;;;;;;;;;;;;;Medior Servicedeskmedewerker;Servicedesk-specialist
+;;;;;;;;;;;;;;;;;;;;;Medior Servicedeskmedewerker;Servicedesk-specialist
+;;;;;;;;;;;;;;;;;;;;;Medior Servicedeskmedewerker;Servicedesk-specialist
+;;;;;;;;;;;;;;;;;;;;;Servicedesk Specialist IT;Servicedesk-specialist
+;;;;;;;;;;;;;;;;;;;;;Servicedesk Specialist IT;Servicedesk-specialist
+;;;;;;;;;;;;;;;;;;;;;Servicedesk Specialist IT;Servicedesk-specialist
+;;;;;;;;;;;;;;;;;;;;;Servicedeskmedewerker;Servicedesk-specialist
+;;;;;;;;;;;;;;;;;;;;;Servicedeskmedewerker;Servicedesk-specialist
+;;;;;;;;;;;;;;;;;;;;;Servicemanager IT;Servicemanager
+;;;;;;;;;;;;;;;;;;;;;Embedded Software Engineer;SET software-ingenieur
+;;;;;;;;;;;;;;;;;;;;;Embedded Software Engineer;SET software-ingenieur
+;;;;;;;;;;;;;;;;;;;;;Embedded Software Engineer;SET software-ingenieur
+;;;;;;;;;;;;;;;;;;;;;Embedded Software Engineer (automotive);SET software-ingenieur
+;;;;;;;;;;;;;;;;;;;;;SharePoint specialist;Sharepoint-specialist
+;;;;;;;;;;;;;;;;;;;;;DevOps Engineer PAAS Windows;Software-ingenieur
+;;;;;;;;;;;;;;;;;;;;;Junior Java Engineer;Software-ingenieur
+;;;;;;;;;;;;;;;;;;;;;Junior Java Engineer;Software-ingenieur
+;;;;;;;;;;;;;;;;;;;;;Modern Workplace Engineer;Software-ingenieur
+;;;;;;;;;;;;;;;;;;;;;Software Engineer Service (PLC);Software-ingenieur
+;;;;;;;;;;;;;;;;;;;;;Testanalist;Software-ingenieur
+;;;;;;;;;;;;;;;;;;;;;Bijzonder Beheer Specialist Amsterdam;Specialist
+;;;;;;;;;;;;;;;;;;;;;Bijzonder Beheer Specialist Utrecht;Specialist
+;;;;;;;;;;;;;;;;;;;;;Krediet Specialist Verduurzaming;Specialist
+;;;;;;;;;;;;;;;;;;;;;Krediet Specialist Verduurzaming;Specialist
+;;;;;;;;;;;;;;;;;;;;;SCCM Specialist;Specialist
+;;;;;;;;;;;;;;;;;;;;;SCCM/Intune Specialist;Specialist
+;;;;;;;;;;;;;;;;;;;;;Specialist Assetmanagement wo Utrecht;Specialist
+;;;;;;;;;;;;;;;;;;;;;Specialist Beheer Hypotheken Sittard;Specialist
+;;;;;;;;;;;;;;;;;;;;;Specialist Beheer Hypotheken Utrecht;Specialist
+;;;;;;;;;;;;;;;;;;;;;Specialist Bijzonder Beheer Amsterdam;Specialist
+;;;;;;;;;;;;;;;;;;;;;Specialist Bijzonder Beheer Diemen;Specialist
+;;;;;;;;;;;;;;;;;;;;;Specialist Bijzonder Beheer Utrecht;Specialist
+;;;;;;;;;;;;;;;;;;;;;Specialist Hypotheken Rotterdam;Specialist
+;;;;;;;;;;;;;;;;;;;;;Specialist Kredietbeoordeling Hilversum;Specialist
+;;;;;;;;;;;;;;;;;;;;;Specialist Kredietbeoordeling Utrecht;Specialist
+;;;;;;;;;;;;;;;;;;;;;Specialist Schuldhulp Diemen;Specialist
+;;;;;;;;;;;;;;;;;;;;;Specialist Schuldhulp Leeuwarden;Specialist
+;;;;;;;;;;;;;;;;;;;;;Specialist automatisering;Specialist automatisering
+;;;;;;;;;;;;;;;;;;;;;Specialist automatisering;Specialist automatisering
+;;;;;;;;;;;;;;;;;;;;;Specialist automatisering;Specialist automatisering
+;;;;;;;;;;;;;;;;;;;;;Specialist automatisering;Specialist automatisering
+;;;;;;;;;;;;;;;;;;;;;Specialist automatisering;Specialist automatisering
+;;;;;;;;;;;;;;;;;;;;;Specialist automatisering;Specialist automatisering
+;;;;;;;;;;;;;;;;;;;;;Specialist automatisering;Specialist automatisering
+;;;;;;;;;;;;;;;;;;;;;Specialist automatisering;Specialist automatisering
+;;;;;;;;;;;;;;;;;;;;;Specialist automatisering;Specialist automatisering
+;;;;;;;;;;;;;;;;;;;;;Specialist automatisering;Specialist automatisering
+;;;;;;;;;;;;;;;;;;;;;Specialist automatisering;Specialist automatisering
+;;;;;;;;;;;;;;;;;;;;;Specialist automatisering;Specialist automatisering
+;;;;;;;;;;;;;;;;;;;;;Specialist automatisering;Specialist automatisering
+;;;;;;;;;;;;;;;;;;;;;Specialist automatisering;Specialist automatisering
+;;;;;;;;;;;;;;;;;;;;;Senior KYC Specialist;Specialist in de bestrijding van witwassen
+;;;;;;;;;;;;;;;;;;;;;Junior Subsidiebeoordelaar;Specialist Publiek Beleid
+;;;;;;;;;;;;;;;;;;;;;Junior Subsidiebeoordelaar;Specialist Publiek Beleid
+;;;;;;;;;;;;;;;;;;;;;Junior Subsidiebeoordelaar;Specialist Publiek Beleid
+;;;;;;;;;;;;;;;;;;;;;Junior Subsidiebeoordelaar;Specialist Publiek Beleid
+;;;;;;;;;;;;;;;;;;;;;Junior Subsidiebeoordelaar;Specialist Publiek Beleid
+;;;;;;;;;;;;;;;;;;;;;Medior Subsidiebeoordelaar;Specialist Publiek Beleid
+;;;;;;;;;;;;;;;;;;;;;Teammanager Engineering;Specialist techniek
+;;;;;;;;;;;;;;;;;;;;;Traineeship Reliability Engineering;Specialist techniek
+;;;;;;;;;;;;;;;;;;;;;Specialist Beheer Woninghypotheken Sittard;Specialist woninghypotheken
+;;;;;;;;;;;;;;;;;;;;;Medior Adviseur Subsidies;Subsidiemedewerker
+;;;;;;;;;;;;;;;;;;;;;Subsidiemedewerker;Subsidiemedewerker
+;;;;;;;;;;;;;;;;;;;;;Subsidiemedewerker Roermond;Subsidiemedewerker
+;;;;;;;;;;;;;;;;;;;;;Subsidiemedewerker Roermond;Subsidiemedewerker
+;;;;;;;;;;;;;;;;;;;;;Subsidiemedewerker Utrecht;Subsidiemedewerker
+;;;;;;;;;;;;;;;;;;;;;Subsidiemedewerker Utrecht;Subsidiemedewerker
+;;;;;;;;;;;;;;;;;;;;;Order Fulfilment Officer;Supplychainmedewerker
+;;;;;;;;;;;;;;;;;;;;;Programma Management Ondersteuner;Supporter
+;;;;;;;;;;;;;;;;;;;;;Medior systeembeheerder Windows;Systeembeheerder
+;;;;;;;;;;;;;;;;;;;;;Systeembeheerder;Systeembeheerder
+;;;;;;;;;;;;;;;;;;;;;Systeembeheerder Windows;Systeembeheerder
+;;;;;;;;;;;;;;;;;;;;;Systeembeheerder Windows;Systeembeheerder
+;;;;;;;;;;;;;;;;;;;;;Electronics System Engineering Traineeship - Philips;Systeemingenieur
+;;;;;;;;;;;;;;;;;;;;;Systeem Engineer Maritiem;Systeemingenieur
+;;;;;;;;;;;;;;;;;;;;;Global Talent & Learning Manager;Talentmanager
+;;;;;;;;;;;;;;;;;;;;;Teamleider Onderhoud;Teamleider onderhoud
+;;;;;;;;;;;;;;;;;;;;;Teamleider Onderhoud;Teamleider onderhoud
+;;;;;;;;;;;;;;;;;;;;;Teamleider Operations;Teamleider operations
+;;;;;;;;;;;;;;;;;;;;;Windows Technisch Applicatiebeheerder;Technisch applicatiemanager
+;;;;;;;;;;;;;;;;;;;;;Windows Technisch Applicatiebeheerder;Technisch applicatiemanager
+;;;;;;;;;;;;;;;;;;;;;Technisch ontwikkelaar / Planvoorbereider;Technisch ontwikkelaar
+;;;;;;;;;;;;;;;;;;;;;Technical Project Manager;Technisch projectmanager
+;;;;;;;;;;;;;;;;;;;;;Technical Project Manager;Technisch projectmanager
+;;;;;;;;;;;;;;;;;;;;;Technisch Specialist Windmolens;Technisch specialist
+;;;;;;;;;;;;;;;;;;;;;Toezichthouder Veilig Graven;Technisch supervisor
+;;;;;;;;;;;;;;;;;;;;;Draftsman Engineer;Technisch tekenaar
+;;;;;;;;;;;;;;;;;;;;;Technisch Tekenaar;Technisch tekenaar
+;;;;;;;;;;;;;;;;;;;;;Technisch Tekenaar;Technisch tekenaar
+;;;;;;;;;;;;;;;;;;;;;Tendermanager;Tendermanager
+;;;;;;;;;;;;;;;;;;;;;Adviseur Subsidies;Toelagenconsulent
+;;;;;;;;;;;;;;;;;;;;;Adviseur Subsidies;Toelagenconsulent
+;;;;;;;;;;;;;;;;;;;;;Adviseur Subsidies;Toelagenconsulent
+;;;;;;;;;;;;;;;;;;;;;Adviseur Subsidies;Toelagenconsulent
+;;;;;;;;;;;;;;;;;;;;;Adviseur Subsidies;Toelagenconsulent
+;;;;;;;;;;;;;;;;;;;;;Adviseur Subsidies;Toelagenconsulent
+;;;;;;;;;;;;;;;;;;;;;Junior Adviseur Subsidies;Toelagenconsulent
+;;;;;;;;;;;;;;;;;;;;;Junior Adviseur Subsidies;Toelagenconsulent
+;;;;;;;;;;;;;;;;;;;;;Junior Adviseur Subsidies;Toelagenconsulent
+;;;;;;;;;;;;;;;;;;;;;Medior Adviseur Subsidies;Toelagenconsulent
+;;;;;;;;;;;;;;;;;;;;;Medior Adviseur Subsidies Den Haag;Toelagenconsulent
+;;;;;;;;;;;;;;;;;;;;;Medior Adviseur Subsidies Den Haag;Toelagenconsulent
+;;;;;;;;;;;;;;;;;;;;;Medior Adviseur Subsidies Zwolle;Toelagenconsulent
+;;;;;;;;;;;;;;;;;;;;;Medior Adviseur Subsidies Zwolle;Toelagenconsulent
+;;;;;;;;;;;;;;;;;;;;;Medior Adviseur Subsidies Zwolle;Toelagenconsulent
+;;;;;;;;;;;;;;;;;;;;;Traineeship Hypotheekacceptant Amersfoort;Trainee
+;;;;;;;;;;;;;;;;;;;;;Traineeship Hypotheekacceptant Amsterdam;Trainee
+;;;;;;;;;;;;;;;;;;;;;Traineeship Hypotheekacceptant Utrecht;Trainee
+;;;;;;;;;;;;;;;;;;;;;Traineeship Hypotheekacceptatie;Trainee
+;;;;;;;;;;;;;;;;;;;;;Traineeship Hypotheekacceptatie;Trainee
+;;;;;;;;;;;;;;;;;;;;;Traineeship OT & Industriâle Automatisering;Trainee
+;;;;;;;;;;;;;;;;;;;;;Traineeship OT & Industriâle Automatisering;Trainee
+;;;;;;;;;;;;;;;;;;;;;Traineeship subsidies;Trainee
+;;;;;;;;;;;;;;;;;;;;;Traineeship Technische Bedrijfskunde;Trainee
+;;;;;;;;;;;;;;;;;;;;;Transactie Monitoring Analist;Transactie-analist
+;;;;;;;;;;;;;;;;;;;;;Transactie Monitoring Analist;Transactie-analist
+;;;;;;;;;;;;;;;;;;;;;Transactie Monitoring Analist;Transactie-analist
+;;;;;;;;;;;;;;;;;;;;;Transactie Monitoring Analist;Transactie-analist
+;;;;;;;;;;;;;;;;;;;;;Transactie Monitoring Analist;Transactie-analist
+;;;;;;;;;;;;;;;;;;;;;Junior TM Analist;Transactiespecialist
+;;;;;;;;;;;;;;;;;;;;;Acceptant Duurzaamheidskredieten;Underwriter
+;;;;;;;;;;;;;;;;;;;;;Acceptant Duurzaamheidskredieten;Underwriter
+;;;;;;;;;;;;;;;;;;;;;Acceptant Verduurzaming Hilversum;Underwriter
+;;;;;;;;;;;;;;;;;;;;;Acceptant Woninghypotheken;Underwriter
+;;;;;;;;;;;;;;;;;;;;;Acceptant Woninghypotheken;Underwriter
+;;;;;;;;;;;;;;;;;;;;;Acceptant Woninghypotheken;Underwriter
+;;;;;;;;;;;;;;;;;;;;;Acceptant Woninghypotheken;Underwriter
+;;;;;;;;;;;;;;;;;;;;;Acceptant Woninghypotheken;Underwriter
+;;;;;;;;;;;;;;;;;;;;;Acceptant Woninghypotheken;Underwriter
+;;;;;;;;;;;;;;;;;;;;;Acceptant Woninghypotheken;Underwriter
+;;;;;;;;;;;;;;;;;;;;;Acceptant Woninghypotheken;Underwriter
+;;;;;;;;;;;;;;;;;;;;;Krediet Acceptant Utrecht;Underwriter
+;;;;;;;;;;;;;;;;;;;;;Krediet Acceptant Utrecht;Underwriter
+;;;;;;;;;;;;;;;;;;;;;Zakelijke Hypotheek Acceptant;Underwriter
+;;;;;;;;;;;;;;;;;;;;;Interim UX designer;User Experience-designer
+;;;;;;;;;;;;;;;;;;;;;UX Designer;User Experience-designer
+;;;;;;;;;;;;;;;;;;;;;Change en Releasemanager;Verander- en releasemanager
+;;;;;;;;;;;;;;;;;;;;;Marketing & Sales Support Specialist;Verkoop- en marketingspecialist
+;;;;;;;;;;;;;;;;;;;;;Sales Consultant Compliance;Verkoopconsultant
+;;;;;;;;;;;;;;;;;;;;;Verzekeringsspecialist;Verzekeringsspecialist
+;;;;;;;;;;;;;;;;;;;;;Verzekeringsspecialist;Verzekeringsspecialist
+;;;;;;;;;;;;;;;;;;;;;Verzekeringsspecialist;Verzekeringsspecialist
+;;;;;;;;;;;;;;;;;;;;;Acceptant Verzekeringen;Verzekeringsunderwriter
+;;;;;;;;;;;;;;;;;;;;;Visual designer;Visueel ontwerper
+;;;;;;;;;;;;;;;;;;;;;IT Werkplekbeheerder;Werkplekmanager
+;;;;;;;;;;;;;;;;;;;;;IT Werkplekbeheerder;Werkplekmanager
+;;;;;;;;;;;;;;;;;;;;;IT Werkplekbeheerder;Werkplekmanager
+;;;;;;;;;;;;;;;;;;;;;IT Werkplekbeheerder;Werkplekmanager
+;;;;;;;;;;;;;;;;;;;;;IT Werkplekbeheerder;Werkplekmanager
+;;;;;;;;;;;;;;;;;;;;;Werkplekbeheerder;Werkplekmanager
+;;;;;;;;;;;;;;;;;;;;;Werkplekbeheerder;Werkplekmanager
+;;;;;;;;;;;;;;;;;;;;;Werkplekbeheerder;Werkplekmanager
+;;;;;;;;;;;;;;;;;;;;;Werkplekbeheerder;Werkplekmanager
+;;;;;;;;;;;;;;;;;;;;;Werkplekbeheerder;Werkplekmanager
+;;;;;;;;;;;;;;;;;;;;;Werkplekbeheerder;Werkplekmanager
+;;;;;;;;;;;;;;;;;;;;;Werkplekbeheerder;Werkplekmanager
+;;;;;;;;;;;;;;;;;;;;;Werkplekbeheerder;Werkplekmanager
+;;;;;;;;;;;;;;;;;;;;;Mechanical Design Engineer;Werktuigbouwkundig ingenieur
+;;;;;;;;;;;;;;;;;;;;;Assetmanagement Water Utrecht;Werktuigbouwkundige
+;;;;;;;;;;;;;;;;;;;;;Mechanical Engineer;Werktuigbouwkundige
+;;;;;;;;;;;;;;;;;;;;;Mechanical Engineer;Werktuigbouwkundige
+;;;;;;;;;;;;;;;;;;;;;Mechanical Engineer (Automotive);Werktuigbouwkundige
+;;;;;;;;;;;;;;;;;;;;;Mechanical Enigineer;Werktuigbouwkundige
+;;;;;;;;;;;;;;;;;;;;;Mechanical Enigineer;Werktuigbouwkundige
+;;;;;;;;;;;;;;;;;;;;;Medior Project Engineer Energie opwek Werktuigbouwkunde;Werktuigbouwkundige
+;;;;;;;;;;;;;;;;;;;;;Medior Project Engineer Energie opwek Werktuigbouwkunde;Werktuigbouwkundige
+;;;;;;;;;;;;;;;;;;;;;Project Engineer Energie opwek Mechanisch;Werktuigbouwkundige
+;;;;;;;;;;;;;;;;;;;;;Project Engineer Energie opwek Mechanisch;Werktuigbouwkundige
+;;;;;;;;;;;;;;;;;;;;;Project Engineer Energie opwek Mechanisch;Werktuigbouwkundige
+;;;;;;;;;;;;;;;;;;;;;Werktuigbouwkundige;Werktuigbouwkundige
+;;;;;;;;;;;;;;;;;;;;;Windows 11 werkplek specials (migratie);Windows-specialist
+;;;;;;;;;;;;;;;;;;;;;Windows 11 werkplek specials (migratie);Windows-specialist
